@@ -11,10 +11,21 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "kanban",
+              "state": {
+                "file": "00 - Maps of Content/Homepage.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Homepage"
             }
           }
         ]
@@ -190,30 +201,33 @@
     "hiddenItems": {
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
-      "fit:Sync to GitHub": false,
       "homepage:Open homepage": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "bases:Create new base": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "fit:Sync to GitHub": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "99 - Meta/scripts/hard-line-breaks.js",
-    "99 - Meta/scripts/fix-blockquotes.js",
-    "99 - Meta/scripts/custom-remove-yaml.js",
-    "99 - Meta/scripts/custom-links.js",
-    "99 - Meta/scripts",
+    "_fit/99 - Meta/scripts/custom-links.js",
+    "_fit/99 - Meta/scripts/custom-remove-yaml.js",
+    "_fit/99 - Meta/scripts/fix-blockquotes.js",
+    "_fit/99 - Meta/scripts/hard-line-breaks.js",
+    "_fit/99 - Meta/templates/(TEMPLATE) Novel Formatting.md",
+    "_fit/99 - Meta/scripts",
+    "_fit/99 - Meta/templates",
+    "_fit/06 - Archives",
+    "_fit/05 - Research",
+    "_fit/04 - Plot",
+    "_fit/03 - Worldbuilding",
+    "_fit/02 - Characters",
+    "00 - Maps of Content/Homepage.md",
+    "00 - Maps of Content/Homepage.md",
     "99 - Meta/templates/(TEMPLATE) Novel Formatting.md",
-    "Welcome.md",
-    "99 - Meta/templates",
-    "99 - Meta/attachments",
-    "99 - Meta",
-    "06 - Archives",
-    "05 - Research",
-    "04 - Plot"
+    "Welcome.md"
   ]
 }

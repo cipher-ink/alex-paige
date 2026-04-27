@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "LiHome",
+      "LiLayoutGrid",
+      "LiArchive",
+      "LiBrain",
+      "LiEggFried"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -27,5 +33,14 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "00 - Maps of Content": "LiTableOfContents",
+  "01 - Writing": "LiPenTool",
+  "02 - Characters": "LiUsers",
+  "03 - Worldbuilding": "LiGlobe2",
+  "04 - Plot": "LiEggFried",
+  "05 - Research": "LiBrain",
+  "06 - Archives": "LiArchive",
+  "99 - Meta": "LiLayoutGrid",
+  "00 - Maps of Content/Homepage.md": "LiHome"
 }
