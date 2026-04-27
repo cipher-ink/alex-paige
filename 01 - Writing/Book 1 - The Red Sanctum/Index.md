@@ -3,6 +3,7 @@ longform:
   format: scenes
   title: Book 1 - The Red Sanctum
   sceneFolder: /
-  scenes: []
+  scenes:
+    - I Destroy the Museum of Natural History
   ignoredFiles: []
 ---
