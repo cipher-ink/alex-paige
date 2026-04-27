@@ -1,7 +1,8 @@
 {
   "showInlineTitle": false,
   "promptDelete": false,
-  "newFileLocation": "folder",
+  "newFileLocation": "root",
   "newFileFolderPath": "99 - Meta/attatchments",
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "attachmentFolderPath": "./99 - Meta/attatchments"
 }

@@ -42,8 +42,16 @@ longform:
       - Scene 7.3
     - I Go Back to Class
     - - Scene 8.1
-      - - Scene 8.1.1
+      - - Scene 8.1 (Revised)
       - Scene 8.2
   sceneTemplate: 99 - Meta/templates/(TEMPLATE) Novel Formatting.md
   ignoredFiles: []
 ---
+[[I Destroy the Museum of Natural History]]
+[[I Learn My Life Isn't My Own]]
+[[I Meet a Nice Stick Lady]]
+[[I Don't Want To Go]]
+[[I Face the Truth]]
+[[I Need Some Cork-Board]]
+[[I Blow the Power]]
+[[I Go Back to Class]]
