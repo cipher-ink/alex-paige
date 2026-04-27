@@ -204,7 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614
+    "width": 506
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0edd59a9a277a68e",
   "lastOpenFiles": [
     "00 - Maps of Content/Homepage.md",
     "_fit/99 - Meta/scripts/custom-links.js",
