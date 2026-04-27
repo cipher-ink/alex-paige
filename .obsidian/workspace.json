@@ -220,8 +220,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0edd59a9a277a68e",
+  "active": "e17f3335061e0f57",
   "lastOpenFiles": [
+    "01 - Writing/Book 1 - The Red Sanctum/Index.md",
+    "01 - Writing/Book 1 - The Red Sanctum",
     "00 - Maps of Content/Homepage.md",
     "_fit/99 - Meta/scripts/custom-links.js",
     "_fit/99 - Meta/scripts/custom-remove-yaml.js",
@@ -233,7 +235,6 @@
     "_fit/06 - Archives",
     "_fit/05 - Research",
     "_fit/04 - Plot",
-    "_fit/03 - Worldbuilding",
     "99 - Meta/templates/(TEMPLATE) Novel Formatting.md",
     "Welcome.md"
   ]

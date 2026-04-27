@@ -1,10 +1,21 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": null,
+  "selectedDraftVaultPath": "01 - Writing/Book 1 - The Red Sanctum/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
-  "sessions": [],
+  "sessions": [
+    {
+      "start": "2026-04-27T20:43:26.786Z",
+      "total": 0,
+      "drafts": {
+        "01 - Writing/Book 1 - The Red Sanctum/Index.md": {
+          "total": 0,
+          "scenes": {}
+        }
+      }
+    }
+  ],
   "showWordCountInStatusBar": true,
   "startNewSessionEachDay": true,
   "sessionGoal": 500,
