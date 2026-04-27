@@ -7,10 +7,10 @@
   "sessions": [
     {
       "start": "2026-04-27T20:43:26.786Z",
-      "total": 10420,
+      "total": 33959,
       "drafts": {
         "01 - Writing/Book 1 - The Red Sanctum/Index.md": {
-          "total": 10420,
+          "total": 33959,
           "scenes": {
             "I Destroy the Museum of Natural History": 3,
             "Scene 1.1": 250,
@@ -27,7 +27,30 @@
             "Scene 2.3": 421,
             "Scene 2.4": 677,
             "Scene 2.5": 1046,
-            "Scene 2.6": 1047
+            "Scene 2.6": 1047,
+            "I Meet a Nice Stick Lady": 3,
+            "Scene 3.1": 2476,
+            "Scene 3.2": 731,
+            "Scene 3.3": 1546,
+            "I Don't Want To Go": 3,
+            "Scene 4.1": 1107,
+            "Scene 4.2": 2232,
+            "Scene 4.3": 1765,
+            "I Face the Truth": 3,
+            "Scene 5.1": 1982,
+            "Scene 5.2": 917,
+            "I Need Some Cork-Board": 3,
+            "Scene 6.1": 136,
+            "Scene 6.2": 1639,
+            "Scene 6.3": 701,
+            "I Blow the Power": 3,
+            "Scene 7.1": 713,
+            "Scene 7.2": 2000,
+            "Scene 7.3": 1818,
+            "I Go Back to Class": 3,
+            "Scene 8.1": 1070,
+            "Scene 8.1.1": 946,
+            "Scene 8.2": 1742
           }
         }
       }
@@ -41,7 +64,7 @@
   "countDeletionsForGoal": false,
   "keepSessionCount": 30,
   "sessionFile": "longform-sessions.json",
-  "numberScenes": false,
+  "numberScenes": true,
   "sceneTemplate": "99 - Meta/templates/(TEMPLATE) Novel Formatting.md",
   "waitForSync": false,
   "fallbackWaitEnabled": true,

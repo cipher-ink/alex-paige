@@ -20,5 +20,28 @@ longform:
       - Scene 2.4
       - Scene 2.5
       - Scene 2.6
+    - I Meet a Nice Stick Lady
+    - - Scene 3.1
+      - Scene 3.2
+      - Scene 3.3
+    - I Don't Want To Go
+    - - Scene 4.1
+      - Scene 4.2
+      - Scene 4.3
+    - I Face the Truth
+    - - Scene 5.1
+      - Scene 5.2
+    - I Need Some Cork-Board
+    - - Scene 6.1
+      - Scene 6.2
+      - Scene 6.3
+    - I Blow the Power
+    - - Scene 7.1
+      - Scene 7.2
+      - Scene 7.3
+    - I Go Back to Class
+    - - Scene 8.1
+      - - Scene 8.1.1
+      - Scene 8.2
   ignoredFiles: []
 ---
