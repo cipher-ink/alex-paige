@@ -1,0 +1,18 @@
+﻿[2026-04-27T17:28:26.279Z] [Plugin] Starting plugin initialization
+[2026-04-27T17:28:26.280Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}
+[2026-04-27T17:28:26.282Z] [FitSettings] Cannot refresh fields without PAT token
+[2026-04-27T17:28:26.282Z] [Plugin] Plugin initialization completed successfully
+[2026-04-27T17:28:28.266Z] [FitSettings] Cannot refresh fields without PAT token
+[2026-04-27T17:33:06.686Z] [Plugin] Starting plugin initialization
+[2026-04-27T17:33:06.687Z] .. 📦 [Cache] Loaded SHA caches from storage: {
+  "source": "plugin data.json",
+  "localShaCount": 0,
+  "remoteShaCount": 0,
+  "lastCommit": null
+}
+[2026-04-27T17:33:06.688Z] [Plugin] Plugin initialization completed successfully

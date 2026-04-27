@@ -1,0 +1,26 @@
+
+.novel-formatting {
+  text-indent: 0;
+  text-indent: 1.5em;
+  margin-top: 0.5em;
+  white-space: pre-wrap;
+  line-height: 1.6;
+}
+
+.novel-formatting .cm-em{
+  color: inherit;
+  filter: brightness(1.15);
+}
+
+.novel-formatting .cm-strong{
+  color: inherit;
+  filter: brightness(1.15);
+}
+
+.novel-formatting .HyperMD-quote::before{
+  display: none ! important;
+}
+
+.novel-formatting .HyperMD-quote {
+  text-align: center;
+}

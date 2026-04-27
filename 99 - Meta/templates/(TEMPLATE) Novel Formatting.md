@@ -1,0 +1,4 @@
+---
+cssclasses:
+  - novel-formatting
+---
