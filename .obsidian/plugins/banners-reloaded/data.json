@@ -7,7 +7,7 @@
   "embedBannerHeight": "120px",
   "bannerStyle": "solid",
   "contentMargin": 0,
-  "showDefaultHeaderText": true,
+  "showDefaultHeaderText": false,
   "showDefaultHeaderIcon": true,
   "defaultHeaderIcon": "",
   "defaultHeaderText": "{{title}}",

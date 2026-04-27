@@ -1,6 +1,6 @@
 ---
 banner: https://i.pinimg.com/736x/6b/60/b9/6b60b9c4bf4ca0be18443aeae38ef932.jpg
-banner_y: 0.289
+banner_y: 0.3%
 ---
 # Sub-Planes
 These are liminal spaces that exist at the intersection of the [[Physical Plane]] and the [[Spiritual Plane]]. They are considered part of [[The Nothing]] since they are not fully-fledged planes of existence. These are transitional and impermanent realities created upon a need-by-need basis.
