@@ -1,0 +1,12 @@
+---
+cssclasses:
+  - novel-formatting
+---
+My name is Alexandra Paige, but please just call me “Alex”. No one calls me Alexandra unless I’m in trouble—and that happens enough already. I’m fifteen, and my life is basically the greatest hits album of “Schools I’ve Been Expelled From” written and composed by yours truly. I’ve lost track of how many. Every year, sometimes more, something happens. And by “happens”, I mean it’s always blamed on me, and I’m shown the door.
+“This year will be different,” my Dad had told me. I wanted to believe him, but my track record wasn’t great.
+See, when I say stuff “happens”, I’m not talking about normal teenage drama. I’m not cheating on tests, skipping classes, or stuffing kids into lockers. Nope, my expulsions are always for what I’ve coined as *“mysterious happenings”*. It’s when mysterious things…happen. Duh.
+Take sixth grade for example. These kids had cornered me in the cafeteria, yelling about how I *totally* sabotaged one of their science fair projects—apparently their volcano exploded a little too well. I kept saying that it wasn’t me and that the volcano happened to explode when I walked by. Surprise, surprise, no one believed me. Consequently, I got shoved into a vending machine. The machine then “malfunctioned” and a torrent of carbonated beverages came flooding out of it, pelting them as they ran away. I thought it was funny—until I was expelled for *hacking* the vending machine. *The Soda Witch*, they called me.
+I could go on and on with examples, but I’ll just give you one more.
+Fast forward to last year. School Football Championship. I was helping to set up fireworks for the halftime show when some *genius* thought it would be a great idea to dump ice-cold Gatorade down my back. Ice cubes down your spine? *Not cool*. I screamed, blacked out, and when I woke up, I was in the middle of a circle of scorched grass. Guess the fireworks went off a little early, and half the football team ended up in the hospital. Naturally, I was the only one without a scratch, so they blamed me. I was expelled for “explosive behavior”.
+You see the pattern right? Stuff happens all around me—stuff I can’t explain—and somehow, I’m always labeled the bad guy. Wrong place, wrong time; the story of my life.
+Spoiler alert: It hasn’t gotten better with time.

@@ -1,0 +1,24 @@
+---
+cssclasses:
+  - novel-formatting
+---
+I gasped as we walked through the grand entrance and into the lobby. The interior was breathtaking; it was like the museum was playing tricks on physics and was somehow bigger on the inside. Towering columns mirrored the Roman-inspired architecture from outside and their stone surfaces climbing nearly fifty feet before curving into a glass dome overhead. The dome was intricately detailed with a celestial map that shimmered as if the stars were actually moving. Maybe there were some hidden electronics up there or something, but it was still mesmerizing.
+And then there were the dinosaurs.
+Two colossal displays dominated the center of the room, perched atop large, artificial rocks. The first was a long-necked giant, stretching so high it nearly brushed up against the stars. It reared back on its hind legs in such a dramatic pose that I half expected it to come alive like that one movie I saw. Beside it, on the other rock, was a smaller skeleton—a raptor, I guessed—that was mid-pounce, jaws frozen in a vicious snarl. Its jagged teeth were poised to sink into the first thing—or person—it was lucky enough to get its hands on. I guess dinosaurs didn’t have hands. *Claws*, then? Anyway, I knew raptors were pack hunters (thanks, Mr. Doyle’s fifth-grade class), so I looked around expecting a few more to be lurking nearby. No dice; just the one.
+Slightly disappointed, I shifted my gaze to the rest of the room.
+Beyond the displays was a circular desk with a sign overhead: “Tours and Information”. Behind it stood a woman with a baby-blue suit, her impossibly cheerful smile stretched ear-to-ear. She was handing out the same boring pamphlets we’d already been given. The way her expression never faltered was creepy. She either REALLY loved her job, or her paycheck was big enough to fake it that convincingly.
+Farther back, the lobby branched into a circular hub with hallways leading off in every direction. Above each entryway was a sign: “Biodiversity Hall”,  “Hall of Ocean Life”,  “Birds of the World”, “#%#@# %& #^$%@&%”. Huh? What was that? There was one last sign, but I couldn’t seem to read it. Every time I tried to focus on it, the letters blurred like the details of a dream slipping away the moment you wake up. My head started to ache—a low, familiar rumbling, the kind I got whenever something strange was happening. It wasn’t unbearable yet, but I had a feeling it was only going to get worse.
+Mr. Terrel’s voice pulled me away from my thoughts as he waved us over to one side of the room.
+“Students, this is our guide for the tour, Mrs. Jin.”
+The guide in question was tall and lanky, with an obviously fake tan and long black hair that cascaded past her shoulders. She wore a sleek black dress that was way too fancy for the job while carrying a tablet in one hand and waving to us with the other. Her smile was as unsettling as the woman’s at the desk, only this time hidden under like six layers of makeup. She looked like she’d been plucked straight from a Glamour magazine and over-polished to perfection. I hated her already.
+After her *enthusiastic* greeting, Mr. Jin explained the plan: a few hours touring the museum, a break for lunch, then more touring before the bus ride back. I wasn’t paying much attention, though. My head was still hurting, the dull ache turning into a rhythmic drill. It was as though the collective thoughts of everyone around me were tunneling into my brain. My stomach churned and I knew I had to get out of there.
+I turned to Mr. Morris, who was standing nearby.
+“Can I go to the bathroom?”
+Big mistake. Mr. Morris might have been a great Harvey wrangler, but that didn’t mean he was nice. He sighed loudly, clearly annoyed that I would have the *audacity* to ask something of him. He flagged down an attendant and made them show me the way. The boy’s expression said it loud and clear:
+*This is NOT part of my job description.*
+After a pointed glare from Mr. Morris, though, he complied. I felt bad for him, but the relief of escaping this crowd and cooling my head was worth it.
+As soon as I was away from everyone the headache started to fade. In the bathroom, I splashed cold water on my face and let out a deep breath. The girl staring back at me in the mirror looked about as tired as I felt. My gray hair was a mess. “Like silver,” my dad would say. It was the only thing I had left of my mother, and it felt more like a curse. I’d tried dyeing it before—many times—but nothing ever stuck. It was like my hair was enchanted or something, stubbornly refusing every attempt to style or change it. Cutting it off to my shoulders was about the only thing I COULD do.
+A knock at the door startled me away from my thoughts.
+“Um, excuse me?” the attendant called, his tone half-apologetic, half-impatient.
+“Yeah, I’m coming.”
+I took one last look at myself in the mirror, sighed, and wandered out of the bathroom back to this “retreat”.
