@@ -2,7 +2,7 @@
   "version": 3,
   "projects": {},
   "selectedDraftVaultPath": "01 - Writing/Book 1 - The Red Sanctum/Index.md",
-  "userScriptFolder": null,
+  "userScriptFolder": "99 - Meta/scripts",
   "sessionStorage": "data",
   "sessions": [
     {
@@ -70,39 +70,32 @@
   "fallbackWaitEnabled": true,
   "fallbackWaitTime": 5,
   "workflows": {
-    "Default Workflow": {
-      "name": "Default Workflow",
+    "Alex Paige Workflow": {
+      "name": "Alex Paige Workflow",
       "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
       "steps": [
         {
+          "id": "99 - Meta/scripts/custom-remove-yaml.js",
+          "optionValues": {
+            "indentation-level": "0"
+          }
+        },
+        {
           "id": "strip-frontmatter",
           "optionValues": {}
+        },
+        {
+          "id": "remove-comments",
+          "optionValues": {
+            "remove-markdown-comments": true,
+            "remove-html-comments": true
+          }
         },
         {
           "id": "remove-links",
           "optionValues": {
             "remove-wikilinks": true,
             "remove-external-links": true
-          }
-        },
-        {
-          "id": "prepend-title",
-          "optionValues": {
-            "format": "$3{#} $1",
-            "separator": "\n\n"
-          }
-        },
-        {
-          "id": "concatenate-text",
-          "optionValues": {
-            "separator": "\\n\\n---\\n\\n"
-          }
-        },
-        {
-          "id": "write-to-note",
-          "optionValues": {
-            "target": "manuscript.md",
-            "open-after": true
           }
         }
       ]

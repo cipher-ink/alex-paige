@@ -2,6 +2,7 @@
 longform:
   format: scenes
   title: Book 1 - The Red Sanctum
+  workflow: Alex Paige Workflow
   sceneFolder: /
   scenes:
     - I Destroy the Museum of Natural History
@@ -43,5 +44,6 @@ longform:
     - - Scene 8.1
       - - Scene 8.1.1
       - Scene 8.2
+  sceneTemplate: 99 - Meta/templates/(TEMPLATE) Novel Formatting.md
   ignoredFiles: []
 ---
