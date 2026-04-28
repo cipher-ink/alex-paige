@@ -1,6 +1,6 @@
 ---
 banner: https://static.vecteezy.com/system/resources/previews/035/823/638/large_2x/ai-generated-fantasy-landscape-with-ice-cave-3d-rendering-computer-digital-drawing-ai-generated-free-photo.jpg
-banner_y: 0.467
+banner_y: 68.0%
 ---
 # Berillium
 A magical substance that comes naturally in a crystal-like formation. It is a mana-conductive material, meaning that it has an innate connection to [[The Weave]] and is the main way that [[Operators]] channel their magic.

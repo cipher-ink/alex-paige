@@ -1,6 +1,6 @@
 ---
 banner: https://wallpapers.com/images/hd/graphic-art-fantasy-city-at-night-sp8c9x7rgv34bh2s.jpg
-banner_y: 0.47
+banner_y: 44.0%
 ---
 # Physical Plane
 ##### Alias: The Material
