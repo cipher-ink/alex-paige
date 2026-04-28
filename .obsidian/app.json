@@ -4,5 +4,11 @@
   "newFileLocation": "root",
   "newFileFolderPath": "99 - Meta/attatchments",
   "propertiesInDocument": "hidden",
-  "attachmentFolderPath": "./99 - Meta/attatchments"
+  "attachmentFolderPath": "./99 - Meta/attatchments",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
