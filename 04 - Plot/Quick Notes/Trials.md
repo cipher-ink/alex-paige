@@ -1,0 +1,125 @@
+Trials
+Trials are an event held during midterms each year and are a smaller version of the Advancement Tournament that is held every three. Three teams, one from each string, compete in a scenario that requires knowledge, strategy, and discipline to complete.
+
+How Trials Work
+The trials themselves are historical reenactments where the students are placed into a simulated pocket-world and are supposed to complete the trial by facing the challenges and solving the “problem” that the world is currently facing. This could be winning a battle, solving a mystery, or simply anything.
+The teams are placed within the trial with only a base-line knowledge of where they are going and what the goal is. They are supposed to use the skills they learn during their classes in order to solve it.
+Trials are not on a pass fail system. It’s said they were created a long time ago as tests for an upcoming “dark age” that never came about. Now they are simply used to oppress and bully those within the third string. Not once in 50 years has any third string class passed a trial. This is because they are given almost no knowledge before hand and are then hunted down during the trial by the second and first string classes.
+
+## Basic Story of the Trial
+Part 1
+- Alex and the class join the trial.
+- They aren’t able to get their bearings as they are immediately ambushed by the second rung, Tristan in the lead.
+- The class has already given up, accepting they are going to be defeated.
+- Tristan doesn’t care about any of that and just wants to fight Alex again.
+- Alex agrees and shows the third rungs that she’s not going to give up on them.
+- Alex and Tristan fight for a bit.
+- When it looks like Alex might get the upper hand, someone from the second rung hits her with a spell, allowing Tristan to get a big hit in.
+- Tristan stops the fight right there and actually throws hands at the person who intervened. To Tristan, his word and honor are everything to him and his family, but he’s different because he won’t differentiate between commoner and noble.
+- They then get ambushed by the Vampire, who is easily taking out everyone both within the second rung and third. He hesitates when attacking Trina, skipping past her.
+- The first rung arrives and the vampire is chased off. Cayden is among them and Alex notices that Tristen gives him an intense glare.
+- The third rung students, bolstered by Alex’s speech and actions, rise up and fight against the second and first rung long enough to distract them so that Alex, Trina, and Wyll can get away to chase the vampire as is the plan. They are getting beaten badly, but we see them continue to get back up and show that they don’t want to be punching bags anymore. They now have a new “light” in their eyes.
+Part 2
+- The gang gets away and rushes to the Duke’s Keep the next morning, which is where Thorne told them to check. He gave Alex some knowledge of the family, which Alex uses to get into the keep and have a meeting with Olivia Venn, who is the acting duchess of the area.
+- Olivia is weary of them, but after the mention of the vampire wants to know more about who they are and what they know.
+- They explain that they know of the Vampire and want to help find a solution. Alex, following Thorne’s advice, states that they don’t want to kill it. Olivia seems to soften up at the mention of that and brings them to a back room.
+- Olivia explains her family “curse”. That they are given this power over blood and can consume the blood of others to gain their powers.
+- To combat the disgust, she explains that their curse desensitizes them to the taste and sight, almost making them crave it in certain instances. It can change and corrupt them if they are not careful about their consumption.
+- She also explains that they must consume the blood as the craving only becomes worse and worse.
+- She then states that while they drink the blood of others, they do not kill. All that they drink is offered by those they trust who know of the curse and want to help them control it.
+- Wyll realizes she is talking about a manifestation. He’s been talking with Thorne about his thesis and states that manifestations can sometimes change their users, altering them. If someone gets a fire-based manifestation, they may start to enjoy watching something burn. This can be taken to an extreme in some cases depending on the psyche of the original user before awakening their manifestation. It’s theorized that some manifestations are also so powerful the override the consciousness of the user. It could turn a perfectly normal person into a serial killer if not handled and taught properly.
+- Wyll then surmises that the “vampire” must be a family member who has lost control.
+- Olivia admits as much, saying that her nephew, Heinz, has been consumed by the curse and is craving the power of others. Olivia has hidden away Heinz’s wife and daughter as a way to protect them. She remarks that Trina looks like an older version of his daughter.
+- The curse draws the family to those with power, with a lust to consume their blood to improve their own power. The urge only gets stronger the more blood is consumed. So if they drink more, they get consumed by power, but if they stop, they go through withdrawals. It’s a cruel cycle.
+- Trina asks if there is a solution, to which Olivia says that they have yet to find anything. The only thing that seems to work is consuming an exact ratio of blood to water that allows for those with the curse to stave off the withdrawals and not get consumed by the lust for power for around 10-15 years.
+- Alex asks about an alchemy book, to which Olivia is shocked she knows about. Alex won’t say how she knows about it, but Olivia admits that they have a book of alchemy that they are unable to read. It’s written in an odd language that none of them understands.
+- Olivia shows them the book, and Trina states that it’s written in ‘‘runic’. It’s more akin to coding than a written language, but its something that Trina can read cause of her magitech work. It’s an old base-system of the stuff they use in the modern day, but she can read it for the most part.
+- Alex leaves Trina and Wyll to the book since she has no idea what they are talking about, and goes exploring.
+- She finds herself in a garden where there are Moonglow flowers, the same as her mother planted. She touches them and they light up, bathing Alex in a nostalgic glow.
+- Alex wishes for her Dad. As she wishes this the flowers brighten even more. The glow becomes warmer. More hot than nostalgic. She notices that where she was touching one of the flowers, the petals began to burn.
+- She pulls away as Olivia comes by asking how Alex is doing.
+- They talk, connecting over Olivia also losing her parents at a young age. Alex talks about her life so far and all that she lost. Alex asks what she did, and Olivia states that she found something to care about. Something to strive for. She became the duchess and watches over this town and the province around it as a way to honor her father.
+- Tristan appears, and the tension between him and Alex causes Olivia to leave. Tristan looks beat up, but he bows and apologizes to Alex for the interruption to their duel. And also for eavesdropping.
+- Alex, mostly stunned, just turns around and ignores him as he continues to state that he didn’t expect someone from the third strung to be powerful.
+- Alex chides him, but he states that he didn’t mean physically. She has gone through so much in her life and is still here. Tristan doesn’t think he would be able to do that. He KNOWS he couldn’t do that. He admits that he’s not that powerful. He begins talking about his family, but trails off when his brother comes up.
+- Tristan breaks the mellowness by stating that he won’t lost their next duel, to which Alex retorts and makes fun of him. It angers him and he seems to be about to storm away before Trina and Wyll come rushing out, saying they found something.
+- Tristan forces himself into the meeting, much to the dismay of everyone, but Alex is told that there is a possible solution to the problem: resonance.
+- They can attempt to form a resonance between the magic of the blood manifestation and another class to control it’s effects.
+- Wyll thinks it would be enchantment magic, but none of them are enchantment users. But apparently someone in Tristan’s rung is an adept enchantment user. But would he even work him them? Was he even still in the trial?
+- They begin to travel back to the ambush spot and find the remains of a battle. Alex is distraught about her fellow classmates, but Tristan exclaims that they were sent out of the trial quickly. The first rung aren’t ones to show mercy. There are no bodies since when an operator is defeated they are transported out of the trial automatically. But there are still blood marks.
+- Tristan brings out a stone and speaks into it, calling for Damien.
+- He gets a response, but instead of Damien it’s the vampire, Heinz. He states that the rest of them disappeared, but he is keeping Damien for his power. Tristan seems to get overly upset in the situation, obviously caring about his fellow classmate more than Alex thought.
+- Tristan asks Alex for help, and she begrudgingly agrees.
+- Tristan brings out a sack and unfolds the cloth. There are 8 stones inside and a magic circle drawn on the cloth. Tristan states that it’s meant for them to find each other if they ever got separated. As long as Damien has the stone on him, they can find him.
+- Tristan casts the spell and holds up Damien’s stone, which starts glowing when pointing towards the town.
+- They search through the town at night until they come across a smaller home near the west-side of the village. Alex picks the lock, not able to figure out how she knows to do that. (it’s from her vision in her mother’s dream. Because it was from the first person, her muscles remembered how to do it.)
+- They go inside and find a cellar in which Damien is being held. They free him, but he is passed out and they can’t seem to wake him. Tristan notices the smell of Belladew, a flower that can be condensed into a potent sleeping potion. Trina knows that they are going to need a very strong stimulus to wake him up.
+- Wyll pulls out an Umba Plum from his pouch, asking if this will be enough. He likes eating them, but most people can’t stand the sourness.
+- They give one to Damien and he wakes with a start. Wyll eats one as well, for a snack.
+- Damien explains that the vampire was just a man and he was taking his blood. He seems disgusted at first from the fact that third rung students saved him, but with a look from Tristan, expresses his gratitude.
+- They explain the plan, but Damien just scoffs since resonance is something that’s very hard to achieve. He could try, but it’s one in a million odds.
+- Trina says that maybe they can use a device that she brought with her. She was going to give it to Alex, but this might be the best use for it.
+- The device itself looks like a small megaphone. It’s meant to act that way as well, but for magic instead of sound. As the magic travels and bounces around within the cone, it’s supposed to be amplified.
+- Depending on how Trina tunes it, they could use it to alter the frequency of the magic being cast, making resonance more reasonable. Still hard though.
+Part 3
+- Just then, Heinz appears and attacks. Tristan is able to block the initial punch with his shield manifestation, but he is sent flying into the wall.
+- They fight, and Heinz takes some of Wyll’s blood. Heinz then is able to use Wyll’s fire manifestation, which is black fire that cannot be put out.
+- Wyll becomes instantly afraid, screaming for everyone to get away from the fire.
+- Trina uses her device and wind magic to push the fire away, not letting it hit anyone.
+- Will is confronted with his power as Heinz tries to use it again. Wyll acts like he is going to attempt to control it but is frozen with fear. Heinz is able to hit Alex on the arm with the fire, causing Alex a lot of pain.
+- Heinz begins to fight with Alex and becomes very interested in her power. Alex’s sleeve catches on fire and this is the first time she uses her shifting ability to lower the temperature of the affected area, literally freezing the flames. She breaks it off of her clothes, but she can tell that she was given a frostburn from the cold.
+- Heinz uses the distraction to slash at her, breaking her skin and leaving blood on his knife. He takes it and tastes her blood almost like a junkie, to which he remarks that he’s never tasted blood with such purity and raw power.
+- She attacks, but he uses her power against her and breaks the sticks, releasing their density.
+- He tells her that she can do so much more with her power. He demonstrates it as Tristan has gained his senses again and is rushing foreword. He is trying to slam Heinz with a spectral shield, but Heinz snaps his fingers and a concussive blast sends Tristan backwards.
+- Heinz explains that he gains an understanding of the powers he consumes. He knows how to use them, and it’s obvious that Alex has no idea the power she wields.
+- He creates a ball of light in his hand and compresses it down further and further until it disappears. A small ball of black appears only for a second, much to the dismay of Heinz, who remarks that even he is not powerful enough to control it.
+- Something small nicks his cheek, drawing blood as an arrow of wind flies past him. Trina is using the amp matrix to send powerful wind blasts at him. He dodges and uses Alex’s ability to create a pocket of pressure, sending Trina flying to the side.
+- Heinz walks up to Trina and brings a hand up, lighting the fire about to throw it at her.
+- Wyll yells out and reaches his hands to control it, but nothing happens.
+- Trina looks up and Heinz freezes, stating “Sarah?” which is the name of his daughter.
+- Tristan is able to get a hit in with that distraction, chiding Alex for staying on the ground.
+- Angry, she gets up and together they are able to push back against Heinz. They hold him long enough for Trina to put cuffs on him that block magic.
+- The cuffs seem to calm down Heinz for a moment of clarity. The red in his eyes seems to fade as he can only keep eyes on Trina, who is awkwardly hiding behind Wyll.
+- Heinz holds his head down in shame, apologizing to Sarah. No one knows who that is.
+- Now that the fighting is done, Damien is told to attempt to resonate with Heinz’s magic to counteract the effects of the manifestation.
+- Heinz asks if they can really subdue this curse, to which Damien scoffs and Trina comes foreword. She explains that it’s not for certain. 
+- Heinz thanks her anyways.
+- They spend most of the night attempting to do so. Damien and Trina are working hard to get this to work, but it seems impossible. Damien begins to rush off in anger, but Trina chides him. He seems to go off on her being a third rung, but Trina doesn’t care. She wants to save this man, and Damien is the way they can do that. She’s not willing to give up, showing her resolve and true strength even if she doesn’t understand it.
+- Damien reluctantly starts again.
+- While doing this, Alex sits off to the side, messing with a piece of light that she created and pondering about her powers.
+- Wyll comes over and sits with her, asking if she’s okay.
+- Wyll chimes that he’s sorry for the damage he caused after Heinz took his powers. Alex asks about it, but Wyll is hesitant. He admits that he burned down his family home on accident when his power awakened. He lost a younger brother in that fire, and his mom lost the use of her legs. He hasn’t used that power since. He’s afraid. It’s something that’s uncontrollable. He will never use it.
+- Alex remarks about Tristan’s magic and that it’s protective in nature, but he still uses it offensively. Maybe Wyll can figure something out.
+- They are woken up in the morning with Trina yelling that they did it! The matrix helped them to change the frequency and at least for now, Heinz’s manifestation should be under control. It’s not a permanent fix, but its given Trina the idea of something she could make that would be more permanent.
+- Heinz is astonished by the technology that he’s never seen before.
+- He is crying as he thanks the gang. Now he can return to his family and tell them the news that the curse can be lifted.
+- They return to the keep, to which there is a touching reunion between Olivia, Heinz, and his family.  Trina remarks that his daughter really does look like her when she was younger. That was probably why he let them help in the first place.
+- Later that night, Heinz comes to see Alex. He wants to apologize to her about everything he did. He also came to warn her.
+- Heinz explains that when he took her power, it was intense. It wasn’t that it was more powerful than any other power he took, but it was RAW. For most manifestations, the power acts as a barrier between the user and the weave itself. But for Alex’s power, it’s a more direct connection. She doesn’t really have a buffer. Her manifestation is literally tapping into something. Something beyond the weave. He explains that he saw something, a figure in black. It spoke to him of the power he carried and the tragedy it would continue to bring his decedents. Alex remarks of her own time meeting this being. She is glad to finally have someone to talk to about it.
+- Tristan then knocks at the door.
+- He comes in and explains that he was going to go see Alex and then Heinz, so it’s convenient that they are together.
+- He asks Heinz to take his blood. He wants to know more about his power and how to control it. Alex protests that Heinz just regained control of his powers, but Heinz agrees. He sees that Tristan is upset that he couldn’t do anything. That he wasn’t strong enough. Tristan doesn’t say anything, but it’s obvious that that’s the case.
+- Heinz takes some blood from Tristan and explains that he is using his powers, but not for the right reasons. He explains that when he thinks about Tristan’s powers, it’s as if it pushes him to protect the things that he holds dear. And not just the physical. Of course he wants to protect his child, but he suddenly has an urge to fight and protect his ideals. He tells Tristan that this urge to protect is what’s holding him back. He’s fighting it. Once he finds out what he truly wishes to protect, his power will grow in return.
+- Tristan thanks him and then turns to Alex. He is about to say something but the wall leading into the hallway suddenly explodes.
+- The first rung leader, Cayden steps in, staring at Heinz saying that he finally found him.
+- Alex recovers and yells towards Cayden, but he doesn’t even acknowledge her existence.
+- Cayden walks into the room with indifference, clocking Heinz and then turning to Tristan, who is frozen in fear and shock.
+- Cayden says:
+- “Little brother, I expected you to disappoint me. But I have to say...this is a new low.”
+- He then produces a tracking crystal from his pocket and tosses it to the ground as if discarding trash.
+- “Did you think I would allow you to go off on your own? That I wouldn’t notice you associating with the trash?”
+- Tristan is only able to stare in silence, falling to his knees and looking at the crystal.
+- “You’re lucky Father is not here to see this. He, at least, has expectations of you.”
+- “But, of course, I must clean up your mess once again.”
+- He walks towards Heinz, about to take him out. Tristan doesn’t move, doesn’t react, just staring at the ground and clenching his fist.
+- Alex reaches out and grabs him by the shoulder, asking what the hell he thinks he’s doing.
+- Cayden, in a swift move, throws Alex across the room and into the wall hard, leaving a crack. His arm has suddenly twisted and become a dragon’s arm with claws.
+- “I will not be touched by trash which does not deserve the right to exist.”
+- He swipes a claw as easily as swatting a fly, killing Heinz.
+- This ends the trial and they are all brought back to the entry room. Alex is still badly beaten and barely able to breathe, but she cries and screams at Cayden, who once again ignores her.
+- “Come, little brother.”
+- Alex looks to Tristan’s pained and tortured expression as he follows. She screams at him for not doing anything. Alex thought that they had started to understand each other. But she was wrong. Tristan is just as bad as the rest of them.
+- “I thought I  was beginning to understand you. I thought you were different. That you were against all of this crap! Why didn’t you DO something?”
+- “Did you ignore everything Heinz told you? Do you just not have anything worth protecting? Is that why you’re such a coward?”
+- “I’m not even disappointed. I should have expected it. You’re no better than the rest of them.”
+- We skip to later that night as Alex, Wyll, and Trina are recovering at the cabin while talking to Mr. Terrell about what happened. Alex is distant and sullen.
