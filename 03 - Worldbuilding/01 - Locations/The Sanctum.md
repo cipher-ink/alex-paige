@@ -2,6 +2,8 @@
 
 The sanctum is a school made for teaching magic and housing those who show great potential for the future of Magi.
 
+**Current Headmaster:** 
+
 # General Layout
 Assuming you are looking from the North.
 ## Center
