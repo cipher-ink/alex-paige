@@ -103,7 +103,7 @@ _Questions the reader is actively holding, in the order they surface._
 - **Backstory:** At age eight, Wyll's uncontrollable black flame killed his brother. His mother, unable to live with the grief, chose to wipe her own memories of her family and disappear into the layman world rather than stay. He has been alone with his father and a younger brother who was two at the time and remembers almost nothing. For seven years he has not used his power.
 - **Want:** To never hurt anyone again — which in practice means never using his power at all. He doesn't want to master it. He wants to be ordinary. What he thinks he wants is the absence of magic entirely.
 - **Need:** To forgive himself. Every loss in his life — his mother's choice, his father's burden, his brother's absence — traces back to one moment he didn't understand what he was. His arc is not about the flame. It's about the eight year old boy who has been punishing himself ever since.
-- **Power — Black Flame:** Wyll's manifestation is dominion over the concept of vitality — the animating force present in all living and non-living things. The black flame doesn't burn in the traditional sense. It consumes vitality, continuously feeding on everything around it until there is nothing left. This is why it cannot be extinguished — it is not fire that runs out of fuel, it is a hunger that doesn't know how to stop. Wyll has only ever known it as something that takes.
+- **Power — Black Flame:** Wyll's manifestation is dominion over the Concept of vitality — the animating force present in all living and non-living things. The black flame doesn't burn in the traditional sense. It consumes vitality, continuously feeding on everything around it until there is nothing left. This is why it cannot be extinguished — it is not fire that runs out of fuel, it is a hunger that doesn't know how to stop. Wyll has only ever known it as something that takes.
 - **Power — White Flame:** The inversion of the same ability. Rather than pulling vitality out of things, he learns to push it in — generating and directing vitality instead of consuming it. Healing is the black flame running in reverse. He is not learning something new. He is learning that he was never only capable of destruction.
 - **Book 1 arc:** Wyll uses his power for the first time during the Trial — a crack in the wall, not the wall coming down. The fear doesn't leave. But he finds a kindred spirit in Thorne, who is also at the mercy of his own manifestation. When Thorne falls, Wyll takes up his thesis on manifestations and their control over a user's will — partly grief, partly self-preservation. He is finishing the work of the only person who ever made him feel less alone in his power.
 - **Connection to Thorne:** Thorne is his dark mirror the way Thorne is a dark mirror to Alex — but Wyll's version is more intimate. Thorne's thesis is the first time Wyll has seen his own experience reflected academically. Losing Thorne means losing the only framework he had for understanding himself.
@@ -133,11 +133,11 @@ _Questions the reader is actively holding, in the order they surface._
 - **Key line:** _"Did you think I would allow you to go off on your own? That I wouldn't notice you associating with the trash?"_ — He doesn't need to raise his voice. He never does.
 - **Function in Tristan's arc:** Cayden has been the voice in Tristan's head his entire life. When he walks into the room, Tristan doesn't freeze out of cowardice — he freezes because Cayden has always been the proof that he doesn't measure up. Alex misreads this entirely, and her words afterward wound him precisely because she was starting to matter.
 
-### Heinz — Trial NPC, Medical Role
+### Heinz
 
-- A figure encountered during the Trial who reads Tristan's blood and delivers the key insight about his manifestation — that his power grows from protecting what he truly values, and that he is fighting it rather than accepting it. His death at Cayden's hands ends the Trial and is the inciting wound of the Act 3 fallout.
+- The main antagonist of the Trial and an ancestor to Thorne. To be expanded on later.
 
-### Olivia — Trial NPC
+### Olivia
 
 - Present during the Trial alongside Heinz. Role to be expanded when Act 3 is drafted in full.
 
