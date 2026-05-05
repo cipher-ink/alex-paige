@@ -1,6 +1,6 @@
 ---
 banner: https://creator.nightcafe.studio/jobs/laELgKJH670Nr4jRe7J1/laELgKJH670Nr4jRe7J1--1--nxwzl.jpg
-banner_y: 0.4
+banner_y: 39.9%
 ---
 # Truth Orbs
 These magical orbs are integral to helping someone find their [[Affinities|affinity]]. When someone touches one of these orbs, if they have an affinity for that [[Classes of Magic|class]] of magic, the orb will react to them in some way.

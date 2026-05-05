@@ -1,6 +1,6 @@
 ---
 banner: https://external-preview.redd.it/TJqQStQs2LifXIDl82ojhf1oZhz5avIV_VRprnqIHOU.jpg?auto=webp&s=c925e2a62951def6d86e6dd943b86abe4cc3a9cb
-banner_y: 0.206
+banner_y: 71.2%
 ---
 # Blood Mark
 A blood mark is much akin to a genetic marker as it’s something that one is born with and cannot change. They are integral to the creation and designs of [[Crests]] as well as being the reason magic can be inherited through multiple generations in the form of a [[Grimoire|grimoire]].
