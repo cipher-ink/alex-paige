@@ -43,3 +43,18 @@ Still a little dazed from the trip, I walked arm in arm with Mr. Terrell as we f
 “What's inside?”
 “The library, faculty and leadership offices, the Trial chamber, and some more traditional classrooms for both first and seventh year students. Oh, and the Great Hall. It’s sort of a gathering place when the headmaster needs to speak to the students. You'll see. It's where we're heading now for orientation.”
 As we approached the double doors, it dawned on me exactly how large this building was. Looking up, the towers seemed impossibly tall, a black and grey brick pattern spiraling up into the skies. The doors themselves were at least 20 feet tall, which only made me wonder if they were specifically made for something that big, or if the people who created it just wanted to be grandiose.
+The doors were even more imposing up close.
+Standing at the base, I had to crane my neck just to find the top, and even then I wasn't sure I had. They were carved from something dark--not quite wood, not quite stone--with deep relief work across the surface that I couldn't make sense of at a glance. Figure, symbols, text in that same runic script as my port card. I didn't even want to imagine the time it took to carve.
+Mr. Terrell walked through like it was the entrance at a grocery store, waving a hand at me to follow. I did, trying to match his energy, and failing completely.
+The foyer hit me before my eyes could adjust to the light after coming inside. My only thought was that if this "foyer" was the size of my Dad's entire apartment, how large was the rest of this place? The floor was made of the same dark polished stone as the outside courtyard, and the walls were line with the kind of detail that made you think the building was quietly judging you for having to go to public school.
+It was hard to make out too much detail from all of the students that were currently making their way inside towards the back of the room, but there was certainly one thing that stood out: on the far end of the foyer, flanked on either side by wide staircases curving downward, was a book.
+And I use that term very loosely.
+It was mounted on a stand of dark iron that looked like it has been bolted to the floor since the building was constructed, and maybe it had. Each page was the height of a single-story building and god knows how wide. The pages were cream-colored, the kind of material closer to papyrus than modern paper. And running through the whole surface, visible even from where I was standing in the entrance, was a faint shimmer. Like the book was breathing.
+As we approached, following the masses through and towards the staircases on either side, I got a glimpse of the text written inside. It wasn't handwritten. It was too exact for that -- each entry arranged in a tight grid pattern across the surface. Names in clean block lettering, and beneath each one, an intricate pattern design that felt oddly familiar to me.
+I broke away from the crowd, my curiosity getting the better of me, and stood next to a couple of other people to just stare at the giant thing. There was a plaque on a comparatively tiny stand in front that said: "Book of Families".
+"What are those patterns?" I asked, turning to Mr. Terrell who had also broken away to follow me.
+"Crests," he answered, pulling up his sleeve to reveal the tattoo underneath that I'd seen plenty of times now. "Do you remember what they are?"
+"A focus. Something to channel magic through."
+"Eight out of ten. You're forgetting something..."
+I wracked my brain for all it was worth, attempting to remember.
+""
