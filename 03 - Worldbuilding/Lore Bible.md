@@ -147,6 +147,33 @@ Getting a crest feels much like getting a conventional tattoo, with one addition
 
 Specialized practitioners called **Encoders** design and apply crests. The role blends tattooist and programmer — encoding requires significant training, as an improperly constructed crest can backfire dangerously. Encoding schools exist across the country.
 
+>[!NOTE]
+>Most people cannot read a crest in any technical sense -- they cannot identify spells, parse the runic, or determine what a crest does by looking at it. What they CAN do is read it in the way one might read a tattoo: placement, scale, density, visual weight, and era. A practitioner with experience can roughly date both the base design and encoded layer on sight, and read the gap between them as a rough measure of one's bloodline history.
+>This can also be taken advantage of by some designers who prefer to use older designs to appear "older" or more intimidating at a glance to those who know what to look for.
+#### Crest Designs
+How a crest looks is determined by two things: **who** encoded it and **when**. For first-generation crest recipients, and **Encoder** designs the Path from scratch -- a process closer to programming than portraiture. The encoder makes technical decisions on how to construct each spell, and the visual result is a byproduct of that construction. Encoders can take input from the recipient and make have strong personal aesthetics, but the Path goes where the Runic requires it to go. Two encoders building the same five spells will produce two crests that have similarities, but look almost nothing alike.
+
+For those carrying a **Blood Mark**, the process splits into two distinct layers. The base design -- the ancestral Path tied to that bloodline -- is fixed. The encoder's work is overridden and the crest resolves into the inherited design, unchanged from the first time it was ever applied. No encoder can alter this part. But the encoded spells sitting on top of that base are a separate matter. Spells can be added, removed, and replaced using whatever forme of runic is current, and those additions are visually distinct from the base. the base design reflects the era of the ancestor who first bore it. The encoded spells reflect the era in which they were added. On a crest with a long history, these two layers may look nothing alike -- though for the most part encoders will try to maintain the artistic "style" of the base.
+
+To anyone who knows what they are looking at, this is immediatly readable. A Proto-era base with modern spell encoding looks like two different hands worked on it, because they did. The older the bloodline, the more visible that gap can become.
+
+This means that inherited crests are effectively historical documents. How old a bloodline is, and how actively it's crest is maintained and re-encoded over time, can often be read at a glance.
+###### The Proto-Crest Era
+> *(Roughly 900 A.D. and before)*
+
+The oldest surviving crest designs predate the standardized formes of runic entirely. Encoded using sparse and heavy lines, thick and unbroken strokes, long straight lines, and minimal ornamentation. Not primitive in intent, but in capacity since runic had not evolved to store spells yet. These crests look closer to brands or carved stonework rather than tattoos. A family carrying a proto-era base design is carrying something so old it predates most of the institutions that currently study magic.
+###### The Classical Era
+> *(~900 to 1300 A.D)*
+
+As 2nd forme runic matured, encoders gained enough flexibility to make deliberate choices about structure. The Classical era is defined by the emergence of intentional design -- symmetry, geometric repetition, and the first regional differences in style. Schools of encoding in different parts of the world began developing distinct visual vocabularies: some favoring strict angular geometry, others favoring elongated organic curves. Classical crests are still relatively sparse, but they feel deliberate in a way that proto-crest era designs don't.
+###### The Renaissance
+> *(~1300 to 1800 A.D)*
+
+By the time 3rd runic forme reached it's maturity, encoders had more expressive latitude in Path construction that they had ever had before -- and it shows. This era is defined by excess: intricate interlocking linework, fine detail that borders on illegible up close, ornamentation layered over ornamentation. Old noble families from this period wear crests that look overwhelming at a first glance and reveal more the longer you look. The era reflects a period when displaying the complexity of one's crest was itself a status symbol -- the more elaborate the work, the more powerful and prestigious the bloodline.
+###### The Reformation Era
+> *(1800 A.D to present)*
+
+As a deliberate reaction to the Renaissance, the reformation era stripped back -- cleaner lines, intentional negative space, precision in service of readability. The craft is no less sophisticated, but the philosophy reversed: confidence expressed through restraint rather than ornamentation. Reformation crests tend to feel "modern" or "neo" in style. This is the dominant aesthetic of newly encoded crests today, though some choose to continue the "older" styles or choose their own paths as more and more encoders join the workforce. 
 ### Spell Anatomy
 
 Every spell encoded onto a crest has three components:

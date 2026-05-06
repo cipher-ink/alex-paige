@@ -52,9 +52,4 @@ And I use that term very loosely.
 It was mounted on a stand of dark iron that looked like it has been bolted to the floor since the building was constructed, and maybe it had. Each page was the height of a single-story building and god knows how wide. The pages were cream-colored, the kind of material closer to papyrus than modern paper. And running through the whole surface, visible even from where I was standing in the entrance, was a faint shimmer. Like the book was breathing.
 As we approached, following the masses through and towards the staircases on either side, I got a glimpse of the text written inside. It wasn't handwritten. It was too exact for that -- each entry arranged in a tight grid pattern across the surface. Names in clean block lettering, and beneath each one, an intricate pattern design that felt oddly familiar to me.
 I broke away from the crowd, my curiosity getting the better of me, and stood next to a couple of other people to just stare at the giant thing. There was a plaque on a comparatively tiny stand in front that said: "Book of Families".
-"What are those patterns?" I asked, turning to Mr. Terrell who had also broken away to follow me.
-"Crests," he answered, pulling up his sleeve to reveal the tattoo underneath that I'd seen plenty of times now. "Do you remember what they are?"
-"A focus. Something to channel magic through."
-"Eight out of ten. You're forgetting something..."
-I wracked my brain for all it was worth, attempting to remember.
-""
+"Those patterns are crests, right?" I asked, wracking my brain to remember one of the books Mr. Terrel had me read: *Crest and Runic Evolution*. 
