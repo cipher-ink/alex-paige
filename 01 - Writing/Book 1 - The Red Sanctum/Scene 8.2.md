@@ -42,35 +42,37 @@ Still a little dazed from the trip, I walked arm in arm with Mr. Terrell as we f
 “That’s Cornwall Hall. You'll be spending a lot of time there.”
 “What's inside?”
 “The library, faculty and leadership offices, the Trial chamber, and some more traditional classrooms for both first and seventh year students. Oh, and the Great Hall. It’s sort of a gathering place when the headmaster needs to speak to the students. You'll see. It's where we're heading now for orientation.”
-As we approached the double doors, it dawned on me exactly how large this building was. Looking up, the towers seemed impossibly tall, a black and grey brick pattern spiraling up into the skies. The doors themselves were at least 20 feet tall, which only made me wonder if they were specifically made for something that big, or if the people who created it just wanted to be grandiose.
-The doors were even more imposing up close.
-Standing at the base, I had to crane my neck just to find the top, and even then I wasn't sure I had. They were carved from something dark–not quite wood, not quite stone–with deep relief work across the surface that I couldn't make sense of at a glance. Figure, symbols, text in that same runic script as my port card. I didn't even want to imagine the time it took to carve.
-Mr. Terrell walked through like it was the entrance at a grocery store, waving a hand at me to follow. I did, trying to match his energy, and failing completely.
-The foyer hit me before my eyes could adjust to the light after coming inside. My only thought was that if this "foyer" was the size of my Dad's entire apartment, how large was the rest of this place? The floor was made of the same dark polished stone as the outside courtyard, and the walls were lined with the kind of detail that made you think the building was quietly judging you for having to go to public school.
-With all the students slowly funneling into the staircases on the other end of the room, it was difficult to see any details. I could see tapestries and art of sorts all along the walls, but only the top half or so. There was, however, one thing that stuck out like a sore thumb; in the center of the far-end of the foyer was a book, flanked on either side by staircases that winded downwards behind it to an even larger room.
+As we approached the double doors, it dawned on me exactly how large this building was. Looking up, the towers seemed impossibly tall, black and grey brick spiraling up until the clouds just swallowed them whole. The doors themselves were at least twenty feet tall, which only made me wonder if they were built for something that big, or if the people who created it just had something to prove.
+They were even more imposing up close.
+Standing at the base, I had to crane my neck just to find the top, and even then I wasn't sure I had. They were carved from something dark–not quite wood, not quite stone–with deep relief work across the surface that I couldn't make sense of at a glance. Figures, symbols, text in the same runic script as my port card. I didn't even want to imagine the time it took.
+Mr. Terrell walked through like it was a grocery store entrance, waving a hand at me to follow. I did, trying to match his energy, and failing miserably.
+The foyer hit me before my eyes could adjust. My first thought was that if *this* was the foyer, how large was the rest of the place? The floor was made of the same dark polished stone as the courtyard outside, and the walls were lined with the kind of detail that made you feel like the building was quietly judging you for having ever attended public school.  Tapestries and art ran along the upper half of every wall, though with students and families funneling toward the staircases at the far end, I couldn’t get a clear look at any of it.
+There was, however, one thing that stuck out like a sore thumb.
+Centered at the far wall, flanked on either side by staircases that wound down to an even larger room below, was a book.
 And I use the term “book” very loosely.
-It was mounted on a stand of dark iron that looked like it has been bolted to the floor since the building was constructed, and maybe it had. Each page was the height of a single-story building and god knows how wide. The pages were cream-colored, the kind of material closer to papyrus than modern paper. Running through the whole surface, visible even from where I was standing in the entrance, was a faint shimmer causing it to float up and down like it was breathing.
-As we approached, following the masses through and towards the staircases on either side, I got a glimpse of the text written inside. It wasn't handwritten. It was too exact for that – each entry arranged in a tight grid pattern across the surface. Names in clean block lettering, and beneath each one, an intricate pattern design that looked a little *too* familiar to just leave it alone.
-I broke away from the crowd, my curiosity getting the better of me, and stood next to some other students and faculty to simply stare at the giant thing. There was a plaque on a comparatively tiny stand in front that said: "Book of Families".
-Each paper held 12 different sections, each representing a name and a scrawling patterned design below it.
-“These are crests.” I remarked, thinking back to my reading.
-It was difficult to recognize them at first since they were scrawled on a flat piece of paper instead of wrapped around someone’s arm, however the styles were the same as the ones I’d seen in the textbook. Each one started with a thick black line at the base and ended with a thinner line at the end, however everything in between was unique. Different patterns adorned the page with no discernable style. Some were geometric in shape, some fractals. Curves, circles, diamonds, and rigid linework took up the bulk of the page. My eyes became cross-eyed as I attempted to make heads or tails of the designs, everything turning to a puddle of ink. The names written below them weren’t much better. Osswyn, Ovael, Paedon, Pahryn, Paimos; the names went on and on, each one worse than the last. I couldn’t find a single name that didn’t sound like it was supposed to be said with a raised pinky. Just before I could scoff and make a chide remark at the book, a little kid–probably around 6 years old–waddled up to the stand and placed his hands on either side of the name plaque.
+It was mounted on a stand of dark iron that looked like it has been bolted to the floor since the building was first built – maybe it had. Each page rose to the height of a single-story building. The material was closer to papyrus than paper, cream-colored and old in a way that felt intentional, and running across the whole surface, visible even from where I was standing in the entrance, was a faint shimmer causing it to float up and down – like the dang thing was breathing.
+As we moved through the crowd towards the staircases, I caught a glimpse of what was written inside. It wasn’t handwritten – it was too exact for that. Each entry was arranged in a tight grid: names in clean block lettering, and beneath each one, an intricate pattern that looked *just* familiar enough to stop me cold.
+
+I broke away from the crowd and stood next to a cluster of other students and faculty staring up at it. There was a small plaque on a stand in front that read: *Book of Families*. Each page of the book had twelve sections. A name, and below it, a design.
+“These are crests.” I said, mostly to myself.
+
+They were harder to read flat on paper than wrapped around someone’s arm, but the structure was the same as the ones in my textbook. Each one started with a thick black line at the base and ended with a thinner one, and everything in between was completely its own. Geometric shapes, fractals, curse, and hard angles and circles that went nowhere. My eyes glazed over trying to follow it all. And the names weren’t much better – Osswyn, Ovael, Paedon, Pahryn, Paimos – each one sounding like it required a raised pinky and a “spot of tea” just to pronounce.
+I was about two seconds away from making a snarky comment about it when a kid – maybe six years old – waddled up to the stand and put both hands on the plaque, staring at it intensly.
 “T–the. The bu–book–”
-“Daemon, don’t touch that!” a booming voice arose from behind my as a rather large woman–I assume Daemon’s mother–came barreling out of the crowd to pull her child away from the plaque, just as he was getting the last words out.
-“–fam-lies”
-The mother hooked her arm under Daemons’ and swooped him up with much more strength than I would’ve thought.
-“Yes, hon. That’s the book of families.”
+“Daemon, don’t touch that!” A large woman came barreling out of the crowd behind me and swooped the kid up with one arm, with more strength than I would’ve guessed. 
+“–fam-lies,” he finished anyway.
+“Yes, hon. That’s the Book of Families.” She tidied his collar without missing a beat.
 “Aw we inn the-h book?”
-“Of course, baby, ” she exclaimed, tidying up the collar of his polo as she continued, “We’re all in there.”
-She began to pull herself and the child away, merging back into the sea of people flooding towards the stairs as Mr. Terrell fought his was back out, coming to join me.
-“There you are,” he said, “I got all the way to the bottom before I realized you weren’t behind me.”
-“What is this?” I asked, gesturing over towards the book.
-“The book of families. It houses all the crest designs and names of anyone who’s attended the–”
+“Of course, baby. We’re all in there.” She folded back into the crowd, and they were gone.
+Mr. Terrell reappeared at my shoulder, once again attempting to scare the life out of me. “There you are. I made it all the way to the bottom before I realized you weren’t behind me.”
+“What is this?” I asked, still looking at the book, now attempting to find the missing puzzle piece.
+“The Book of Families. It houses all the crest designs and names of families for anyone that’s ever attended the–”
 “No,” I interrupted, “I know that, I read the plaque. But why is MY name not there?”
-I hadn’t thought it until the mother pointed it out, but if my mom went to this school, then my name should have been in the book. But I read through those names, and passed where mine would have been with nothing.
-“Ah, that’s…” Mr. Terrell began trailing off, his expression tightening as if trying to find the right thing to say in this moment. I’d seen it before; too many times.
-“…I don’t know.” He finished. “But what I DO know is that we’re going to be late for orientation if we don’t go.”
-I’d been in my own head and looking at the book so long that the crowd was now gone, and it was just us in the large foyer. A sudden emptiness that mimicked how I felt about his answer.
-“Fine.” I scoffed.
-I pinned a sticky note on that mental corkboard I had been making.
-*Mr. Terrell knows more than he’s telling me.*
+I hadn’t thought it until the mother said, *we’re all in there*. But if my mom went here, my name should be in there. I’d scanned the P section already. Nothing.
+Mr. Terrell’s expression did the thing I’d seen from too many people before – tightening, like he was sorting through something that he wasn’t allowed to say.
+“I don’t know, ” he finally said.
+The crowd was gone. The foyer was just us now, and the quiet sat between us like the room you were supposed to leave for Jesus during a dance.
+“Buuut,” he pivoted “I DO know that if we don’t get down there you’re going to miss the opening ceremony.”
+“Fine,” I said, not having the energy to fight him at the moment.
+I pinned a note on the mental corkboard I’d been building since I got here.
+*Mr. Terrel knows more than he’s telling me.*
