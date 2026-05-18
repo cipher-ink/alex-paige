@@ -256,7 +256,7 @@
       }
     }
   ],
-  "showWordCountInStatusBar": true,
+  "showWordCountInStatusBar": false,
   "startNewSessionEachDay": true,
   "sessionGoal": 500,
   "applyGoalTo": "all",
