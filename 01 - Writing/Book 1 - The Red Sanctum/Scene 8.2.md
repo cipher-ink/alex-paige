@@ -54,4 +54,23 @@ As we approached, following the masses through and towards the staircases on eit
 I broke away from the crowd, my curiosity getting the better of me, and stood next to some other students and faculty to simply stare at the giant thing. There was a plaque on a comparatively tiny stand in front that said: "Book of Families".
 Each paper held 12 different sections, each representing a name and a scrawling patterned design below it.
 “These are crests.” I remarked, thinking back to my reading.
-It was difficult to recognize them at first since they were scrawled on a flat piece of paper instead of wrapped around someone’s arm, however the styles were the same as the ones I’d seen in the textbook. Each one started with a thick black line at the base and ended with a thinner line at the end, however everything in between was unique. As my eyes flowed down the page
+It was difficult to recognize them at first since they were scrawled on a flat piece of paper instead of wrapped around someone’s arm, however the styles were the same as the ones I’d seen in the textbook. Each one started with a thick black line at the base and ended with a thinner line at the end, however everything in between was unique. Different patterns adorned the page with no discernable style. Some were geometric in shape, some fractals. Curves, circles, diamonds, and rigid linework took up the bulk of the page. My eyes became cross-eyed as I attempted to make heads or tails of the designs, everything turning to a puddle of ink. The names written below them weren’t much better. Osswyn, Ovael, Paedon, Pahryn, Paimos; the names went on and on, each one worse than the last. I couldn’t find a single name that didn’t sound like it was supposed to be said with a raised pinky. Just before I could scoff and make a chide remark at the book, a little kid–probably around 6 years old–waddled up to the stand and placed his hands on either side of the name plaque.
+“T–the. The bu–book–”
+“Daemon, don’t touch that!” a booming voice arose from behind my as a rather large woman–I assume Daemon’s mother–came barreling out of the crowd to pull her child away from the plaque, just as he was getting the last words out.
+“–fam-lies”
+The mother hooked her arm under Daemons’ and swooped him up with much more strength than I would’ve thought.
+“Yes, hon. That’s the book of families.”
+“Aw we inn the-h book?”
+“Of course, baby, ” she exclaimed, tidying up the collar of his polo as she continued, “We’re all in there.”
+She began to pull herself and the child away, merging back into the sea of people flooding towards the stairs as Mr. Terrell fought his was back out, coming to join me.
+“There you are,” he said, “I got all the way to the bottom before I realized you weren’t behind me.”
+“What is this?” I asked, gesturing over towards the book.
+“The book of families. It houses all the crest designs and names of anyone who’s attended the–”
+“No,” I interrupted, “I know that, I read the plaque. But why is MY name not there?”
+I hadn’t thought it until the mother pointed it out, but if my mom went to this school, then my name should have been in the book. But I read through those names, and passed where mine would have been with nothing.
+“Ah, that’s…” Mr. Terrell began trailing off, his expression tightening as if trying to find the right thing to say in this moment. I’d seen it before; too many times.
+“…I don’t know.” He finished. “But what I DO know is that we’re going to be late for orientation if we don’t go.”
+I’d been in my own head and looking at the book so long that the crowd was now gone, and it was just us in the large foyer. A sudden emptiness that mimicked how I felt about his answer.
+“Fine.” I scoffed.
+I pinned a sticky note on that mental corkboard I had been making.
+*Mr. Terrell knows more than he’s telling me.*
