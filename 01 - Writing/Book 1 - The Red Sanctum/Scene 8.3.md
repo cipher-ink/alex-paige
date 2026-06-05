@@ -1,0 +1,10 @@
+---
+cssclasses:
+  - novel-formatting
+---
+The full orientation and opening ceremony was *long*, so I’ll spare you the details and just go over the important bits.
+We walked down the staircase which curved to the left to join with the other on the opposite side, creating a wider central set of stairs leading into one of the largest rooms I’d ever seen. Mr. Terrell had called it the ‘Grand Central Station’ of Caldwell Hall, but that was putting it lightly.
+The central room was impossibly big–enchanted I assumed–reaching five stories tall with each story taking up at least twenty feet. Thick white marble columns supported each floor, adorned with lit scones and large banners with the same griffin as my uniform.
+Other than the banners, it was difficult to make out anything on the other floors because of the incoherent set of staircases and walkways that filled the upper section of the hall. Each floor looked to have a connection with each other floor, but the way they were made twisted and turned into a maze. Some went up and down, some twisted, one looked to turn upside down halfway through, and one was just a ladder bolted into the side of the marble. There was no discernable pattern to them, as if they were created at the convenience and whim of the person who needed it rather than being implemented when the building was made.
+Ahead of me was the large opening that lead to the “cathedral”, but we’ll get there in a minute. To the right of it, heading off at a diagonal was a thin hallway ending in a staircase leading even further down beyond sight. Directly to the right, another hall lead further down with doorways on the left side before abruptly ending and turning left to the rest of the building.
+The left was the most open; the first floor looked like an exhibit area with dioramas littered throughout showing all sorts of things, the coolest of which was this giant pterodactyl like creature that walked on four legs like a panther. I didn’t get a closer look before Mr. Terrell pulled me along, but he said it was called a Sedrek.

@@ -44,6 +44,7 @@ longform:
     - - Scene 8.1
       - - Scene 8.1 (Revised)
       - Scene 8.2
+      - Scene 8.3
   sceneTemplate: 99 - Meta/templates/(TEMPLATE) Novel Formatting.md
   ignoredFiles: []
 ---
