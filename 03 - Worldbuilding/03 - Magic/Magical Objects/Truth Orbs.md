@@ -8,4 +8,4 @@ These magical orbs are integral to helping someone find their [[Affinities|affin
 When an orb reacts, it will react in a way indicative of their sub-affinity. Should a person be more inclined towards light magic, it may glow brightly. If they are good at summoning familiars, the orb may show the face of a spirit looking to make a contract with them.
 
 ### Composition
-These orbs are made out of a crystallized form of [[Berillium]]. Though it’s possible to have a single Truth Orb that tells a person their affinity, sometimes the answers can be a bit muddy, thus orbs were crafted to be more specific to the classes of magic. Usually when you see them, they will be in batches of four, one for each class.
+These orbs are made out of a crystallized form of [[Beryllium]]. Though it’s possible to have a single Truth Orb that tells a person their affinity, sometimes the answers can be a bit muddy, thus orbs were crafted to be more specific to the classes of magic. Usually when you see them, they will be in batches of four, one for each class.

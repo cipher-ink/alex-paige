@@ -82,8 +82,7 @@ The body itself acts as a **conduit** — mana flows through the circulatory sys
 
 **Beryllium** is the premier focus material. A naturally mana-tuned mineral, it allows mana to pass through it cleanly and be shaped with precision. Early practitioners used large Beryllium crystals. In a pinch, a practitioner can use their own body as both conduit _and_ focus — but this is inherently dangerous, as the body was not designed to bear that final release.
 
----
-
+- - -
 ### What Casting Feels Like
 
 **Without a crest**, casting magic is a full-body experience. As mana channels through the circulatory system it produces a deep, spreading warmth — often described as drinking hot tea on a very cold day. The warmth builds as mana moves through the body and concentrates as it approaches the focus, then releases in a single directed burst.
@@ -124,7 +123,6 @@ Some people never awaken a manifestation at all.
 Manifestations can be passed down through **Blood Marks** — the magical inheritance encoded in bloodlines. However, an inherited manifestation does not transfer unchanged. It adapts to align with its new user, sometimes subtly and sometimes dramatically.
 
 > **Example:** Alex's mother can generate light by exciting the atoms and photons around her — she is a source. Alex can manipulate light, but cannot create it. She alters the density and weight of photons, requiring them to already be present. Same fundamental power. Entirely different expression.
-
 ### The Two Stages
 
 **Convergence** The first stage — the moment a manifestation initially appears. This typically happens naturally as a person ages, though it can be blocked. When the pathway is obstructed, it must be forcibly opened.
@@ -202,11 +200,64 @@ Spells can be replaced, but not quickly. An Encoder must carefully untangle and 
 
 ### Blood Marks
 
-Blood Marks are genetic markers passed down through family lines. They are the mechanism by which affinities, manifestations, and crest designs are inherited.
+Blood Marks are genetic markers passed down through family lines. They are the mechanism by which affinities, manifestations, and crest designs are inherited. But a Blood Mark does two distinct things, and conflating them is one of the more common misunderstandings even among experienced practitioners.
 
-When a crest is applied to someone carrying a Blood Mark, the encoder's design is overridden — the crest shifts to reflect the ancestral design tied to that bloodline.
+**Design inheritance** is automatic and biological. When a crest is applied to someone carrying a Blood Mark, the encoder's design is overridden — the crest resolves into the ancestral design tied to that bloodline, unchanged from the first time it was ever applied. No encoder can alter this. It simply happens, the same way eye color does. Every member of a bloodline who receives a crest will wear the same base design.
 
-More significantly, Blood Marks carry an **ancestral knowledge pool**. The crest does not transmit spells directly, but it passes down something like deeply embedded memory — closer to magical muscle memory than conscious knowledge. If an ancestor spent forty years mastering a particular spell, their descendant may find that same spell comes naturally in twenty. Practitioners describe it not as inherited information but as inherited _familiarity_ — as though the Weave itself remembers on their behalf.
+#### The Lineage Anchor
+
+The Anchor is the living core of a family crest — the accumulated magical identity of a bloodline, actively present in a single host at a time. It is what makes a family crest _breathe_. When mana flows through an Anchor crest, the linework moves — subtle, almost imperceptible, but unmistakable to anyone who knows what they're looking at. The design shifts as mana passes through it, like watching light move through water. The glow of an Anchor crest during casting is noticeably more vibrant than that of a standard crest, richer in color and depth.
+
+Crests without the Anchor — worn by other members of the same bloodline — are called **Scar Crests**, or just scars. The design is identical. The glow functions normally. But the linework is static. Still. It does not breathe. To a trained eye, the difference is immediately readable.
+
+Only one person can hold the Anchor at a time. Passing it is a deliberate act, not a biological one — which means it does not automatically transfer to the firstborn, or to anyone. The current Anchor holder chooses who receives it, and when.
+
+#### Passing the Anchor
+
+The Anchor can be transferred in one of two ways.
+
+The first is a direct transfer between living people — a ritual that passes the Anchor from the current holder to a chosen recipient who carries the same Blood Mark. This is the older method, and the more intimate one. The current holder loses the Anchor permanently. Their crest does not degrade — their spells still function, their encoding is unchanged — but the ancestral depth leaves with it. They retain everything they personally learned. The inherited familiarity, the deep muscle memory of generations, transfers to the new host.
+
+The second method is object storage. An Anchor holder can perform a ritual to transfer the Anchor into a physical object rather than a living person. The Anchor remains dormant inside the object indefinitely — it does not degrade, does not weaken, does not expire. The next person carrying the correct Blood Mark to make physical contact with the object receives the Anchor automatically, and their grimoire manifests at that moment.
+
+Object storage is the more common choice among prudent families precisely because death is unpredictable. A stored Anchor can survive its original holder. A direct transfer cannot happen posthumously.
+
+#### What the Anchor Carries
+
+The Anchor holds the **ancestral knowledge pool** — something closer to deeply embedded magical muscle memory than conscious knowledge. If an ancestor spent forty years mastering a particular spell, their descendant may find that same spell comes naturally in twenty. Practitioners describe it not as inherited information but as inherited _familiarity_ — as though the Weave itself remembers on their behalf. This depth accumulates across generations. An ancient bloodline with an unbroken chain of Anchor transfers carries centuries of compressed experience. A newly regenerated Anchor carries none.
+
+#### Loss and Destruction
+
+If an Anchor holder dies without transferring the Anchor — whether through direct transfer or object storage — the Anchor dies with them. It does not pass automatically. It does not seek a new host. It is simply gone. If an Anchor stored in an object is destroyed before anyone with the correct Blood Mark touches it, the Anchor is gone with it.
+
+In either case, the Blood Mark itself survives in the bloodline. The design still manifests. The family's crests still resolve correctly. But every member of that bloodline now wears a Scar Crest, and the ancestral knowledge pool resets entirely. Eventually — across enough generations — a new Anchor forms naturally within the bloodline, beginning the accumulation again from nothing. The family does not disappear. But it starts over.
+
+This has historically made Anchor destruction one of the most severe punishments available to magical governance. Imprisoning a practitioner leaves their family intact. Destroying their Anchor erases their lineage's depth while leaving every member alive to know exactly what was lost and why. As a formal sentence, the condemned is compelled to store their Anchor in an object, which is then destroyed in front of witnesses. The practitioner walks away. Their crest still functions. But it no longer breathes, and everyone who knows what they're looking at will see it.
+
+The same logic applies to political violence between families. Destroying or intercepting an Anchor object is not murder. There is no body. There is no obvious crime. There is only a family whose crest suddenly went still, and no way to prove how it happened.
+
+- - -
+### Grimoires
+
+A grimoire is not simply a tool. It is not a spellbook, a journal, or a repository of notes. It is the Blood Mark made legible — the accumulated identity of a bloodline given a physical form that can be perceived, carried, and eventually passed on.
+
+Every person who carries a Blood Mark has a grimoire, whether they know it or not. Before it manifests, it exists as pure potential — present but formless, waiting. The moment a person receives the Lineage Anchor, their grimoire manifests physically. This is not a metaphor. The object appears — somewhere on or near the recipient's person — fully formed.
+
+What a grimoire looks like is entirely its own business. No two are identical, and they do not conform to expectation. Some are bound books with blank pages that fill over time. Some are objects with no obvious written surface at all — a compass, a stone, a small mechanical device. The form reflects something about the bloodline, or the new holder, or both. Practitioners have argued for centuries about which. The grimoire does not explain itself.
+
+#### What a Grimoire Does
+
+A grimoire is the physical anchor point of the ancestral knowledge pool. The inherited familiarity that comes with the Anchor — the compressed magical muscle memory of every generation that came before — lives in the grimoire as much as it lives in the crest. Consulting a grimoire is less like reading and more like remembering something you were never taught. The knowledge surfaces when it's needed, in the form it's needed, and resists being accessed out of context.
+
+Over time, a grimoire accumulates the current holder's own experience as well. Spells developed, techniques refined, knowledge hard-won — all of it layers into the grimoire alongside what was already there. When the Anchor is eventually passed on, the new holder inherits not just the ancestral pool but everything the previous holder added to it.
+
+#### Grimoires and Scar Crests
+
+Only the Anchor holder has a manifested grimoire. Members of the same bloodline wearing Scar Crests do not — their grimoire remains in its unmanifested state, present but formless. This is another visible marker of the distinction between an Anchor crest and a Scar Crest, though a less public one. You cannot see someone's grimoire the way you can see their crest. But in the right contexts — at the Sanctum, among families who know each other — the presence or absence of a manifested grimoire is noted.
+
+#### Grimoires and Destroyed Anchors
+
+When an Anchor is destroyed, the current holder's grimoire does not vanish — but it goes dark. The pages, if it has them, go blank. The object becomes inert. It still exists physically, but it no longer functions as a living document. Some families keep darkened grimoires as artifacts or memorials. Others find the sight unbearable and dispose of them. Either way, when a new Anchor eventually forms in the bloodline generations later, a new grimoire manifests with it. The old one does not reactivate.
 
 ---
 

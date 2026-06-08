@@ -6,11 +6,11 @@
   "sessionStorage": "data",
   "sessions": [
     {
-      "start": "2026-06-05T15:47:17.584Z",
-      "total": 368,
+      "start": "2026-06-08T14:51:33.424Z",
+      "total": 0,
       "drafts": {
         "01 - Writing/Book 1 - The Red Sanctum/Index.md": {
-          "total": 368,
+          "total": 0,
           "scenes": {
             "I Destroy the Museum of Natural History": 0,
             "Scene 1.1": 0,
@@ -50,8 +50,7 @@
             "I Go Back to Class": 0,
             "Scene 8.1": 0,
             "Scene 8.1 (Revised)": 0,
-            "Scene 8.2": 0,
-            "Scene 8.3": 368
+            "Scene 8.2": 0
           }
         }
       }
