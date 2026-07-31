@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785516544669-5tauh873x",
+  "providerId": "claude",
+  "title": "im currently working on my outline and finally fin...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785516544669,
+  "updatedAt": 1785537039687,
+  "lastResponseAt": 1785516573583,
+  "sessionId": "379b0cea-72c4-46bf-9a26-1c6e8809c9a4",
+  "selectedModel": "claude-code/kimi-k2.6:cloud",
+  "providerState": {
+    "providerSessionId": "379b0cea-72c4-46bf-9a26-1c6e8809c9a4"
+  },
+  "currentNote": "04 - Plot/Book 1/Book 1 - Story Bible.md",
+  "usage": {
+    "model": "kimi-k2.6:cloud",
+    "inputTokens": 31669,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 8000,
+    "contextTokens": 31669,
+    "percentage": 100
+  }
+}

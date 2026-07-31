@@ -5,7 +5,6 @@
   "homepage",
   "longform",
   "banners-reloaded",
-  "github-copilot",
   "obsidian-excalidraw-plugin",
   "obsidian-kanban",
   "url-into-selection",
@@ -14,5 +13,6 @@
   "tag-wrangler",
   "fit",
   "obsidian-git",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "realclaudian"
 ]

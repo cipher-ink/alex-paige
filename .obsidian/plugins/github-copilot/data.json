@@ -33,7 +33,7 @@
       "value": "gpt-5.2"
     }
   },
-  "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping the user with their tasks in Obsidian.",
+  "systemPrompt": "You are a senior writer who has written many books, looking to help a new upcoming writer with critiques for their new book, The Red Sanctum.",
   "invertEnterSendBehavior": false,
   "extraCACerts": "",
   "enableMarkdownRendering": true,
