@@ -14,7 +14,7 @@
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
   "customContextLimits": {
-    "kimi-k2.6:cloud": 8000
+    "kimi-k2.6:cloud": 50000
   },
   "customModelAliases": {},
   "keyboardNavigation": {
