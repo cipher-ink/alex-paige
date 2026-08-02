@@ -2,15 +2,11 @@
   "tabManagerState": {
     "openTabs": [
       {
-        "tabId": "tab-1785514907752-jkxt7dg",
-        "conversationId": "conv-1785516544669-5tauh873x"
-      },
-      {
         "draftModel": "claude-code/kimi-k2.6:cloud",
-        "tabId": "tab-1785621229399-4zw5tiy",
-        "conversationId": null
+        "tabId": "tab-1785697351668-h4b0p1s",
+        "conversationId": "conv-1785697476248-n5kwpeyg6"
       }
     ],
-    "activeTabId": "tab-1785621229399-4zw5tiy"
+    "activeTabId": "tab-1785697351668-h4b0p1s"
   }
 }
