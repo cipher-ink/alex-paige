@@ -40,6 +40,165 @@ kanban-plugin: board
 
 ## Act 2
 
+- [ ] # Chapter 8
+- [ ] #### Scene 8.1
+- [ ] Alex is alone on the cabin roof, looking out into the sky and wondering about her first day in the Sanctum. She wishes that her dad could be there to see her off, but curses at herself for bringing the mood down.
+- [ ] Mr. Terrell arrives without any announcement, startling Alex. He gives her some hot chocolate and sits there, not talking but at least giving Alex some solace with his company
+- [ ] They talk about what will happen tomorrow and how nervous Alex is and he mentions his own first day at the Sanctum as a third ring. Alex asks about the rings but he says she will learn about it soon enough.
+- [ ] Mr. Terrell messes up Alex’s hair while getting up and saying that it’s time for bed as they head back downstairs.
+- [ ] #### Scene 8.2
+- [ ] Alex wakes up late and rushes to get ready, finding Mr. Terrel calmly waiting outside for her. He takes her up the hill and she finally gets a good look at the Sanctum itself, not realizing it was so close by.
+- [ ] Mr. Terrell has her pull out a thick piece of paper – called a port – and imbue her magic into it, teleporting the two of them into the Sanctum’s outer courtyard.
+	
+	Alex has to struggle to not lose her breakfast, but recovers as they walk through the main courtyard and Alex sees Cornwall Hall from up close.
+- [ ] They enter the front of the hall and are greeted with the Book of Families, which Alex takes some interest in. she watches as people approach the book and their name/crest appears on it. Alex approaches and nothing happens, prompting some whispers from the crowd and Alex feeling embarrassed. Mr Terrell pulls her away as she interrogates him, but he says that it must have just been an error since she’s so new. Alex notes that he’s clearly hiding soething as they move on.
+- [ ] #### Scene 8.3
+- [ ] Alex is placed into a pew with some other students near the back as orientation begins. Vael comes to the front podium and begins a magic display and has a speech about the importantce of the Sanctum and seems to make prolonged eye contact with Alex throughout.
+- [ ] After the speech, she skips to the end past a few more introductions to the grounds itself.
+	
+	Mr. Terrell finds her after and hands her a small map - hand drawn - telling her to make her way to the third house since he has to go meet with the other faculty. She is in room E22.
+- [ ] Alex almost imedietly gets lost as the campus’s trails are a winding mess. She sees a couple of the more posh buildings before finally coming across the third house. It’s a bit modest and worn compared to everything else, but still huge.
+- [ ] She is looking at the map when someone rounds the corner and runs directly into her. She bounces back a bit, but Wyll topples over completely.
+	
+	Alex helps him up, noting how small he is. Wyll apologizes and scrambles to pick up everything while introducing himeself.
+- [ ] They realize they are heading to the same classroom and decide to walk together. Wyll points out some small things as they walk like a shortcut, the maze and cafe in the center, the enchantment workshop, etc.
+- [ ] As they go inside the building and find the classroom (bottom floor all the way to the left) Alex steels herself before going inside.
+- [ ] #### Scene 8.4
+- [ ] Alex expects something magic when she walks in. Cauldrons and crystal globes, maybe a floating desk. But it’s just a normal looking classroom. Desks in rows, a big whiteboard at the front. Slightly musty, but otherwise normal.
+- [ ] The knot in her gut loosens as she finds her way in, sitting herself down next to Wyll near the windows on the left side of the classroom. He asks her if this is her first year, to which she replies yes, and Wyll is amazed, jumping into a whole set of questions about why she is starting so late. Alex gets reminded of her dad and doesn’t really answer, but she notices the staring from some of the other students. Particularly one at the very front of the classroom.
+- [ ] Trina looks away as they make eye contact, pretending to look at her book as the front door opens and Mr. Terrell walks in. He makes eye contact with her and waves, to which more people turn back and stare: causing her to place her head in her hands.
+- [ ] Mr. Terrell introduces himself as the homeroom teacher for class E22, to the surprise of Alex.
+- [ ] # Chapter 9
+- [ ] #### Scene 9.1
+- [ ] Alex feels a strange relief that Mr. Terrell is her homeroom teacher as he explains the logistics of school as  fifth-year.
+	
+	From this year on they will be splitting, having classes across the whole of campus and the freedom to walk around between periods. Homeroom is twice daily, morning and after lunch, and is the time for all of them to chat, convene, and ask questions to help each other as well as any announcements they might need.
+- [ ] He also explains that starting this year they are assigned practicum classes based on their affinities and skillsets. Most students will have already learned their affinity, but a few haven’t and that’s okay. Alex flinches as he makes eye contact, looking away.
+- [ ] Alex is brought back to the moment with Mr. Terrell calling her name and asking for her to explain to the class what an affinity is.
+	
+	Alex stands and becomes nervous, unable to remember even though she explicitly remembers the book she read about it.
+- [ ] As she is looking around, she makes eye contact with Trina again, who is pointing at her wrist where her Crest is. That little hint gives Alex what she needs to answer the question. Mr. Terrell confirms the answer and she sits down, taking a deep breath and making a thankful eye contact with Trina.
+- [ ] After class ends and they are set loose for their first period, Alex begins packing her notebook as Trina appears at the edge of her desk. She introduces herself confidently and directly, while also being a little probing. She seems headstrong, the opposite of Wyll. 
+	
+	“You must be new, because i know everyone in the Third Ring”
+- [ ] Alex remembers back to Mr. Terrell explaining the rings to her as they were walking up the hill, but upon seeing Wyll’s dejected face asks what’s really going on with the rings since Mr. Terrell didn’t seem to enjoy his own explanation.
+- [ ] Trina explains it plainly. They aren’t about grades and merit. It’s about bloodline, resources, and connections. First Ring gets all the praise. The best gear, resources, and chances. Second Ring is for those who are of “good standing” but can’t make it into first ring. And then there’s Third Ring. The “commoners” who are just lucky to have been accepted at all. She points out the state of this hall compared to the rest.
+- [ ] She explains that no one from third ring has advacned to Second or First in over eighty years. Alex feels the tension rise in the room, but Trina brushes it off as they all exit the classroom to find Mr. Terrell waiting, asking Alex to follow.
+- [ ] ### Scene 9.2
+- [ ] Terrell walks with Alex as Wyll and Trina head off to their classes. Trina says to come by the enchantment labs if she gets the time.
+- [ ] On the way, Terrell explains to Alex that since she is starting so late and doesn’t have her crest yet to cast magic, the supplementary classes she is taking will be about her manifestation. He explains a little about what that is to her as they approach Thorne’s office.
+- [ ] The office is cluttered with papers, devices, and the smell of ozone and green tea. Thorne appears from behind a desk to introduce himself. He is earnest and enthusiastic, but off in some way. Like he’s full of energy that he doesn’t actually have. Dark circles under his eyes which are always darting to and fro.
+- [ ] Thorne explains his work with manifestations and brushes off the “Master of Manifestations” moniker, simply explaining that he’s been researching them his whole life.
+- [ ] He takes a vial of Alex’s blood while asking her about her manifestation. As Alex explains her light abilities and inability to really control them, Thorne seems more and more excited. He explains that it’s very rare for a person to start this late and that her powers seem very interesting. Alex notes that he’ almost TOO interrested.
+- [ ] Thorne explains that throughout the next day or so she may notice her powers fluctuating. He states it’s nothing to worry about and just a side effect of the device he used to take her blood.
+- [ ] Alex leaves with some sense of unease, not sure how to feel about Thorne, and notes to Terrell that he looked really tired.
+- [ ] #### Scene 9.3
+- [ ] Alex went to the enchantment labs only to find the aftermath of them exploding since Trina decided to enchant something she shouldn’t have. Class is concluded early as Trina explains that she could have done more with her dad’s tools at home. Alex learns that her dad died, and they have something to connect over as they join back up with Wyll.
+- [ ] They begin walking down towards the cafeteria to get an early lunch when Wyll is pushed to the ground by a group of Second Ring students bumping into him on purpose.
+- [ ] Tristan, the leader among them, looks down at Wyll and notices his chains marking him as a third ring. Beginning to mock him.
+- [ ] Trina helps Wyll up as Tristan notes his scrawny build, stating that the “weeds” are a waste of space and resources. Trina says that the term “weed” isn’t allowed, to which Tristan just remarks that “blooms” don’t need to follow their rules.
+- [ ] Alex retorts without thinking, having grown restless from watching this bullying happen. She says something sharp, loudly enough that even some other students hanging around in the halls have a look over to see what’s going on. A few of them giggle and turn away after Tristan’s death glare.
+- [ ] Tristan responds, to which Alex continues raigebaiting him as he begins to step closer. Alex steps in, at this point unable to give in. She gives him a retort to which one of the other kids begins casting a spell.
+- [ ] Tristan forces them to stop, stating that there are professsors around. He gets right up in Alex’s face and proclaims that they weren’t finished as they walk away.
+- [ ] Alex looks down at her wrist and to Wyll who is still shaking slightly as she notes that she just made an enemy of someone who has a crest, training, and status – all things that she doesnt.
+- [ ] # Chapter 10
+- [ ] #### Scene 10.1
+- [ ] Alex has fallen into a routine: Homeroom with Terrell, classes across the campus. The winding paths she’s slowly learning to navigate without a map. She discovers she actually enjoys Magical History: she didn’t know the Boston Tea party was about the Beryllium trade and taxation about magical goods. Math still remains a slog, even if she’s doing formulas for magic spells and trajectories instead.
+- [ ] Alex visits Trina at the enchantment labs only to find her arguing with Professor Galch about the maximum range of a Scrying Stone. Alex doens’t really understand, but she laughs when Trina starts waving around a soldering wand as a weapon, leaving her be.
+- [ ] Alex has seen Thorn twice. Both times he’s continued to look tired and hopped up on caffine. “Man needs a break”. But he’s teaching her about her breathing and how to actually control her powers. She creates a small hardlight cube in her hand as proof, but it quickly deteriorates. She’s better, but not good yet.
+- [ ] She still wakes up in the night screaming. Nightmares about her dad. But at least during the day it gets drowned out by classes. She’s starting to belong, at least a bit. Wyll saves her a seat at lunch. .Trina borrows her notes and improves them with diagrams that she can understand. It’s a life. She just didn’t expect it to happen so quickly. She feels almost guilty that she’s moved on
+- [ ] #### Scene 10.2
+- [ ] It’s thursday afternoon and Mr. Terrell is running alex through supplemental training. They do this twice a week in one of the training rooms below [[The Sanctum |Aegon Hall]]. He is teaching her martial arts and how to defend herself against magical attacks instead of thrusting her into how to cast spells. He explains that until she has a crest, she needs to be prepared to defend herself. Alex asks what at the school would she need defending from, but he doesn’t answer.
+- [ ] He teaches her how to imbue objects with her magic, having her wrap light around two wooden sticks that she’s using for training. Eventually she will be able to make them without the wood beneath, but thats a ways away. Just maintaining the light over the sticks was hard enough, requiring constant focus and breath control. And when she lost focus to look at Mr. Terrell’s attacks, the light would dissolve.
+- [ ] During the training though, a moment strikes her. Terrell goes on the offensive, feinting an attack left that she’s seen dozens of times at this point. She knows that he’s coming from the right, but can’t react in time to block. As she turns and sees his escrima stick coming at her, the light on the bottom side of her stick extends to block it automatically to both her and Mr. Terrell’s shock.
+- [ ] The moment is quickly over when the light breaks having no support underneath and Alex gets whacked in the shoulder. She asks what happened there, and he explains that her power is reactive. Since she isn’t able to react faster than light can, her power can use her emotions to react for her. It’s not controlled, but eventually it would be very difficult to get the drop on her.
+- [ ] #### Scene 10.3
+- [ ] It’s friday evening and Alex is walking with Wyll and Trina out of the library. Alex was given a lot of supplementary material to go through, and the others decided they would study with her, to her amazement. As they are leaving, they discuss what they want to do over the weekend and Trina explains that she wants to try solving the maze to get to the cafe.
+- [ ] While her and Wyll argue about getting through the maze, Alex thinks on the fact that she hasn’t seen Tristan (“that guy”) all week. It unnerves her with the last words that he left on, but she doesn’t really think he’s going to do anything wild, right?
+- [ ] She asks the two, breaking the argument and they give her the name Tristan and explain that they don’t really know him. Second Ring doesn’t mix with Third, but Trina overheard someone talking about Tristan’s brother Cayden returning from a quest. Alex decides to ask about quests later, but inquires about Cayden, to which the other two promptly end the conversation.
+- [ ] She decided it was for the best that she hadn’t seen Tristan around. And the other Second Ring students weren’t messing with her either. Sure they would give turse glances, but they wouldn’t say anything.
+- [ ] She returns to the cabin to Mr. Terrell reading with lamplight on, welcoming her home as he sips some coffee. She decides to get some of her own before grabbing a book and joining him, but she’s stopped as she puts her stuff down on her bed and a piece of paper falls out of her book. Someone had slipped it in there while she wasn’t looking
+- [ ] She opens the note and lets out a gasp.
+- [ ] # Chapter 11
+- [ ] #### Scene 11.1
+- [ ] Alex reads the note, which was written by Tristan. It explains that they have Wyll and he challenges her to a duel. She must come alone to the game fields after lights out, or she may never see Wyll again.
+- [ ] Alex doesn’t really believe that Tristan could or WOULD kill someone. He seemed like a prick, but not evil. But something about the note gets her riled up. She can feel some anger inside that someone is attempting to ruin this small bit of peace that she found.
+- [ ] She goes out to Mr. Terrell, ready to tell him and put a stop to this, but just as she is about to something stops her. She can’t tell what it is – pride? Or a fear that always running to an adult wouldn’t solve anything. She pulls herself back and waits in her room until Mr. Terrell goes to bed.
+- [ ] She pockets the note, puts on a jacket, and slips out into the night. She uses her port key to get in, finding it odd that she would be allowed in after lights out, but she continues down the winding paths and towards the game fields.
+- [ ] She has to hide from some students who were walking the grounds. They were Second Ring students who were on a night-watch patrol that they shared duty with the Third Ring.
+- [ ] She gets to the fields and there is a thick overcast of clouds, the moon barely peeking through. She can see cause of her powers, but it’s pretty dark. She finds Tristan waiting there, two goons at his side and Wyll on the ground.
+- [ ] Wyll doesn’t actually look hurt, just tied up with a binding spell, eyes wide with an apology.
+- [ ] Tristan throws his glove down, signifying the duel. He isn’t going to let her talk down to someone above her station. She needs to learn her place.
+- [ ] Alex chides him for needing to take a hostage instead of being man enough to challenge her, and that seems to set him off even more. Tristan has them let go of Wyll, to which Alex originally was just going to run. But some part of her was having fun. Even if she was about to get her but kicked.
+- [ ] She accepts the duel as Wyll runs off to the side, begging Alex to just go find the monitors. She cracks her knuckles and makes a final remark to Tristan, to which he angrily charges to begin the duel.
+- [ ] #### Scene 11.2
+- [ ] Tristan swings at her with a wooden training sword, practiced and methodical, while she wasn’t given anything to fight back with. The duel is completely one sided as Alex attempts to dodge and gets tripped by an earth spell that Tristan uses without an incantation.
+- [ ] He points the wooden sword at her and tells her to yield, to which she sticks her tongue out and waits for his attack, sweeping him under the legs and sending him to the ground as well. She uses this moment and kicks his hand, knocking the sword out from it and skittering to the side.
+- [ ] She lunges for it but gets grabbed by the ankle and tumbles. She recovers only to notice Tristan conjuring a ball of flame to hurl at her. She goes to make a shield out of light, but nothing happens. It’s then she remembers that she NEEDS light to use her powers and with the overcast she wasn’t so lucky.
+- [ ] Dodging out of the way the flame hits the turf with a sizzle as she rushes to close the distance, remembering Mr. Terrell’s explanation: “Magi don’t tend to be good at close combat, so if you can close the distance they get frazzled.” He was right as Tristan began the incantation for a spell but she was already there swinging a punch directly at his face.
+- [ ] She hits something hard though as a wall of force in the shape of a shield appears to block her attack. Tristan uses the moment to kick her in the stomach, sending all the breath out of her and tumbling to the ground. Tristan aknoledges that she made him use his manifestation. Alex could no longer see the pride and disdain on his face, instead it looked like he was just having fun. She was too, she admitted, but she was severely outmatched.
+- [ ] Tristan walks to pick up the sword, declaring that this duel was over. He uses magic to create a barrier around the sword, extending it from a training sword to a full longsword. A spectral shield appeared on his other arm and Alex thought he really looked like a knight, grinning in the little bit of light that crept through the clouds.
+- [ ] She readies herself before a yell comes from the other end of the field where Wyll is. Trina had appeared and throws something at Alex. “Use this!”
+	
+	She catches a small spherical shaped object no bigger than an orange, but with a button on it. Tristan begins charging towards her, intent on ending the duel an Alex presses the button without thinking.
+- [ ] A blinding flash appears from the ball, illuminating nearly the entire game field. Tristan stopped and covered his eyes, but Alex was perfectly fine, and her body moevs on instinct, a calm washing over her. She reaches out and feels herself grabbing hold of the light. She breahtes in deep and brings all of the light in, condensing it into a long stick which she breaks in two, just like with Mr. Terrell.
+- [ ] The light now gone, Tristan looks up to begin attacking again, but it was too late since Alex was right on top of him. She used the but of her escrima stick to wrap around Tristan’s sword arm and twist, causing him to lose his grip. Her other stick hit his shield and broke apart, still not being strong enough to withstand a hard blow. But it was enough as Alex uses the rest of the momentum to push, sending Tristan toppling to the ground. She stands over him with her one stick pointed at him.
+- [ ] Now she tells him to give up, to which she can see a fire has been lit in her eyes. she no longer saw any malice, but something like recognition. Just as he’s about to say something, voices stopped them both in their tracks. The monitors had arrived, She looked around but both Tristan’s goons and her friends had disappeared.
+- [ ] Now she was in trouble.
+- [ ] #### Scene 11.3
+- [ ] Alex wakes up the next day sore and bruised where she was hit by Tristan. She had gotten an earful from both the monitors as well as Terrell. Both her and Tristan were assigned three days of detention for both being out past curfew as well as having an unauthorized duel on school grounds. She would be serving it tommorrow night with him, much to her chegrin.
+- [ ] There was something about Tristan that she just couldn’t stand, but she also felt some sense of rivalry. That last look of aknowledgement he had given her was quickly replaced though when the monitors showed up and he returned to his prickly self.
+- [ ] Wyll had spent an entire hour apologizing and thanking Alex profusely, and Trina told her to keep the trinket. Apparently it was called a Daystone. It could be used during the day to store sunlight. Apparently there were creatures weak to it, so it was handy to have around. But with light being the source of Alex’s power, it served as a quick boost.
+- [ ] Alex found herself in Thorne’s office while talking about her manifestation from last night. He had brought out some diagrams and charts, fiddling with them with mor vigor than before. He seemed to be in much better spirits this week.
+- [ ] He explains what he found after testing her blood. That her magic connects to the Weave differently. It’s not broken, but reactive. Mr. Terrell had explained a little, but it responded directly to emotional stimulus before concious intent. That’s why when she lost control of her emotions, she lost control of her powers. They were tied together.
+- [ ] Alex has a moment of connection when he explains that she’s not defective. Her power is just alive – moreso than others. Most people need to force their manifesations into working, but with Alex it will come naturally.
+- [ ] Alex asks about Thorne’s manifestation while trying to hide some tears welling i her eyes, and she can’t help but notice Thorne’s immediete withdrawl at the mention of his. He explains that he has a complicated relationship with his manifestation and that not all people have such a close connection to it like her.
+- [ ] He gives her some final homework to practice on her own and lets her go, with Alex noting as she leaves the look of pain written on his face. Something must have happened, and now she wanted to know what.
+
+
+## Act 3
+
+
+
+## Act 4
+
+
+
+## Act 5
+
+
+
+## Extras
+
+- [ ] [[Trials]]
+- [ ] ## Mom’s Dream
+- [ ] Alex dreams from her mother’s perspective again as she uses a hairpin to pick the lock of her cuffs, letting her use magic.
+	
+	Alex uses her manifestation to heat the bars, bending them and letting her escape. She also uses slip on her feet and slides around eliminating the noise.
+	
+	As she turns a corner there is a guard and she uses Echo to send an image foreward and distract him long enough for her to come up behind cast a sleep spell on him.
+	
+	Alex makes her way through corridors until she finds herself in the target room. She then uses grip to climb the walls outside onto the balcony above, where she drops down. She picks the lock into the room and enters.
+	
+	She goes to the desk and the computer, remembering the password that they all found together.
+	
+	She logs in, searching through files for a word: keystone.
+	
+	The lights turn on and she instinctively bends the light around her, attempting to move around the desk as a figure comes in.
+	
+	The figure comes to the desk and notices that it’s been logged in. They look around. They snap their fingers and a loud sound echoes through the room. The figure throws a fireball at Alex, who drops her invisibility and slips in a direction, creating a pocket of pressure to push herself. She lets go of the slip spell to regain her footing.
+	
+	The figure is now holding a gun pointed at Alex.
+	
+	There is an interrogation as the reveals come out about her mother and alex being keystones. That Alex is safe in the Sanctum...for now. But they will be after her.
+	
+	There is a shot fired and alex wakes up.
+
+
+***
+
+## Archive
+
 - [ ] ## Chapter 8
 - [ ] Alex wakes up late for her first day and is rushing to get things together while Mr. Terrell calmy makes breakfast.
 	
@@ -147,61 +306,10 @@ kanban-plugin: board
 - [ ] Alex makes fun of the first ring students for “kneeling to a commoner”. The student tries to punch her but she deflects with her training. She is about to retort again before Tristan suddenly appears.
 - [ ] He states that they save it for the Trial, obviously attempting to defuse the situation. He still calls Alex names, but she recognizes the look on his face and realizes that he’s at least a little sorry.
 - [ ] At the cafe, Alex reveals the dream about her mother to Wyll and Trina, who tell her that the next year they get to go on Quests. They resolve to form a Coven and search for her mother.
-
-
-## Act 3
-
-- [ ] ## Chapter 17
-- [ ] ## Chapter 18
-- [ ] ## Chapter 19
-- [ ] ## Chapter 20
-- [ ] ## Chapter 21
-- [ ] ## Chapter 22
-
-
-## Act 4
-
-- [ ] Alex dreams from her mother’s perspective again as she uses a hairpin to pick the lock of her cuffs, letting her use magic.
-	
-	Alex uses her manifestation to heat the bars, bending them and letting her escape. She also uses slip on her feet and slides around eliminating the noise.
-	
-	As she turns a corner there is a guard and she uses Echo to send an image foreward and distract him long enough for her to come up behind cast a sleep spell on him.
-	
-	Alex makes her way through corridors until she finds herself in the target room. She then uses grip to climb the walls outside onto the balcony above, where she drops down. She picks the lock into the room and enters.
-	
-	She goes to the desk and the computer, remembering the password that they all found together.
-	
-	She logs in, searching through files for a word: keystone.
-	
-	The lights turn on and she instinctively bends the light around her, attempting to move around the desk as a figure comes in.
-	
-	The figure comes to the desk and notices that it’s been logged in. They look around. They snap their fingers and a loud sound echoes through the room. The figure throws a fireball at Alex, who drops her invisibility and slips in a direction, creating a pocket of pressure to push herself. She lets go of the slip spell to regain her footing.
-	
-	The figure is now holding a gun pointed at Alex.
-	
-	There is an interrogation as the reveals come out about her mother and alex being keystones. That Alex is safe in the Sanctum...for now. But they will be after her.
-	
-	There is a shot fired and alex wakes up.
-
-
-## Act 5
-
-
-
-## Extras
-
-- [ ] [[Trials]]
-- [ ] ## Mom’s Dream
-
-
-***
-
-## Archive
-
 - [ ] TEst
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false],"lane-width":295}
+{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,false],"lane-width":295}
 ```
 %%
