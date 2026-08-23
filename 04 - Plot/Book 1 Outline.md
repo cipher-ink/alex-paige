@@ -154,6 +154,12 @@ kanban-plugin: board
 - [ ] Alex has a moment of connection when he explains that she’s not defective. Her power is just alive – moreso than others. Most people need to force their manifesations into working, but with Alex it will come naturally.
 - [ ] Alex asks about Thorne’s manifestation while trying to hide some tears welling i her eyes, and she can’t help but notice Thorne’s immediete withdrawl at the mention of his. He explains that he has a complicated relationship with his manifestation and that not all people have such a close connection to it like her.
 - [ ] He gives her some final homework to practice on her own and lets her go, with Alex noting as she leaves the look of pain written on his face. Something must have happened, and now she wanted to know what.
+- [ ] # Chapter 12
+- [ ] #### Chapter 12.1
+- [ ] It’s saturday night and most students are gone other than faculty. And of course it’s time for Alex and Tristan to serve detention. They were assigned to help with the gardens on the western edge of campus, massive tiered plots that grow everything from medicinal herbs to agressive carnivorous moss.
+- [ ] Professor Linden, the herbology professor is a thin woman who seems exhausted after a days work. She hands both of them woven baskets and walks them around the garden, pointing out the Echoweeds that have been growing around the rest of the plants. It’s an invasive species that they don’t even need to plant since it continues to grow all over the garen. And pulling the weeds are a great punishment.
+	
+	She tells them to pull the whole root and don’t break the stems. She also warns to not touch their faces before washing their hands unless they want to be forced to reveal all
 
 
 ## Act 3
