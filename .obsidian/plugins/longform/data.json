@@ -6,6 +6,57 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-08-24T01:54:02.193Z",
+      "total": 0,
+      "drafts": {
+        "01 - Writing/Book 1 - The Red Sanctum/Index.md": {
+          "total": 0,
+          "scenes": {
+            "I Destroy the Museum of Natural History": 0,
+            "Scene 1.1": 0,
+            "Scene 1.1 (Revised)": 0,
+            "Scene 1.2": 0,
+            "Scene 1.3": 0,
+            "Scene 1.4": 0,
+            "Scene 1.5": 0,
+            "Scene 1.6": 0,
+            "Scene 1.7": 0,
+            "I Learn My Life Isn't My Own": 0,
+            "Scene 2.1": 0,
+            "Scene 2.2": 0,
+            "Scene 2.3": 0,
+            "Scene 2.4": 0,
+            "Scene 2.5": 0,
+            "Scene 2.6": 0,
+            "I Meet a Nice Stick Lady": 0,
+            "Scene 3.1": 0,
+            "Scene 3.2": 0,
+            "Scene 3.3": 0,
+            "I Don't Want To Go": 0,
+            "Scene 4.1": 0,
+            "Scene 4.2": 0,
+            "Scene 4.3": 0,
+            "I Face the Truth": 0,
+            "Scene 5.1": 0,
+            "Scene 5.2": 0,
+            "I Need Some Cork-Board": 0,
+            "Scene 6.1": 0,
+            "Scene 6.2": 0,
+            "Scene 6.3": 0,
+            "I Blow the Power": 0,
+            "Scene 7.1": 0,
+            "Scene 7.2": 0,
+            "Scene 7.3": 0,
+            "I Go Back to Class": 0,
+            "Scene 8.1": 0,
+            "Scene 8.1 (Revised)": 0,
+            "Scene 8.2": 0,
+            "Scene 8.3": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-08-22T16:24:34.953Z",
       "total": 0,
       "drafts": {
