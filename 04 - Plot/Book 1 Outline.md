@@ -260,10 +260,10 @@ kanban-plugin: board
 - [ ] After many different turns, and when Alex was sure that she was lost, she finally came to a small opening in the room. At the end was a desk and a small lamp. And there was the figure, pouring over some sort of paperwork on the desk. Alex began to approach, but as her hand brushed against a stone lion, it jumped to life and roared, filling the room with sound and sending her toppling to the ground.
 - [ ] By the time Alex looked back to the desk, the figure was gone. She cautiously went to the desk, but the figure must have taken whatever papers they were looking at since there was now nothing there.
 - [ ] Sighing and realizing that she was in trouble if caught, she attempted to return back where she came from, but found herself quickly lost in the maze.
-- [ ] She begins following the left side, knowing that at least she would find her way out eventually, but minutes go by and nothing. As she’s walking, something catches her attention. Like the hairs on the back of her neck standing up. Her eyes are drawn to a shelf above her and a lone book sitting atop it. The book was clasped with a golden chain that looked to be glowing.
-- [ ] Alex reaches for it but it’s just out of her reach. She can feel the magic coming from it though, and as her hand gets closer the glow becomes brighter. The book then suddenly shoots into her hand, kocking her back to the ground.
-- [ ] She sits up on the ground, looking over the book once more. The clasp had now opened on it’s own once it touched her hand, and she opens the book. As the book opens, a bright light blinds her before the book dissolves into a black ribbon that wraps itself around her wrist like a snake.
-- [ ] She yelps and attempts to grab it and rip it away, but it suddenly burns as the black ribbon engraves itself onto her skin, leaving a black band around her wrist.
+- [ ] She begins following the left side, knowing that at least she would find her way out eventually, but minutes go by and nothing. As she’s walking, something catches her attention. Like the hairs on the back of her neck standing up. Her eyes are drawn to a shelf above her and sees a black and yellow disposable camera up there. Something so out of place it almost makes her laugh, but something is also drawing her to it.
+- [ ] Alex reaches for it but it’s just out of her reach. She can feel the magic coming from it though, and as her hand gets closer the glow becomes brighter. The camera shakes, and then suddenly shoots into her hand, kocking her back to the ground.
+- [ ] She sits up on the ground, looking at the camera once more. There is no way to see if there are any photos inside until you get them developed, but she sees that the little ticker states there are 86 photos left. She peeks through and clicks it, taking a photo. As she does that, the tape comes out of the bottom suddenly and wraps around her wrist.
+- [ ] She yelps and attempts to grab it and rip it away, but it suddenly burns as the black tape engraves itself onto her skin, leaving a black band around her wrist.
 - [ ] Seeing no way to get it off, she keeps making her way along the maze and finally finds the exit, making her way back up not knowing how long she had been down there.
 - [ ] She emerges and makes sure no one is looking before slipping back through the gate and begining to walk towars the stairs, only to be caught by Trina and Wyll, who rush over to her and say she’s been gone for over an hour.
 - [ ] She apologizes, joking that she got lost, but Trina and Wyll seem to think she’s sick or something because she looks pale and has been sweating. Alex agrees that she doesn’t feel well and decides that it’s time to head home, trying to hide the new black band on her wrist by pulling down the sleeves of her shirt.
@@ -275,10 +275,49 @@ kanban-plugin: board
 - [ ] Vael talks with Mr. Terrell about someone possibly being after Alex as well, and when Terrell inquires, Vael states that someone broke into the restricted section of the library and took sensitive documents pertaining to Illya’s coven, including the existence of Alex.
 - [ ] With that and a warning to Alex to stay safe, he leaves with a knowing wink at her, which Alex has no idea what it means.
 - [ ] Once he is gone, Alex excuses herself to her room and rolls up her sleeve to look at the black band once again. Then she looks at the photograph of her mother, burning her face into her memory as she slowly falls asleep.
+- [ ] # Chapter 16
+- [ ] ### Chapter 16.1
+- [ ] Alex dreams from her mother’s perspective again as she uses a hairpin to pick the lock of her cuffs. Once they are off she is able to use magic again.
+- [ ] She uses her manifestation to heat the bars, bending them and letting her escape. She also leans down and uses slip on her feet to slide around eliminating any noice. She turns a corner where a guard is standing and uses Echo to send an image forward to distract him long enough for her to come up behind him and knock him out.
+- [ ] She makes her way through corridors until she finds herself sin the target room. She then uses grip to climb the walls outside to the balcony above where she picks the lock and enters the room.
+- [ ] She goes to the desk and computer, remembering the password her and her coven found. She logs in and searches for a word: keystone.
+- [ ] The lights turn on and she bends the light around her, attempting to move around the desk as a figure comes in.
+- [ ] She was unable to log back out and the figure realizes as he coms to. They look around and snap their fingers as a loud echo goes through the room. They throw a fireball at her who drops her camo and slips in a direction, holding her hand to create a pocket of pressure to push herself. She lets go of slip to regain her fotting.
+- [ ] When  she looks back up, the figure has a gun pointed at her as he reaches below and clicks a silent alarm.
+- [ ] An interrogation from the man reveals about her mother and alex being the keystones. That he knows Alex is in the Sanctum…for now. But they are after her. Guards come in and subdue her while she is knocked out and Alex wakes up once more.
+- [ ] #### Chapter 16.2
+- [ ] Alex wakes up only to find that the black band aroud her wrist has grown into a full crest on her arm. Thinking that there’s no way to hide it, she brings it up at breakfast with no warning, placing her arm and the camera on the table, leaving Mr. Terrell to spit out coffee.
+- [ ] Alex explains: the restricted section, the figure she saw, the camera, the black band, and now this morning. She expects Mr. Terrell to be upset, but he instead looks slightly sad. It was the same look he had given her when she first woke up here. When she first learned what happened to her dad.
+- [ ] Mr. Terrell explains that she touched a lineage anchor. They are physical objects imbued with the power of a family’s magic. Should someone of the same family touch it, they inherit that magic. It was her mothers, hidden in the library for safekeeping. She was going on dangerous missions, and if she died while out there, Alex would have no magic to inherit.
+- [ ] She unknowingly accepted the anchor and thus her crest formed. Normally one would need to get a spell engraved, but lineage anchors are a special case. She should already have some spells encoded, and would need to take a look at her grimoire to know what
+- [ ] Alex looks confused, and Mr. Terrell walks her through summoning the grimoire. It takes her three tries, but she does so and a book appears in her hands with her mother’s handwriting on the first page.
+- [ ] It looks more like a spell journal than a magical codex like Mr. Terrell described. He looks reluctant,  but he summons his and shows her how neat and orderly his looks compared to hers. He explains that it’s dangerous to show your grimoire to people since its a private matter.
+- [ ] But Alex notices small notes from her mom on nearly every page, and diary entries as well all adressed to her. Terrell explains that she must have been preparing to pass it on since she was born. It nearly brings Alex to tears.
+- [ ] Alex retreats to her room after breakfast, hugging the grimoire tight to her chest. She opens it and begins reading the first page that starts with “Alexandra”:
+	
+	“If you’re reading this, something must have happened to me and Vael gave you the anchor. I’m sorry I couldn’t be the one to give it to you, but it’s yours now. You probably inherited my manifestation for light, but I bet its slightly different. You’ll get the hang of it, and I’ve left a bunch of notes for how it really works so you can learn to control it for yourself. I’m also leaving some spells for you so that you don’t have to get them encoded – it hurts, trust me. They will feel strange at first, like wearing someone else’s shoes. But keep walking. They’ll fit eventually. I really hope to see you one day. Keep that camera and take some photos so we can develop the film one day. I love you, my little star.”
+- [ ] #### Scene 16.3
+- [ ] Alex finds herself in a training room that Mr. Terrell reserved for her after lunch in order to practice using her new crest. He couldn’t be there, but Wyll and Trina both decided to help out.
+- [ ] Trina is fascinated since she’s only heard about anchors and is curious as she pokes Alex’s crest repeatedly while she swats her way.
+- [ ] Alex was given 4 spells by her mother. Slip, Echo, Grip, and Mark.
+- [ ] She starts with slip, following her mom’s advice to cast it on her shoes to loosen the friction. She begins skating around the room. Trina, amazed that she never thought of that, casts her own Slip and does the same, beginning to race Alex around the room. It reminds Alex of Rockefeller Center with her dad, which distracts her and she looses balance.
+- [ ] Right before she hits a wall, she holds her hands out and instinctively creates a shockwave to send her sliding back the other way. She remembers back to the weird dream she had and it was the same feeling, like a popping in her ears.
+- [ ] The next spell was echo. She was told that she could set a delay for how long the echo would last behind her. She starts with 3 seconds and rushes foeward, turning around to see a ghostly image of her behind, which runs at her and catches up, freaking her out and making her fall to the floor.
+- [ ] She gets up, feeling exhausted after just this little bit of spellcasting. It feels like her whole body is warm and shes lightheaded like she just donated a pint of blood.
+- [ ] But she tries again, this time remembering to the dream. In that dream she had given a negative delay, which caused it to go forward, but she wasn’t sure how that was supposed to work if she didn’t know her actions yet.
+- [ ] She tries echo again, with a -3 delay and watches the echo walk forward and turn around, but it’s not her. Instead it looks like her mom. The entire gang stares confused as Alex whispers ‘mom’ when the echo does the same.
+- [ ] Alex loses control and a hundred after-images of her mom suddenly fill the room, spreading out from her in every direction, overlapping and delayed like a hall of mirrors. Alex falls to her knees, clutching her head in pain and beginning to cry.
+- [ ] As she comes back to her senses, the images are gone and both Wyll and Trina are next to her, making sure she’s okay.
+- [ ] Alex asks what happened and Trina suspeects that a negative delay takes Alex’s thoughts into consideration, so she must have been thinking about her mother.
+- [ ] Wyll asks her how she can cast so easily, to which Alex responds that it feels like muscle memory. Trina chimes in and explains that the anchor is supposed to hold the memories of your family, like inheriting their muscle memory for spells. She had heard the rumors about it, but I guess it really was true. Alex feels like shes sort of cheating, but notices that Wyll isn’t super satisfied with the answer. She realizes she’s never actually seen him cast anything.
+- [ ] She asks about it, but Wyll admits that he doesn’t cast. Or more he refuses to. He only uses his magic when he absolutely has to. It’s why he’s failing all his practicums. Alex begins to ask why, but Trina quickly changes the subject to the next spell on their list: mark.
+- [ ] None of the three have actually heard of the spell, which surprises Trina, but Alex does the motion and speaks the incantation. There is no sound, no effect. Nothing. She tries again, and the same.
+- [ ] Leaving it alone for the day, they all go about the rest of the day. Later that night, Alex is studying at the kitchen table when her arm suddenly flares up. She sees a small band of silver trace it’s way up and along the pattern of her crest until it reaches the middle of her forearm where it turns into a compass pointing in a specific direction. She can feel it now, this connection to something far, far away. This must have been what mark was. But her mother said that someone needed to be marked for it to work, and Alex hadn’t actually touched anyone. So who was this attached to?
 
 
 ## Act 3
 
+- [ ] # Chapter 17
 
 
 ## Act 4
@@ -292,28 +331,6 @@ kanban-plugin: board
 ## Extras
 
 - [ ] [[Trials]]
-- [ ] ## Mom’s Dream
-- [ ] Alex dreams from her mother’s perspective again as she uses a hairpin to pick the lock of her cuffs, letting her use magic.
-	
-	Alex uses her manifestation to heat the bars, bending them and letting her escape. She also uses slip on her feet and slides around eliminating the noise.
-	
-	As she turns a corner there is a guard and she uses Echo to send an image foreward and distract him long enough for her to come up behind cast a sleep spell on him.
-	
-	Alex makes her way through corridors until she finds herself in the target room. She then uses grip to climb the walls outside onto the balcony above, where she drops down. She picks the lock into the room and enters.
-	
-	She goes to the desk and the computer, remembering the password that they all found together.
-	
-	She logs in, searching through files for a word: keystone.
-	
-	The lights turn on and she instinctively bends the light around her, attempting to move around the desk as a figure comes in.
-	
-	The figure comes to the desk and notices that it’s been logged in. They look around. They snap their fingers and a loud sound echoes through the room. The figure throws a fireball at Alex, who drops her invisibility and slips in a direction, creating a pocket of pressure to push herself. She lets go of the slip spell to regain her footing.
-	
-	The figure is now holding a gun pointed at Alex.
-	
-	There is an interrogation as the reveals come out about her mother and alex being keystones. That Alex is safe in the Sanctum...for now. But they will be after her.
-	
-	There is a shot fired and alex wakes up.
 
 
 ***
@@ -431,6 +448,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,true,true,false],"lane-width":295}
+{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,false],"lane-width":295}
 ```
 %%
