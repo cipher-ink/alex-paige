@@ -318,6 +318,16 @@ kanban-plugin: board
 ## Act 3
 
 - [ ] # Chapter 17
+- [ ] #### Chatpter 17.1
+- [ ] Alex is exhausted the next morning from all the spellcasting the day before, and sore all over her body from using so much magic. She drifts through classes. She gets called on by her Algebra teacher to answer a question but she doesnt hear it. There are a few giggles from the rest of the class, but she’s too distracted at the moment to care. She keeps thinking back to the silver compass on her arm and how it hadn’t gone away from the previous day, still there pointing in the same direction, barely moving at all as she went about her day.
+- [ ] She attends her lessons with Mr. Terrell, who is supposed to be helping her with her manifestation, but since she has her crest now he is having her practice with that instead. Channeling magic through it to cast spells not encoded on her crest. She can produce a simple fireball or a gust of wind, but not much beyond that.
+	
+	During their sparring, Alex is still distracted and doesn’t react in time. Instead her instincts move for her. Without the incantation she casts slip to move out of the way, and then grip on her hands as she grabs Terrel’s arm to redirect the momentum sending him to the ground.
+- [ ] She doesn’t really understand what just happened, but Mr. Terrell explains that its the combination of her manifestation and her new “muscle memory”. Her manifestation lets her react to things quickly while the learned memory of her spells makes it easier to cast them. Though he bonks her on the head with his escrima stick and chides her for casting without an incantation since it uses a LOT more mana. She could probably only manage about 3 before running out at her current rate.
+- [ ] Mr. Terrell reminds Alex that the Trials start in a few days, to which Alex groans and says she better go see Thorne. Terrell states that he hasn’t been seen for a few days. Alex looks worried but Mr. Terrell states that it happens sometimes. Professors get really into their research and don’t appear for days at a time, simply telling her to go check at his lab.
+- [ ] #### Chapter 17.2
+- [ ] Alex went to check on Thorne, only to find the door locked and window covered. She presses her ear to the door, but doesn’t hear anything. Instead she tastes and smells something in the air like iron or metal. She assumes he was caught in research and experimenting, so she leaves it alone.
+- [ ] She heads to the library and the gang spend their free time talking and preparing for the trial, but afterwards decided they needed a break. Trina suggested they try and get through the maze to make it to the Caché Café .
 
 
 ## Act 4
