@@ -20,10 +20,7 @@ _Alex Paige Trilogy | World: Crest_
 
 The Weave is the physical embodiment of the **Concept of Connection** — an immaterial force that exists at all points in time and space simultaneously. It has no beginning and no end; to the Weave, there is no such thing as time. It simply _is_, and always has been.
 
-<!--c:q2o10-->The Weave interconnects all things in existence<!--/c:q2o10--> — living and non-living, material and immaterial. To those with the ability to perceive it clearly, it resembles a silken tapestry or a spider's web, with threads running between every person, object, and plane of reality.
-<!--co:q2o10 by:Aten at:2026-08-28T20:53:40.374Z status:open quote:"The Weave interconnects all things in existence"
-Aten (2026-08-28T20:53:40.374Z): A test of my commenting.
--->
+The Weave interconnects all things in existence — living and non-living, material and immaterial. To those with the ability to perceive it clearly, it resembles a silken tapestry or a spider's web, with threads running between every person, object, and plane of reality.
 
 > **The Weave is not magic.** Magic is the name given by those who learned to manipulate it. The Weave itself is simply the underlying fabric of reality.
 
