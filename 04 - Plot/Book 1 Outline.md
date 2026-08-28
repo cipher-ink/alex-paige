@@ -349,6 +349,18 @@ kanban-plugin: board
 - [ ] Wyll looks reluctant. Creating a coven and going on a quest is serious business. They take a magical oath to protect one another, they share responsibility and risk from quests. He looks at the two of them and then his own hands, rubbing the crest on his arm and stating that he doesn’t use his power: he’d be dead weight.
 - [ ] Both Alex and Trina reach out their hands instinctively to grab both of Wylls. He jumps at first, but they both are smiling at him. Alex stating: “I don’t see how you could be dead weight when your alive.” That gets a chuckle out of Wyll, stating that it was a horrible joke before Alex thanks them for wanting to help, stating that she’s glad to have actually found friends. People to trust.
 - [ ] They can’t officially form a Coven until next year, but the trust is marked. Alex looks down once more at her crest and takes a breath, looking at the compass on her arm, deciding to herself that it must be her mother. She takes a breath and begins to explain everything else to Trina and Wyll, starting with Truth.
+- [ ] # Chapter 18
+- [ ] #### Chapter 18.1
+- [ ] Its the day of the Trial, and Alex goes to check on Thorne again. She tries the door and it opens, the same iron-like smell filling the room. She finds Thorne collapsed behind his desk, a broken coffee mug on the ground and really dark brown coffee spilled on the ground.
+- [ ] She gets Thorne to his feet and onto his chair once more. He apologizes and simply states that he fell asleep, but Alex can tell that something is wrong. She is going to go grab some paper towels to clean up the spill when Thorne suddenly grabs her by the wrist, yelling “no” even surprising himself.
+- [ ] He covers by stating that it’s the final day before her Trial and she needs to focus. He will take care of the mess.
+- [ ] There is a moment of silence before Thorne asks why she came to see him. Alex explains that she hasn’t seen him in over a week, no one has, to which Thorne is confused and realizes what day is currently is.
+- [ ] He admits to having lost some time as of late, and Alex suggests a day off for rest. Thorne quietly nods in agreement, deep in thought as he looks back to Alex apologizing for grabbing her like that. He then asks her if her research for the scenario went well.
+- [ ] Alex says yes it did and mentions that they will have to “KEEP it cool” in the Trial, hinting that she knows they need to go to the keep. Thorne doesn’t understand and Alex has to spell it out for him, at which point they both laugh. Thorne wishes Alex luck on the Trial and mutters something under his breath as she leaves.
+- [ ] #### Chapter 18.2
+- [ ] The Trial room itself is the size of a basketball court with a giant machine in the center surrounded by five archway doors. Alex heard that the trials were simulated scenarios held in some pocket dimension, but she didn’t really believe it until she saw the archways were empty.
+- [ ] There are 4 sets of classes going into the Trial in pairs of three: each one ring. Alex’s group is paired with Tristan’s and Caydens in the second and first ring, being the first to undergo the Trial.
+- [ ] It’s obvious that the First and Second ring students had been preparing for this and had the proper items and knowledge while most of Third ring stared down at the floor with resignation.
 
 
 ## Act 4
