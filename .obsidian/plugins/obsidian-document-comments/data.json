@@ -4,7 +4,7 @@
     "Aten",
     "Gabe"
   ],
-  "showComments": true,
+  "showComments": false,
   "showResolved": false,
   "allowEmptyComments": false,
   "authorColorsEnabled": true,
