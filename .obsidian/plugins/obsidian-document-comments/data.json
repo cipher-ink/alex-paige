@@ -1,0 +1,22 @@
+{
+  "author": "Aten",
+  "authors": [
+    "Aten",
+    "Gabe"
+  ],
+  "showComments": true,
+  "showResolved": false,
+  "allowEmptyComments": false,
+  "authorColorsEnabled": true,
+  "authorColors": {
+    "Aten": {
+      "color": "#0090ff",
+      "mode": "generated"
+    },
+    "Gabe": {
+      "color": "#e54d2e",
+      "mode": "generated"
+    }
+  },
+  "excludedAuthorColors": []
+}
