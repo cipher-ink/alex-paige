@@ -370,6 +370,7 @@ kanban-plugin: board
 - [ ] As if on cue a student yells as a cracking can be heard and Alex turns to see one of the other students, a faerie, tumble to the ground smoking. The second ring students, including Tristan are at the other end of the clearing.
 - [ ] Alex rushes to the student after seeing them hurt, asking what they need to do, until Trina grabs her shoulder to calm her down and the student dissolves into particles of light. Trina states they are fine, just transported back home, but it’s difficult for Alex to understand and she stares at Tristan with fury.
 - [ ] He challenges her to a duel so he can finally prove that she just got lucky that one time.
+- [ ] Much to Trina and Wyll’s protests, and the onlooking of the third ring, she accepts with conditions. If she wins, they turn around and leave. They aren’t allowed to attack the third ring for the scenario. There are some protests from the second ring students but Tristan raises a hand to quiet them down, agreeing to her terms. One particular student yells that this is stupid and they should all just attack, to which he is promptly smacked on the head by a girl–the sister of the kid who died–and told to shut up.
 
 
 ## Act 4
