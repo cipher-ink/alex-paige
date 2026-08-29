@@ -382,6 +382,7 @@ kanban-plugin: board
 - [ ] Tristan is next to his group, holding the collar of the one guy who protested to the duel originally. She’s never seen him so furious, but she listens into him telling the guy off for interfering and that it was supposed to be fair duel or what does it mattter.
 - [ ] The kid responds with “who cares” and that Alex was a third ring and it didn’t matter. That gets him a punch from Tristan, who turns on his heel and starts walking towards Alex. He doesn’t get far as the rest of Third Ring suddenly form a line around her, Wyll and Trina at the front.
 - [ ] Tristan begins to say something, attempting to make eye contact with Alex, but is cut off by Gell from before who casts a fireball at his feet, telling him that it’s time for them to leave. Alex notices a new fire under his eyes.
+- [ ] It’s then that everything goes wrong. A scream is heard from the back of the Second Ring troupe as they all turn to the edge of the forest where Alex can see a looming figure at the treeline. she can only see the outline, but it matched the description they were looking for. Elongated limbs, glowing red eyes, the works. The only issue is that it was holding something in it’s grasp. A squirming mass Alex quickly realized was one of the students.
 
 
 ## Act 4
