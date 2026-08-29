@@ -383,6 +383,8 @@ kanban-plugin: board
 - [ ] The kid responds with “who cares” and that Alex was a third ring and it didn’t matter. That gets him a punch from Tristan, who turns on his heel and starts walking towards Alex. He doesn’t get far as the rest of Third Ring suddenly form a line around her, Wyll and Trina at the front.
 - [ ] Tristan begins to say something, attempting to make eye contact with Alex, but is cut off by Gell from before who casts a fireball at his feet, telling him that it’s time for them to leave. Alex notices a new fire under his eyes.
 - [ ] It’s then that everything goes wrong. A scream is heard from the back of the Second Ring troupe as they all turn to the edge of the forest where Alex can see a looming figure at the treeline. she can only see the outline, but it matched the description they were looking for. Elongated limbs, glowing red eyes, the works. The only issue is that it was holding something in it’s grasp. A squirming mass Alex quickly realized was one of the students.
+- [ ] Tristan calls out the name of the student and rushes to the treeline as the rest of the second ring students fall into a sort of formation. The vampire disappears into the trees and we hear the yelling of the student until it suddenly stops. Tristan stops at the treeline, slowly backing away.
+- [ ] He yells for his group to round up and they form a tight circle. The Third ring students weren’t as tight knight, but as she was helped to her feet they were all clumped together around her.
 
 
 ## Act 4
