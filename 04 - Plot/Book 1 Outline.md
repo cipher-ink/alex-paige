@@ -364,6 +364,7 @@ kanban-plugin: board
 - [ ] As Alex looks around the room, she spots Tristan talking with his group. Almost like sensing someone looking at him, he makes eye contact with her. Her nostrils flare as she feels herself getting upset just looking at him, but he whispers something. She can barely read his lips, but she swears that he whispered “watch yourself”.
 - [ ] Just as she is about to storm over there, the suddenly feels a large magical energy eminating from the center of the room as the machine in the center whirs to life. According to Trina, no one particularly knew how it worked, at least here at the school. No one here was actually present when the thing was created, so it’s old. And yet one of the most sophisticated pieces of magitech ever created. Opening a sub-plane and maintaining it for any length of time is not an easy feat.
 - [ ] Alex asks why they use such a thing for dumb Trials instead of plenty of other helpful things, and both Trina and Wyll shrug, not having a competent answer.
+- [ ] The portals light up and her group is escorted to the entrance of one while Mr. Terrell gives them a “good luck” speech before sending them through. The portals themselves were opaque and glowed with multicolored swirls, the same as the one she passed through to get to this school. She clenches her fists before walking through, feeling that same sort of jello-like consistency as she forces her way in.
 
 
 ## Act 4
