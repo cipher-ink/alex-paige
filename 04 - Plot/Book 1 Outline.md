@@ -374,6 +374,7 @@ kanban-plugin: board
 - [ ] Alex states that she will agree on conditions, much to Trina and Wyll telling her not to. She says that if she wins they leave the third ring alone for the trial. There are some protests from behind and Tristan silences them before agreeing.
 - [ ] Alex summons her batons. Tristan pulls out the sword from his hip and summons a spectral shield at the start. They circle each other.
 - [ ] He leads with a diagonal slash, which she sidesteps and crosses back hitting his shield and breaking the baton on it.
+- [ ] Roots grab her ankle but she was expecting that, having cast grip on her shoes to keep her from tripping, stating to Tristan that the same tricks wouldn’t work again.
 
 
 ## Act 4
