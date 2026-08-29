@@ -375,6 +375,8 @@ kanban-plugin: board
 - [ ] Alex summons her batons. Tristan pulls out the sword from his hip and summons a spectral shield at the start. They circle each other.
 - [ ] He leads with a diagonal slash, which she sidesteps and crosses back hitting his shield and breaking the baton on it.
 - [ ] Roots grab her ankle but she was expecting that, having cast grip on her shoes to keep her from tripping, stating to Tristan that the same tricks wouldn’t work again.
+- [ ] Alex steps back from a horizontal swing from Tristan, summoning another baton and taking note that she’s going to tire out fast if she keeps breaking them.
+- [ ] Alex casts slip on her shoes and Tristan actually compliments her for having spells to use now.
 
 
 ## Act 4
