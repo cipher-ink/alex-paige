@@ -370,6 +370,10 @@ kanban-plugin: board
 - [ ] She talks to one of them, Gell (a kinder), and asks what they are doing to which they simply state they are waiting to be taken out. It always happens. The first thing the other groups do is find them and take them all out.
 - [ ] As if on cue a student yells as a cracking can be heard and Alex turns to see one of the other students, a faerie, tumble to the ground smoking. The second ring students, including Tristan are at the other end of the clearing.
 - [ ] Alex rushes to the student after seeing them hurt, asking what they need to do, until Trina grabs her shoulder to calm her down and the student dissolves into particles of light. Trina states they are fine, just transported back home, but it’s difficult for Alex to understand and she stares at Tristan with fury.
+- [ ] He steps forward, stating that they are going to finish their duel. Just the two of them. And this time he’s going to win.
+- [ ] Alex states that she will agree on conditions, much to Trina and Wyll telling her not to. She says that if she wins they leave the third ring alone for the trial. There are some protests from behind and Tristan silences them before agreeing.
+- [ ] Alex summons her batons. Tristan pulls out the sword from his hip and summons a spectral shield at the start. They circle each other.
+- [ ] He leads with a diagonal slash, which she sidesteps and crosses back hitting his shield and breaking the baton on it.
 
 
 ## Act 4
