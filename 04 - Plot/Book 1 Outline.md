@@ -361,7 +361,7 @@ kanban-plugin: board
 - [ ] The Trial room itself is the size of a basketball court with a giant machine in the center surrounded by five archway doors. Alex heard that the trials were simulated scenarios held in some pocket dimension, but she didn’t really believe it until she saw the archways were empty.
 - [ ] There are 4 sets of classes going into the Trial in pairs of three: each one ring. Alex’s group is paired with Tristan’s and Caydens in the second and first ring, being the first to undergo the Trial.
 - [ ] It’s obvious that the First and Second ring students had been preparing for this and had the proper items and knowledge while most of Third ring stared down at the floor with resignation.
-- [ ] As Alex looks around the room, she spots Tristan talking with his group. Almost like sensing someone looking at him, he makes eye contact with her. Her nostrils flare as she feels herself getting upset just looking at him, but he whispers something. She can barely read his lips, but she wears that he whispered “watch yourself”.
+- [ ] As Alex looks around the room, she spots Tristan talking with his group. Almost like sensing someone looking at him, he makes eye contact with her. Her nostrils flare as she feels herself getting upset just looking at him, but he whispers something. She can barely read his lips, but she swears that he whispered “watch yourself”.
 - [ ] Just then three of the portals light
 
 
