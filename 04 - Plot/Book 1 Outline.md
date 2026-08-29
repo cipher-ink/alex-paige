@@ -369,6 +369,7 @@ kanban-plugin: board
 - [ ] She talks to one of them, Gell (a kinder), and asks what they are doing to which they simply state they are waiting to be taken out. It always happens. The first thing the other groups do is find them and take them all out.
 - [ ] As if on cue a student yells as a cracking can be heard and Alex turns to see one of the other students, a faerie, tumble to the ground smoking. The second ring students, including Tristan are at the other end of the clearing.
 - [ ] Alex rushes to the student after seeing them hurt, asking what they need to do, until Trina grabs her shoulder to calm her down and the student dissolves into particles of light. Trina states they are fine, just transported back home, but it’s difficult for Alex to understand and she stares at Tristan with fury.
+- [ ] He challenges her to a duel so he can finally prove that she just got lucky that one time.
 
 
 ## Act 4
