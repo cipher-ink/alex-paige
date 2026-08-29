@@ -385,6 +385,7 @@ kanban-plugin: board
 - [ ] It’s then that everything goes wrong. A scream is heard from the back of the Second Ring troupe as they all turn to the edge of the forest where Alex can see a looming figure at the treeline. she can only see the outline, but it matched the description they were looking for. Elongated limbs, glowing red eyes, the works. The only issue is that it was holding something in it’s grasp. A squirming mass Alex quickly realized was one of the students.
 - [ ] Tristan calls out the name of the student and rushes to the treeline as the rest of the second ring students fall into a sort of formation. The vampire disappears into the trees and we hear the yelling of the student until it suddenly stops. Tristan stops at the treeline, slowly backing away.
 - [ ] He yells for his group to round up and they form a tight circle. The Third ring students weren’t as tight knight, but as she was helped to her feet they were all clumped together around her.
+- [ ] In a flash only Alex seemed to follow, the vampire rushed forward and crashed into the group of students, pushing some to the ground and quickly breaking the formation. Some of them were screaming, crying, and two were running away. The creature had sunk it’s long claws into one of the students as they disappeared into dust. It looked confused, tilting it’s head at the missed meal until Tristan smacked it in the side with his shield. It simply turned and hit Tristan out of the way, sending him into the treeline 10 feet over.
 
 
 ## Act 4
