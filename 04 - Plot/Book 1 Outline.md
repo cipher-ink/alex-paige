@@ -366,6 +366,8 @@ kanban-plugin: board
 - [ ] Alex asks why they use such a thing for dumb Trials instead of plenty of other helpful things, and both Trina and Wyll shrug, not having a competent answer.
 - [ ] The portals light up and her group is escorted to the entrance of one while Mr. Terrell gives them a “good luck” speech before sending them through. The portals themselves were opaque and glowed with multicolored swirls, the same as the one she passed through to get to this school. She clenches her fists before walking through, feeling that same sort of jello-like consistency as she forces her way in.
 - [ ] When she next opens here eyes, she is completely surrounded by forest. They are in a small clearing at the top of a hill overlooking a rustic town (Lucerine she presumes). She realizes the was transported here with all of her friends, which is good, but she can see the other third ring students beginning to sit on the ground and wait.
+- [ ] She talks to one of them, Gell (a kinder), and asks what they are doing to which they simply state they are waiting to be taken out. It always happens. The first thing the other groups do is find them and take them all out.
+- [ ] As if on cue a student yells as a cracking can be heard and Alex turns to see one of the other students, a faerie, tumble to the ground smoking. The second ring students, including Tristan are at the other end of the clearing.
 
 
 ## Act 4
