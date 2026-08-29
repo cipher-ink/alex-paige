@@ -391,6 +391,9 @@ kanban-plugin: board
 - [ ] Alex looks over to see another group, the first ring students, having arrived and one of them is casting a sound spell while the one she recognizes as Cayden is walking forward towards the vampire.
 - [ ] Alex watches Tristan stumbling out of the forest line and see his brother, freezing up. The monster attacks Cayden and he simply sidesteps it and kicks the vampire so hard she hears a long weeze come out from it.
 - [ ] Alex is relieved until she notices that some of the first ring  are also heading to them. It seemed like they were leaving this to Cayden alone and they were going to attack. Wyll and Trina get pushed back to her as Gell tells them to go. He knows they’ve been preparing for this on their own, and he apologizes for being too afraid to help. She gets some more solemn nods from the rest of the class as they form a line to defend against the first ring.
+- [ ] She knows they stand no chance whatsoever, but is amazed that they are doing it anyway. She initially protests, but they yell at her to go and that its time they attempted to prove themselves for once.
+- [ ] Alex reluctantly runs off with Wyll and Trina, disappearing into the tree line with one goal in mind: the keep
+- [ ] # Chapter 19
 
 
 ## Act 4
