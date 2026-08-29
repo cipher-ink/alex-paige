@@ -381,6 +381,7 @@ kanban-plugin: board
 - [ ] She regains conciousness, having been out only a few seconds. She realizes that someone from Tristan’s side must have helped, and is about to say something befor she tunes into what’s around her and hears yelling.
 - [ ] Tristan is next to his group, holding the collar of the one guy who protested to the duel originally. She’s never seen him so furious, but she listens into him telling the guy off for interfering and that it was supposed to be fair duel or what does it mattter.
 - [ ] The kid responds with “who cares” and that Alex was a third ring and it didn’t matter. That gets him a punch from Tristan, who turns on his heel and starts walking towards Alex. He doesn’t get far as the rest of Third Ring suddenly form a line around her, Wyll and Trina at the front.
+- [ ] Tristan begins to say something, attempting to make eye contact with Alex, but is cut off by Gell from before who casts a fireball at his feet, telling him that it’s time for them to leave. Alex notices a new fire under his eyes.
 
 
 ## Act 4
