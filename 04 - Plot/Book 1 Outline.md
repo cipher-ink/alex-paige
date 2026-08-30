@@ -389,6 +389,7 @@ kanban-plugin: board
 - [ ] He turns towards Alex, and she thinks he’s walking towards her, but then he stops. As her vision comes back, she sees the terrified look on his face. She asks what, but realizes that he’s looking to the side of her instead. She rolls herself around only to see a looming figure in the treeline that matches the description of the vampire perfectly.
 - [ ] Then it dashes forward.
 - [ ] # Chapter 19
+- [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
 - [ ] It seems to beeline for the cheating student and brings it’s claws up directly into the kid’s stomach. There is a scream before he dissolves into dust.
 - [ ] The sun is completely set by this point, and only the moonlight illuminates the monster as it looks on in confusion while the rest of the people in the clearing are too dumbstruck to move.
@@ -396,6 +397,8 @@ kanban-plugin: board
 - [ ] After that, all hell breaks loose. The vampire begins rushing around with studetns from both rings casting spells in it’s vicinity, which it always manages to dodge or brush off with little effect. It swipes at another student which turns to dust in its claws.
 - [ ] Alex manages to get to her feet as Wyll and Trina come to her side. Her head is aching and her shoulder is still hurting from the cut earlier. She reaches up and grabs it, pulling back and seeing blood left on her fingers.
 - [ ] As if smelling it, the creature turns towards Alex with hunger in it’s eyes. However just as it begins to rush towards her it’s stopped when a sonic screech fills the entire clearing causing everyone, vampire included, to grip their heads and fall to their knees.
+- [ ] She looks to where it’s coming from and sees the last thing she wanted to: The first ring students at the other edge of the clearing with Cayden at the front.
+- [ ] #### Scene 19.2
 
 
 ## Act 4
