@@ -383,6 +383,7 @@ kanban-plugin: board
 - [ ] Tristen bashes her with his shield, sending her sliding back on the ground and nearly tripping before she releaess the slip spell to regain her traction.
 - [ ] Tristan then grabs his shield with both hands and seemingly rips it in half. A small crescent shape in his right with a long point for attacking, and the majority of the shield still in his left for defending. He is grinning from ear to ear. Part of it makes her angry for some reason, but the other half is proud of herself.
 - [ ] They banter a bit before Alex realizes the sun is nearly gone and she needs to end this now. Tristan seems to realize this too and waits, bekoning her towards him. She realizes what he’s doing, but she’s got a plan as she rushes towards him.
+- [ ] He goes to block the feint swing Alex is giving before she suddenly feels a blast of wind from her side, sending her off balance. Tristan was going for a swing at the same time and attempts to pull back but its too late. He is able to adjust and smack her with the blunt of the shield instead of the blade, but it’s still a powerful blow that sends Alex tumbling to the ground. She loses conciousness for only a second before hitting the ground hard.
 
 
 ## Act 4
