@@ -401,6 +401,7 @@ kanban-plugin: board
 - [ ] #### Scene 19.2
 - [ ] Cayden and the group of first ring walk forward with a girl to his side holding out her hands with the continued spellcasting. She eventually lets it fall as Cayden continues forward alone, looking more annoyed than anything else.
 - [ ] The beast turns towards the source of the sound and leaps directly over Cayden to the girl who doesn’t flinch in the least.
+- [ ] Cayden reaches a hand up and in a single smooth motion twists his momentum to swing the vampire back around, slamming into the ground with a screech.
 
 
 ## Act 4
