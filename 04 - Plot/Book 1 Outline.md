@@ -409,6 +409,8 @@ kanban-plugin: board
 - [ ] Her crest lights up as she begins to cast a spell towards the large group of students, but is suddenly slapped in the face with a gust of wind, sending her hair flying all lover her face and the fireball she was conjuring goes flying into the forest.
 - [ ] She fixes herself and looks to Trina, who was the one casting the spell, fuming with anger. She insults Trina as she throws a binding spell towards her, but at the last moment Gell suddenly steps in the way, throwing a hand up as the binding spell suddenly reverses and Ariel can no longer move, falling to the ground and yelling.
 - [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
+- [ ] He says that he’s never actually used his power before, but explains that he can reflect magic back at the caster, increasing it’s power by a little bit. He always assumed he couldn’t do it against someone as powerful as a first ring. That he wasn’t strong enough to do it. But if felt good. He’d been wanting to do that for so long, but never thought he could until he watched Alex go toe to toe with Tristan by herself.
+- [ ] He says he’s definetly going to get beat up for it, but he has a bright smile that Alex hadn’t seen on his face the entire time they had class together.
 
 
 ## Act 4
