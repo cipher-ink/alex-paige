@@ -378,6 +378,7 @@ kanban-plugin: board
 - [ ] Alex steps back from a horizontal swing from Tristan, making space and summoning another baton and taking note that she’s going to tire out fast if she keeps breaking them.
 - [ ] Alex casts slip on her shoes and Tristan actually compliments her for having spells to use now. She notices the light fading and uses echo with a -1 delay, sending it left as she ducks right. Tristan stabs at the echo, quickly turning towards Alex. She realizes her attack wont work and kicks his shield to stagger him back before falling back again herself.
 - [ ] They are both breathing hard at this point, but she sees Tristan grinning and realizes that she is too. They are having fun somehow.
+- [ ] Alex attempts to go on the offensive, placing a hand behind her back to attempt a pressure wave like she did in the training room. She feels the pressure building up and releases, but it simply pushes her a foot or so. Tristan takes advantage and steps forward with a strike. She holds up her baton to block it and it slices right through, barely nicking her shoulder with a small cut.
 
 
 ## Act 4
