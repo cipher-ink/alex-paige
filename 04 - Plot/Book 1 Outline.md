@@ -415,6 +415,11 @@ kanban-plugin: board
 - [ ] Alex steps forward, about to make a snide remark, but another student steps in front of her. .Someone who was also on the ground earlier, simply waiting to be eliminated. Then another, and another
 - [ ] Save for one or two people who are completely curled up on the ground, her entire class gets up and formes a barrier around the four of them.
 - [ ] Trina looks like she’s about to cry. Alex can feel a thumping in her chest: she was the cause of this. She helped make this sort of impact, and something about that resonates with her. Gell looks at them and apologizes. He knows they’ve been researching and that they have a plan. He chides himself for not joining, and for assuming that the Third Ring couldn’t do anything. He apologizes for telling Alex it was worthless. He’s been through it so many times – they all have. Alex sees the other students nodding. Most all are trembling and shaking, but they maintain the stoic look on their faces as they look out among the first ring students, who seem to be standing there dumbfounded.
+- [ ] Gell tells them to go and do what they came here to do.
+- [ ] Alex begins to protest, but Gell shakes his head.
+	
+	“We won’t hold for long. But we can sure as hell give them a fight. I think we always knew we could. Somewhere. But no one ever had. No one could ever bring themselves to break the ice. So thanks. We’ll see out at the end of the Trial, no matter what happens.”
+- [ ] He turns and goes to the front of the class who are all steeling themselves. Some are even crying, some grinning in spite of the terror they feel. Wyll puts a hand on Alex’s shoulder and she understands.
 
 
 ## Act 4
