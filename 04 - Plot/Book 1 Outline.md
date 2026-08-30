@@ -402,6 +402,7 @@ kanban-plugin: board
 - [ ] Cayden and the group of first ring walk forward with a girl to his side holding out her hands with the continued spellcasting. She eventually lets it fall as Cayden continues forward alone, looking more annoyed than anything else.
 - [ ] The beast turns towards the source of the sound and leaps directly over Cayden to the girl who doesn’t flinch in the least.
 - [ ] Cayden reaches a hand up and in a single smooth motion twists his momentum to swing the vampire back around, slamming into the ground with a screech.
+- [ ] Cayden simply points towards the terrified group of third rings and says “take care of them.” Alex realizes that the man isn’t even using magic. Just simply overpowering the vampire. It gets up and growls, lunging at him. He ducks beneath the swipe, and with hands in the pockets of his coat, kicks the vampire square in the stomach. It lets out a wheeze as it scrabbles backwards.
 
 
 ## Act 4
