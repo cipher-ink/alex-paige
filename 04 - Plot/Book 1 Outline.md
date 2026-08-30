@@ -420,6 +420,7 @@ kanban-plugin: board
 	
 	“We won’t hold for long. But we can sure as hell give them a fight. I think we always knew we could. Somewhere. But no one ever had. No one could ever bring themselves to break the ice. So thanks. We’ll see out at the end of the Trial, no matter what happens.”
 - [ ] He turns and goes to the front of the class who are all steeling themselves. Some are even crying, some grinning in spite of the terror they feel. Wyll puts a hand on Alex’s shoulder and she understands.
+- [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
 
 
 ## Act 4
