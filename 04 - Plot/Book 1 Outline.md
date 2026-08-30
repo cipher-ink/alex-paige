@@ -406,6 +406,7 @@ kanban-plugin: board
 - [ ] Cayden points towards the group of Third Ring students, simply stating “take care of them” before following the creature into the woods. Alex turns to see the rest of the first ring students walking towards them
 - [ ] #### Scene 19.3
 - [ ] The students stop a bit away from them as the girl who cast the sonic magic, Ariel, holds her hand up with a grin and continues on her own, stating that she doesn’t need any help. “Weeds wont fight back anyway.”
+- [ ] Alex looks in the way Tristan was thrown, but she sees the Second Ring students too preocupied with their own injured to care about them.
 - [ ] Her crest lights up as she begins to cast a spell towards the large group of students, but is suddenly slapped in the face with a gust of wind, sending her hair flying all lover her face and the fireball she was conjuring goes flying into the forest.
 - [ ] She fixes herself and looks to Trina, who was the one casting the spell, fuming with anger. She insults Trina as she throws a binding spell towards her, but at the last moment Gell suddenly steps in the way, throwing a hand up as the binding spell suddenly reverses and Ariel can no longer move, falling to the ground and yelling.
 - [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
