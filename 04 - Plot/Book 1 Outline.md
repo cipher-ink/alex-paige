@@ -411,6 +411,9 @@ kanban-plugin: board
 - [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
 - [ ] He says that he’s never actually used his power before, but explains that he can reflect magic back at the caster, increasing it’s power by a little bit. He always assumed he couldn’t do it against someone as powerful as a first ring. That he wasn’t strong enough to do it. But if felt good. He’d been wanting to do that for so long, but never thought he could until he watched Alex go toe to toe with Tristan by herself.
 - [ ] He says he’s definetly going to get beat up for it, but he has a bright smile that Alex hadn’t seen on his face the entire time they had class together.
+- [ ] As Alex gets to her feet, the four of them stand together as Ariel is finally freed from the spell. She gets up, somehow even more furious than before. She screams they they’ve never fought back before. Asking what the hell has gotten into them, and stating that what right does a wedd have to think it can stand on equal footing with them?
+- [ ] Alex steps forward, about to make a snide remark, but another student steps in front of her. .Someone who was also on the ground earlier, simply waiting to be eliminated. Then another, and another
+- [ ] Save for one or two people who are completely curled up on the ground, her entire class gets up and formes a barrier around the four of them.
 
 
 ## Act 4
