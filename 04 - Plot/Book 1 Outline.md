@@ -414,6 +414,7 @@ kanban-plugin: board
 - [ ] As Alex gets to her feet, the four of them stand together as Ariel is finally freed from the spell. She gets up, somehow even more furious than before. She screams they they’ve never fought back before. Asking what the hell has gotten into them, and stating that what right does a wedd have to think it can stand on equal footing with them?
 - [ ] Alex steps forward, about to make a snide remark, but another student steps in front of her. .Someone who was also on the ground earlier, simply waiting to be eliminated. Then another, and another
 - [ ] Save for one or two people who are completely curled up on the ground, her entire class gets up and formes a barrier around the four of them.
+- [ ] Trina looks like she’s about to cry. Alex can feel a thumping in her chest: she was the cause of this. She helped make this sort of impact, and something about that resonates with her. Gell looks at them and apologizes. He knows they’ve been researching and that they have a plan. He chides himself for not joining, and for assuming that the Third Ring couldn’t do anything. He apologizes for telling Alex it was worthless. He’s been through it so many times – they all have. Alex sees the other students nodding. Most all are trembling and shaking, but they maintain the stoic look on their faces as they look out among the first ring students, who seem to be standing there dumbfounded.
 
 
 ## Act 4
