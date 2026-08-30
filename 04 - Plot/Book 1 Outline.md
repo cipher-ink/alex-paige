@@ -387,8 +387,11 @@ kanban-plugin: board
 - [ ] She looks back up and can see one of the second ring students with their hand out and the light of their crest just barely fading out. Tristan is looking at her with what looks like worry before fury replaces it and he spins on his heel and grabs the boy by the shoulders, berating him.
 - [ ] The cheater berates him for wasting time with this “weed” to which she can see both Tristan and the sister from before become livid. She can barely see, her vision a bit blurry, but the girl goes and slaps him while Tristan throws him to the side.
 - [ ] He turns towards Alex, and she thinks he’s walking towards her, but then he stops. As her vision comes back, she sees the terrified look on his face. She asks what, but realizes that he’s looking to the side of her instead. She rolls herself around only to see a looming figure in the treeline that matches the description of the vampire perfectly.
+- [ ] Then it dashes forward.
+- [ ] # Chapter 19
 - [ ] Then it suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
 - [ ] It seems to beeline for the cheating student and brings it’s claws up directly into the kid’s stomach. There is a scream before he dissolves into dust.
+- [ ] The sun is completely set by this point, and only the moonlight illuminates the monster as it looks on in confusion while the rest of the people in the clearing are too dumbstruck to move.
 
 
 ## Act 4
