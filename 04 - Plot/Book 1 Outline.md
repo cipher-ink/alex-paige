@@ -392,6 +392,7 @@ kanban-plugin: board
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
 - [ ] It seems to beeline for the cheating student and brings it’s claws up directly into the kid’s stomach. There is a scream before he dissolves into dust.
 - [ ] The sun is completely set by this point, and only the moonlight illuminates the monster as it looks on in confusion while the rest of the people in the clearing are too dumbstruck to move.
+- [ ] Tristan is the first, rushing towards the thing with his shields at the ready. It turns and takes a swing at him, to which he ducks and slices up with his blade catching the beast in the chest and leaving a nasty gash. It reels back before using it’s long reaching claws to swipe again at Tristan. He manages to block it with the bladed shield but Alex hears a crack as the shield breaks under the pressure and sends him flying into the treeline
 
 
 ## Act 4
