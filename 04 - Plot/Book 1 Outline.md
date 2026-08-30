@@ -405,6 +405,8 @@ kanban-plugin: board
 - [ ] Alex realizes that the man isn’t even using magic. Just simply overpowering the vampire. It gets up and growls, lunging at him. He ducks beneath the swipe, and with hands in the pockets of his coat, kicks the vampire square in the stomach. It lets out a wheeze as it scrabbles backwards and rushes away into the forest.
 - [ ] Cayden points towards the group of Third Ring students, simply stating “take care of them” before following the creature into the woods. Alex turns to see the rest of the first ring students walking towards them
 - [ ] #### Scene 19.3
+- [ ] The students stop a bit away from them as the girl who cast the sonic magic, Ariel, holds her hand up with a grin and continues on her own, stating that she doesn’t need any help. “Weeds wont fight back anyway.”
+- [ ] Her crest lights up as she begins to cast a spell towards the large group of students, but is suddenly slapped in the face with a gust of wind, sending her hair flying all lover her face and the fireball she was conjuring goes flying into the forest.
 
 
 ## Act 4
