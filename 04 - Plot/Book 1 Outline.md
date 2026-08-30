@@ -399,6 +399,8 @@ kanban-plugin: board
 - [ ] As if smelling it, the creature turns towards Alex with hunger in it’s eyes. However just as it begins to rush towards her it’s stopped when a sonic screech fills the entire clearing causing everyone, vampire included, to grip their heads and fall to their knees.
 - [ ] She looks to where it’s coming from and sees the last thing she wanted to: The first ring students at the other edge of the clearing with Cayden at the front.
 - [ ] #### Scene 19.2
+- [ ] Cayden and the group of first ring walk forward with a girl to his side holding out her hands with the continued spellcasting. She eventually lets it fall as Cayden continues forward alone, looking more annoyed than anything else.
+- [ ] The beast turns towards the source of the sound and leaps directly over Cayden to the girl who doesn’t flinch in the least.
 
 
 ## Act 4
