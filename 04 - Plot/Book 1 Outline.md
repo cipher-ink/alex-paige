@@ -385,6 +385,7 @@ kanban-plugin: board
 - [ ] They banter a bit before Alex realizes the sun is nearly gone and she needs to end this now. Tristan seems to realize this too and waits, bekoning her towards him. She realizes what he’s doing, but she’s got a plan as she rushes towards him.
 - [ ] He goes to block the feint swing Alex is giving before she suddenly feels a blast of wind from her side, sending her off balance. Tristan was going for a swing at the same time and attempts to pull back but its too late. He is able to adjust and smack her with the blunt of the shield instead of the blade, but it’s still a powerful blow that sends Alex tumbling to the ground. She loses conciousness for only a second before hitting the ground hard.
 - [ ] She looks back up and can see one of the second ring students with their hand out and the light of their crest just barely fading out. Tristan is looking at her with what looks like worry before fury replaces it and he spins on his heel and grabs the boy by the shoulders, berating him.
+- [ ] The cheater berates him for wasting time with this “weed” to which she can see both Tristan and the sister from before become livid. She can barely see, her vision a bit blurry, but the girl goes and slaps him while Tristan throws him to the side
 
 
 ## Act 4
