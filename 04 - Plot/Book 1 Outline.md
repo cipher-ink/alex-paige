@@ -438,6 +438,7 @@ kanban-plugin: board
 - [ ] #### Scene 20.2
 - [ ] It’s about an hour later, close to midnight, and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
 - [ ] She goes to inspect them, leaning down and touching it with her hands. She can feel the magic flowing from her and into them. It reminds her of her dad, and the glow grows brighter before she pulls away.
+- [ ] Olivia surprises her and they have a momet of shared grief. Olivia lost her grandfather and father to the curse, them deciding to end their own lives before the curse got to them. Her mother was grief ridden and became ill soon after, also passing. Since then it has been her and her brother watching over the town and waiting for the day that the curse reared it’s head. That happened when she turned 20. Both her and her brother were forced to deal with it on their own, only the notes of her family go to off of.
 
 
 ## Act 4
