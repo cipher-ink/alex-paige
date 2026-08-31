@@ -431,6 +431,8 @@ kanban-plugin: board
 - [ ] She doesn’t have a very good explanation, but she states she is here to help. Otherwise she wouldn’t have just waltzed in here.
 - [ ] Suddenly the guards come in with two more people in tow: Trina and Wyll were caught attempting to sneak in when Wyll sneezed and gave away their positions.
 - [ ] Olivia states that she cannot trust them, but she sits them down and has them explain what they know. Alex recounts the beginning of the fairy tale as best she can, trying to make it NOT seem like she knows the future. They were told that admitting such things would most likely just get them arrested or killed.
+- [ ] Olivia sighs and explains the curse in a bit more detail than they knew, explaining that both her and her brother have it, but she has been able to keep it under control while her brother…
+- [ ] Wyll has a sudden realization that this must be a manifestation going wild. Olivia is confused but Wyll goes on talking about Thorne’s thesis from the other day and how it may change them, to which Olivia confirms that she used to be disgusted with the sight of blood.
 
 
 ## Act 4
