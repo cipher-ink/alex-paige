@@ -423,7 +423,7 @@ kanban-plugin: board
 - [ ] He turns and goes to the front of the class who are all steeling themselves. Some are even crying, some grinning in spite of the terror they feel. Wyll puts a hand on Alex’s shoulder and she understands.
 - [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
 - [ ] # Chapter 20
-- [ ] #### Chapter 20.1
+- [ ] #### Scene 20.1
 
 
 ## Act 4
