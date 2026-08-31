@@ -427,6 +427,10 @@ kanban-plugin: board
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
 - [ ] It takes over two hours of skirting around the town. They don’t see anyone walking around at night, but they eventually find their way to the gate at the front of the keep. Alex is trying to figure out a way in, but remembers Thorne’s advice and just walks forward.
 - [ ] She asks to speak with the duchess, and the guards draw their swords stating that she looks odd with her hair and foreign clothing. When she says that she’s here about the vampire, the two guards look at each other and proceed to grab Alex, binding her hands and taking her into the keep. She initially resists but feels like this might be the only way to see her.
+- [ ] After being brought in and thrown into a room, it takes five minutes before the door opens and the duchess walks in, a scowl on her face asking why she has come to see her. Alex mentions the vampire running around town and says she can help with that, to which the duchess looks pained and worried before hiding it behind anger and telling the guards to dispose of her. Alex lets slip that it’s her brother, and she stops them asking how Alex could possibly know that.
+- [ ] She doesn’t have a very good explanation, but she states she is here to help. Otherwise she wouldn’t have just waltzed in here.
+- [ ] Suddenly the guards come in with two more people in tow: Trina and Wyll were caught attempting to sneak in when Wyll sneezed and gave away their positions.
+- [ ] Olivia states that she cannot trust them, but she sits them down and has them explain what they know. Alex recounts the beginning of the fairy tale as best she can, trying to make it NOT seem like she knows the future. They were told that admitting such things would most likely just get them arrested or killed.
 
 
 ## Act 4
