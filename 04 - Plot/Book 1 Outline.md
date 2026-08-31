@@ -443,6 +443,8 @@ kanban-plugin: board
 - [ ] It’s then that they hear a noise in the brush. Alex stands and pulls Olivia back, summoning a light baton and expecting the Vampire to pop out. Instead it’s Tristan that comes forward. He looks beaten up, but he has both hands in the air stating that he isn’t there to fight.
 - [ ] Olivia can feel the tension between the two and leaves them alone for a bit, stating that she will be just inside if Alex needs anything
 - [ ] Alex demands to know what he wants, or she’s going to call back the guards. But to her surprise Tristan bows on one knee and apologizes for the inturruption to their duel, yet again
+- [ ] He also apologizes for eavesdropping on her and Olivia’s conversation, to which an embarrassed Alex turns to leave.
+- [ ] Tristan stops her by explaining that he respects her a lot. Not just because she can go toe to toe with him, but because she has a lot of will. It’s her emotional strength that gets to him. He states that he wishes he’d had that sort of strength when his mother passed.
 
 
 ## Act 4
