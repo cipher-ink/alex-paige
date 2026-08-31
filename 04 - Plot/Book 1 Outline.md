@@ -441,6 +441,8 @@ kanban-plugin: board
 - [ ] Olivia surprises her and they have a momet of shared grief. Olivia lost her grandfather and father to the curse, them deciding to end their own lives before the curse got to them. Her mother was grief ridden and became ill soon after, also passing. Since then it has been her and her brother watching over the town and waiting for the day that the curse reared it’s head. That happened when she turned 20. Both her and her brother were forced to deal with it on their own, only the notes of her family go to off of.
 - [ ] Alex shares the loss of her dad, and her missing mother. She shares that she hopes to find her one day, but she’s also scared about these people who are after her. She doesn’t even know why.
 - [ ] It’s then that they hear a noise in the brush. Alex stands and pulls Olivia back, summoning a light baton and expecting the Vampire to pop out. Instead it’s Tristan that comes forward. He looks beaten up, but he has both hands in the air stating that he isn’t there to fight.
+- [ ] Olivia can feel the tension between the two and leaves them alone for a bit, stating that she will be just inside if Alex needs anything
+- [ ] Alex demands to know what he wants, or she’s going to call back the guards. But to her surprise Tristan bows on one knee and apologizes for the inturruption to their duel, yet again
 
 
 ## Act 4
