@@ -445,6 +445,8 @@ kanban-plugin: board
 - [ ] Alex demands to know what he wants, or she’s going to call back the guards. But to her surprise Tristan bows on one knee and apologizes for the inturruption to their duel, yet again
 - [ ] He also apologizes for eavesdropping on her and Olivia’s conversation, to which an embarrassed Alex turns to leave.
 - [ ] Tristan stops her by explaining that he respects her a lot. Not just because she can go toe to toe with him, but because she has a lot of will. It’s her emotional strength that gets to him. He states that he wishes he’d had that sort of strength when his mother passed.
+- [ ] The moment is awkward, but Tristan breaks it by getting up and declaring loudly that he won’t lose their next duel though, leading to a playful argument before Wyll and Trina come out in excitement. Trina deciphered the text and Wyll thought of an idea.
+- [ ] #### Scene 20.3
 
 
 ## Act 4
