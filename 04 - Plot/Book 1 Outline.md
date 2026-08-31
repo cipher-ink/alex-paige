@@ -436,6 +436,8 @@ kanban-plugin: board
 - [ ] Alex asks about an alchemical book, to which Olivia is stunned that she knows about. Alex still eludes answering why but explains that the book may help. Olivia goes to the back of the room and opens a hidden compartment in the bookshelf, revealing another behind it with a singular book. She sets it on the table and Trina immedietly recognizes that it’s written in runic. Olivia admits no one has been able to read it, but trina states that she would be able to: it would just take some time.
 - [ ] Olivia at this point has become less weary, asking if they are really here to help, which Alex nods. There is a sigh of relief as she asks what the plan is. Alex hadn’t gotten that far.
 - [ ] #### Scene 20.2
+- [ ] It’s about an hour later, close to midnight, and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
+- [ ] She goes to inspect them, leaning down and touching it with her hands. She can feel the magic flowing from her and into them. It reminds her of her dad, and the glow grows brighter before she pulls away.
 
 
 ## Act 4
