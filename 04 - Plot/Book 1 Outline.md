@@ -424,6 +424,7 @@ kanban-plugin: board
 - [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
+- [ ] The gang are rushing through the woods attempting to find the main road leading through town. Or at least they assumed there would be one. There were no maps in their research of the town itself.
 
 
 ## Act 4
