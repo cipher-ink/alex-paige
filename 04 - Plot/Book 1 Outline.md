@@ -425,6 +425,7 @@ kanban-plugin: board
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
+- [ ] It takes over two hours of skirting around the town. They don’t see anyone walking around at night, but they eventually find their way to the gate at the front of the keep. Alex is trying to figure out a way in, but remembers Thorne’s advice and just walks forward.
 
 
 ## Act 4
