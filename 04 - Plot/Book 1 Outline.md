@@ -426,6 +426,7 @@ kanban-plugin: board
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
 - [ ] It takes over two hours of skirting around the town. They don’t see anyone walking around at night, but they eventually find their way to the gate at the front of the keep. Alex is trying to figure out a way in, but remembers Thorne’s advice and just walks forward.
+- [ ] She asks to speak with the duchess, and the guards draw their swords stating that she looks odd with her hair and foreign clothing. When she says that she’s here about the vampire, the two guards look at each other and proceed to grab Alex, binding her hands and taking her into the keep. She initially resists but feels like this might be the only way to see her.
 
 
 ## Act 4
