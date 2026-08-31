@@ -434,7 +434,8 @@ kanban-plugin: board
 - [ ] Olivia sighs and explains the curse in a bit more detail than they knew, explaining that both her and her brother have it, but she has been able to keep it under control while her brother…
 - [ ] Wyll has a sudden realization that this must be a manifestation going wild. Olivia is confused but Wyll goes on talking about Thorne’s thesis from the other day and how it may change them, to which Olivia confirms that she used to be disgusted with the sight of blood.
 - [ ] Alex asks about an alchemical book, to which Olivia is stunned that she knows about. Alex still eludes answering why but explains that the book may help. Olivia goes to the back of the room and opens a hidden compartment in the bookshelf, revealing another behind it with a singular book. She sets it on the table and Trina immedietly recognizes that it’s written in runic. Olivia admits no one has been able to read it, but trina states that she would be able to: it would just take some time.
-- [ ] Olivia at this point has become less weary, asking if they are really here to help, which Alex nods.
+- [ ] Olivia at this point has become less weary, asking if they are really here to help, which Alex nods. There is a sigh of relief as she asks what the plan is. Alex hadn’t gotten that far.
+- [ ] #### Scene 20.2
 
 
 ## Act 4
