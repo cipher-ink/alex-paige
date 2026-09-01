@@ -468,6 +468,8 @@ kanban-plugin: board
 - [ ] Cayden expresses how disappointed he is in Tristan and ponders how ashamed their father must be in him, “if he cared about you in the first place”
 - [ ] Alex expects a retort, but Tristan just stands there unable to move. She swears that she can see him shaking.
 - [ ] As she manages to get her foot free, she calls out to Cayden, asking him what the hell he’s doing. When he ignores her entirely, she proceeds to hobble her way over. She can see Tristan watching her, and it looks like his mouth is moving, but nothing is coming out of it.
+- [ ] She yells at Cayden again, demanding attention. She reaches over and grabs his shoulder, to which she herself freezes. Her entire body begins trembling as she feels something rushing through her entire body: fear. Cayden turns and punches her directly in the stomach, sending her flying into the far rubble right where she came from. Alex definetly has some broken ribs and she’s left coughing powerlessly.
+- [ ] Cayden turns back to Heinz who begs for his family to be spared even if his life needs to be taken. cayden simply dismisses the please of those who are weak.
 
 
 ## Act 4
