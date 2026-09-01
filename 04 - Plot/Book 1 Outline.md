@@ -451,6 +451,8 @@ kanban-plugin: board
 - [ ] Alex uses that momentary confusion to cast echo and send it around the other side of the shiled. Heinz lunges at it and misses, to which Alex casts slip not on herself but on Heinz. His feet can no longer find purchase and he falls to the ground. Tristan, seemingly anticipating it, summons a large shield and with the brunt edge slams it into Heinz’s face. His eyes roll back as he falls to the ground. The rest are left there breathing heavily in the aftermath as Alex says “we did it?”
 - [ ] #### Scene 20.3
 - [ ] they free Damien in the aftermath and he slaps some magic restraints on him that he kept in his coat for emergencies. Trina remarks that it’s some pretty good crafting and Damien thanks her befor realizing she’s a third ring and pretending to chastize her instead.
+- [ ] Once Heinz was restrained, they brought him up to the top floor, Alex and Tristan lighting some candles to illuminate the room as they talked about what they needed to do. Ever since the fight, Wyll had placed himself in the corner and refused to speak. Alex wanted to go and give him a hug, but now wasn’t the time.
+- [ ] Trina gives Damien the rundown of why they need him and the plan for saving Heinz, but he simply scoffs and looks disgusted. 1: its taboo and they would be in serious trouble. 2: why not just kill him?
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
