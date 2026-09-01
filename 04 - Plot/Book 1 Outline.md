@@ -324,6 +324,8 @@ kanban-plugin: board
 - [ ] He apologizes and states that he’s simply very tired lately. But he will be okay. Alex goes to get paper towls and clean up the coffee on the ground but Thorne grabs her wrist loudly stating “no” which seems to frighten her with the look in his eyes.
 - [ ] He quickly recovers, stating that she needs to be thinking about the upcoming trial in a few days.
 - [ ] He lets go, apologizing and asking what she came here for, to which Alex states she hasn’t seen him in over a week. Thorne realizes and admits that he’s lsot some time as of late. Alex suggests a day off to relax, and Thorne agrees halfheartedly.
+- [ ] He asks how her research on the trial was going, and she states that it was fine, but the most they really found was a fairy tale, so they’ve only got that to go on. She begins to explain the tale before Thorne prompty “remembers” that he had read that before.
+- [ ] He states that if it really was the scenario, then she better go talk to the duchess. He recommends pleading with her and explaining that they are there to help her brother, not kill him. Alex asks how he knows so much, and he brushes it off that he has an accute interest in history, especially where manifestations are concerned.
 - [ ] 
 - [ ] #### Chapter 17.2
 - [ ] Alex went to check on Thorne, only to find the door locked and window covered. She presses her ear to the door, but doesn’t hear anything. Instead she tastes and smells something in the air like iron or metal. She assumes he was caught in research and experimenting, so she leaves it alone.
