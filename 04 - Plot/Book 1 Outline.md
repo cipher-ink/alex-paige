@@ -475,6 +475,8 @@ kanban-plugin: board
 - [ ] #### Scene 21.2
 - [ ] Alex opens her eyes and is back in the chamber. She’s still injured and wheezing as the pain in her ribs becomes real.
 - [ ] She can see some students and faculty rushing towards them, but even the pain doesn’t stop her fury as she searches the chamber, finding the object of her rage. It isn’t even Cayden.
+- [ ] She screams Tristan’s name as she spots him at the far end, looking realtively fine. Alex can feel her emotions overwhelming her, and she begins screaming things before thinking. She can feel her magic going out of control, and yet nothing it happening since she used so much on the spell.
+- [ ] She screams that he betrayed them. She thought he was okay. that he was better than the rest of them. That she started to trust him. Tristan refuses to look in her direction.
 
 
 ## Act 4
