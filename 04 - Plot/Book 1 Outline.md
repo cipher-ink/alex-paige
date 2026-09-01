@@ -367,6 +367,7 @@ kanban-plugin: board
 - [ ] He steps forward, stating that they are going to finish their duel. Just the two of them. And this time he’s going to win.
 - [ ] Alex states that she will agree on conditions, much to Trina and Wyll telling her not to. She says that if she wins they leave the third ring alone for the trial. There are some protests from behind and Tristan silences them before agreeing.
 - [ ] Alex summons her batons. Tristan pulls out the sword from his hip and summons a spectral shield at the start. They circle each other.
+- [ ] Alex is the first to step forward, taking a high swing at Tristan who bites and goes to block it before Alex sweepd his ankle with her foot, sending him stumbling back but not enough to get him on the ground. He asks where she learned that and She rebuttles that she had a good teacher, remembering that Terrell had done that to her only days prior.
 - [ ] 
 - [ ] She looks back up and can see one of the second ring students with their hand out and the light of their crest just barely fading out. Tristan is looking at her with what looks like worry before fury replaces it and he spins on his heel and grabs the boy by the shoulders, berating him.
 - [ ] The cheater berates him for wasting time with this “weed” to which she can see both Tristan and the sister from before become livid. She can barely see, her vision a bit blurry, but the girl goes and slaps him while Tristan throws him to the side.
