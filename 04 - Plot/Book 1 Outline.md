@@ -403,8 +403,9 @@ kanban-plugin: board
 - [ ] It takes two hours, but Alex and the gang make a long trek around watching for Cayden or the Vampire while they make their way to the keep. Alex can hear the sounds of battle fade away as the moon begins to rise higher in the sky.
 - [ ] They arrive at the front gates of the keep, but Alex tells Wyll and Trina to hold back in case something goes wrong. She approaches and the guards point their spears at her. When she states she is here to talk to the duchess about a vampire, the quickly sieze and bind her. Alex begins to fight back, but realizes this may be the only way in, deciding to allow it to happen.
 - [ ] She is dragged into a room and forces to wait before Olivia bursts in furious and terrified, demanding to know who this girl in foreign clothes is claiming to know about the moster in their woods. Alex mentions her brother, and Olivia snaps, ordering the guards to dispose of her.
-- [ ] But Alex yells they might have a cure and talks about the book, which gets Olivia’s attention. She asks how she knows about that, but she can’t really tell her anything since it was against the rules of the scenario to explain it was all a simulation.
-- [ ] 
+- [ ] But Alex yells they might have a cure and talks about the book, which gets Olivia’s attention. She asks how she knows about that, but she can’t really tell her anything since it was against the rules of the scenario to explain it was all a simulation. She only says that if Olivia trusts them, even a little bit, they can help her. Olivia asks who “we” is before guards come in carrying Wyll and Trina, who attempted to break in and find her. Alex sighs.
+- [ ] Olivia is deeply suspiccious and tests them. She produces the book and places it in front of them, demanding that if they cannot decipher it then she is going to have all three of them executed before nightfall.
+- [ ] Trina imedietly recognizes the runic on the front and reads enough to confirm the title: Transmogrification Trials
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
