@@ -449,6 +449,7 @@ kanban-plugin: board
 - [ ] He chides at Alex, stating that he didn’t think she was so weak and asks where the girl that nearly beat him in a duel went. She remarks “Nearly?!” before getting up in a surge of anger and summoning her batons which now returned to her.
 - [ ] Tristan simply smiles, “there she is”, before Heinz comes rushing back towards Alex. He no longer attempts to user her powers, but she can see the hunger and anger as he lunges for her. But Tristan’s shield gets in the way. It cracks, but doesn’t break this time as Tristan winces in pain like he himself was hit. He yells her name and she understands.
 - [ ] Alex uses that momentary confusion to cast echo and send it around the other side of the shiled. Heinz lunges at it and misses, to which Alex casts slip not on herself but on Heinz. His feet can no longer find purchase and he falls to the ground. Tristan, seemingly anticipating it, summons a large shield and with the brunt edge slams it into Heinz’s face. His eyes roll back as he falls to the ground. The rest are left there breathing heavily in the aftermath as Alex says “we did it?”
+- [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
