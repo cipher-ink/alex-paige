@@ -435,6 +435,8 @@ kanban-plugin: board
 - [ ] #### Scene 21.2
 - [ ] Tristan is the first to move again as he summons his shield and splits it apart, swinging at Heinz. Even though he’s not in his full vampire form, Heinz swipes out of the way and slams his fist into the shield, cracking it and sending him through a support pillar.
 - [ ] Alex is next as she pushes a terrified Wyll and Trina behind her and summoning her batons, but she looks back and he’s gone.
+- [ ] Suddenly he drops down from the cieling behind them, swiping at the group as Trina uses wind magic to push him away. As they pull away Wyll has a scratch on his arm and Heinz now has blood on his claws.
+- [ ] He licks the blood and his body suddenly convulses, contorting  and turning in directions Alex struggles to see wihtout throwing up, until he comes back and smiles a wide grin, his beady red eyes glowing as he produces a black flame from his hands, stating that the boy has a very interesting power.
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
