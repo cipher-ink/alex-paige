@@ -416,8 +416,10 @@ kanban-plugin: board
 - [ ] Alex is inturrupted when Tristan sneaks his way in, beaten up badly but alive. The guard gets ready to attack but Alex holds her hand up stating that she can take care of him.
 - [ ] She readies for Tristan to attack or say some snide remark, but he instead bows to her. He stats that he is sorry their duels keep getting inturupted.
 - [ ] She doesn’t really know what to say, but he admits that he respects her. Not because she has power, but becuase she doesn’t. She came here at a huge disadvantage and even the trauma of her past, but she kept moving forward. Tristan always hoped that he could be like that, but since his mother died…he trails off as the moment becomes awkward.
-- [ ] 
+- [ ] He gets up like a tsundere and declares that he won’t lose their next duel, breaking the tension and causing Alex to laugh before Trina comes rushing in with Wyll in tow.
+- [ ] They are surprised to see Tristan, but yell that they figured it out.
 - [ ] #### Scene 19.3
+- [ ] 
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] It’s about an hour later and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
