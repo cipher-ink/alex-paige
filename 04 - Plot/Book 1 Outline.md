@@ -320,6 +320,8 @@ kanban-plugin: board
 - [ ] # Chapter 17
 - [ ] #### Chatpter 17.1
 - [ ] Alex wakes sore from the day before after all the spellcasting and goes through her classes in a haze. She gets laughed at a few times for not being able to asnwer questions, but she doesn’t seem to care at the moment.
+- [ ] Instead she goes to see Thorne. Neither her nor Mr. Terrell had heard from him in over a week, so she was a bit worried. She knocks on the door and enters, finding him collapsed behind his desk. His coffee mug had fallen on the ground and was spilling all over. Alex notes that it’s really dark for whatever reason, but is more concerned with Thorne as she helps him up.
+- [ ] He apologizes and states that he’s simply very tired lately. But he will be okay. Alex goes to get paper towls and clean up the coffee on the ground but Thorne grabs her wrist loudly stating “no” which seems to frighten her with the look in his eyes.
 - [ ] 
 - [ ] #### Chapter 17.2
 - [ ] Alex went to check on Thorne, only to find the door locked and window covered. She presses her ear to the door, but doesn’t hear anything. Instead she tastes and smells something in the air like iron or metal. She assumes he was caught in research and experimenting, so she leaves it alone.
