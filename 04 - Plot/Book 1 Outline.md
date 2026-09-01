@@ -437,6 +437,7 @@ kanban-plugin: board
 - [ ] Alex is next as she pushes a terrified Wyll and Trina behind her and summoning her batons, but she looks back and he’s gone.
 - [ ] Suddenly he drops down from the cieling behind them, swiping at the group as Trina uses wind magic to push him away. As they pull away Wyll has a scratch on his arm and Heinz now has blood on his claws.
 - [ ] He licks the blood and his body suddenly convulses, contorting  and turning in directions Alex struggles to see wihtout throwing up, until he comes back and smiles a wide grin, his beady red eyes glowing as he produces a black flame from his hands, stating that the boy has a very interesting power.
+- [ ] Alex doesn’t really understand what’s happening, but Wyll goes deathly pale and screams for them to all run away and not to touch the fire. Instead of launching a ball Heinz coats his claws in flame and rushes forward. Alex is wondering where Tristan is, but can’t take her eyes off of him as she uses Slip to fall under the first strike, only to see the second one coming even faster: a feint that she fell for. Her baton manages to extend just in time to knock the brunt of it away, but it nicks her clothes and the flame immedietly starts burning.
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
