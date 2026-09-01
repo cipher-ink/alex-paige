@@ -467,6 +467,8 @@ kanban-plugin: board
 - [ ] He was currently walking them back towards the town. It was probably close to midnight at this point, and Alex was exhausted, but Tristan had cast a locating spell and begun leading them in this direction. Alex checks her own arm, but the entire time they had been here the pointers on her compass had disappeared. She didn’t know what it meant, but it probably had something to do with being in the Trial.
 - [ ] They arrive at a small house on the west side of the village. After taking a look around and not seeing anything, they try and realize the door is locked. Alex, without much thought, reaches to her hair and grabs a pin, pulling it out and picking the lock with relative ease.
 - [ ] When asked how she knew to do that, she doesn’t have a good answer. It felt like muscle memory. She remembers picking a lock while dreaming about her mom, but she’d never actually done it bfore.
+- [ ] It turns out the entire house was empty other than a simple staircase leading down to the cellar, where they find Damien unconcious.
+- [ ] He is sound asleep with Belladew, but Wyll produces a plum and gives it to Damien, waking him up near instantly as he eats one himself as a snack.
 
 
 ## Act 4
