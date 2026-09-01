@@ -359,7 +359,7 @@ kanban-plugin: board
 - [ ] Just as she is about to storm over there, the suddenly feels a large magical energy eminating from the center of the room as the machine in the center whirs to life. According to Trina, no one particularly knew how it worked, at least here at the school. No one here was actually present when the thing was created, so it’s old. And yet one of the most sophisticated pieces of magitech ever created. Opening a sub-plane and maintaining it for any length of time is not an easy feat.
 - [ ] Alex asks why they use such a thing for dumb Trials instead of plenty of other helpful things, and both Trina and Wyll shrug, not having a competent answer.
 - [ ] The portals light up and her group is escorted to the entrance of one while Mr. Terrell gives them a “good luck” speech before sending them through. The portals themselves were opaque and glowed with multicolored swirls, the same as the one she passed through to get to this school. She clenches her fists before walking through, feeling that same sort of jello-like consistency as she forces her way in.
-- [ ] #### Scene 18.3
+- [ ] #### Scene 18.2
 - [ ] When she next opens here eyes, she is completely surrounded by forest. They are in a small clearing at the top of a hill overlooking a rustic town (Lucerine she presumes). She can even see on the hill on the other side of this small valley that holds the keep, looming over the rest of the town. She realizes the was transported here with all of her friends, which is good, but she can see the other third ring students beginning to sit on the ground and wait.
 - [ ] She talks to one of them, Gell (a kinder), and asks what they are doing to which they simply state they are waiting to be taken out. It always happens. The first thing the other groups do is find them and take them all out.
 - [ ] As if on cue a student yells as a cracking can be heard and Alex turns to see one of the other students, a faerie, tumble to the ground smoking. The second ring students, including Tristan are at the other end of the clearing.
@@ -375,8 +375,7 @@ kanban-plugin: board
 - [ ] They both begin to rush forward but then WAM a wall of wind hits Alex on the side. She watches Tristan realize it, but it’s too late and all he can do is twist his sword arm to smack her with the shield instead of piercing her. she goes flying 5 feet away and tumbling on the ground, dazed and confused.
 - [ ] She looks back up and can see one of the second ring students with their hand out and the light of their crest just barely fading out. Tristan is looking at her with what looks like worry before fury replaces it and he spins on his heel and grabs the boy by the collar, yelling at him for cheating.
 - [ ] The boy simply states that they don’t have time to waste with a weed as Daryn’s sister Lyla comes up and separates the two before also smacking the kid in the face.
-- [ ] 
-- [ ] Then it dashes forward.
+- [ ] She seems about to say something but is suddenly cut off as the cheater is no longer in front of her. Alex watched a blur rush out from the treeline and grab the man. But as she realizes it was no man, she sees the tall and lanky figure resembling the vampire of the story, having skewered the boy on his claws. The boy eeks out a small noise before spurting something red and disappating into dust.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
