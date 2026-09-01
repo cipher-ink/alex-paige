@@ -427,7 +427,7 @@ kanban-plugin: board
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] It doesn’t take them long to realize what happened, standing at the same spot as the earlier battle with scorch marks and red streaks all over the place. No bodies, but a battle definetly took place here, and a fierce one at that. Alex feels bad for leaving behind her class, but she can’t worry about that now as they search for any sign of Damien with no luck. They traveled all the way here for nothing
-- [ ] Tristan pulls out the scrying stone that he’d been using non-stop as they were walking here, attempting to get in touch with Damien who had the other one. But instead, another voice answers the phone and states that all of thoes people turned to dust, which is unusual. All that power was gone and he was hungry. It’s Heinz.
+- [ ] Tristan pulls out the scrying stone and calls out for Damien, but it’s not him who answers. Instead it’s Heinz, who admits that he got away from Cayden and now has this one trapped where he can slowly feed so that he doesn’t disappear like the others.
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
