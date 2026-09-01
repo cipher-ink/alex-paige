@@ -413,6 +413,9 @@ kanban-plugin: board
 - [ ] She apologizes for being so hostile earlier, but she didnt know if she could trust them. She still doesnt know, and is fairly upset that Alex refuses to answer how she came about such information. She jokingly states that she could keep her confined here until she squeels, but Alex retorts that if that happened nothing would save her brother and she relents. She states that he has a wife and kids that he wants to return to, begging every night to be cured of their disease.
 - [ ] She explains that it was the same way she lost her father and grandfather. Alex states that she’s sorry, and Olivia recognizes the same loss on her face asking who she lost. Alex mentions her dad, but it’s obvous that she doesn’t want to talk. Olivia eventually releases her into the gardens with one guard to watch over her.
 - [ ] Alex wanders the gardens for quite a bit, wondering if everything she’s done so far has been worth it. She finds a patch of moonglow and uses her magic to light them up, remembering the forest and her initial chat with Jen. She hopes that she’s alright.
+- [ ] Alex is inturrupted when Tristan sneaks his way in, beaten up badly but alive. The guard gets ready to attack but Alex holds her hand up stating that she can take care of him.
+- [ ] She readies for Tristan to attack or say some snide remark, but he instead bows to her. He stats that he is sorry their duels keep getting inturupted.
+- [ ] She doesn’t really know what to say, but he admits that he respects her. Not because she has power, but becuase she doesn’t. She came here at a huge disadvantage and even the trauma of her past, but she kept moving forward. Tristan always hoped that he could be like that, but since his mother died…he trails off as the moment becomes awkward.
 - [ ] 
 - [ ] #### Scene 19.3
 - [ ] # Chapter 20
