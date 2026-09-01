@@ -426,8 +426,8 @@ kanban-plugin: board
 - [ ] They are still hesitent, but Olivia bows and beggs them to help her brother. They resolve to find Damien while Trina prepares the spell to work properly with her matrix.
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
-- [ ] It doesn’t take them long to realize what happened, standing at the same spot as the earlier battle with scorch marks and red streaks all over the place. No bodies, but a battle definetly took place here, and a fierce one at that. Alex feels bad for leaving behind her class, but she can’t worry about that now as they search for any sign of Damien with no luck. They traveled all the way here for nothing
-- [ ] Tristan pulls out the scrying stone and calls out for Damien, but it’s not him who answers. Instead it’s Heinz, who admits that he got away from Cayden and now has this one trapped where he can slowly feed so that he doesn’t disappear like the others.
+- [ ] It doesn’t take them long to actually find Damien. Tristan had a locator spell and a trinket that was tied to each member of his class, just in case anyone got lost. He activates it and Alex notes that the paper turns into a sort of compas, eerilie simmilar to the one on her arm that had gone blank since coming here.
+- [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
