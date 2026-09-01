@@ -452,6 +452,8 @@ kanban-plugin: board
 - [ ] Trina explains that she thinks she can fix it, and when asked about it excitedly tells them that it would require reversing the transmogrification magic or even finishing and finalizing the sealing spell. No one particularly thinks this is a good idea, but Trina has been going on and states that what other choice to they have? Does anyone else have a good answer? Alex can see the excitement in her eyes at performing a taboo. She gets that it’s a simulation, but still doesn’t feel too good about it.
 - [ ] It’s then that Olivia bows to them, begging to do anything they can to help both her and especially her brother. All he begs for it to be cured so that he can be with his wife and daughter again. With that pain hitting both Alex and Tristan, they reluctantly agree with the plan.
 - [ ] Wyll chimes up that even if he was okay with this, which he’s not, they would still need a magi with the enchantment affinity. Tristan then advises they go find Damien from his group who has the affinity and is fairly adept at enchantment.
+- [ ] Wyll seems to look angry for the first time Alex remembers, but they all agree that they need to find Damien.
+- [ ] # Chapter 21.1
 
 
 ## Act 4
