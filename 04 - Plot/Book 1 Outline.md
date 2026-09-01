@@ -448,6 +448,7 @@ kanban-plugin: board
 - [ ] The moment is awkward, but Tristan breaks it by getting up and declaring loudly that he won’t lose their next duel though, leading to a playful argument before Wyll and Trina come out in excitement. Trina deciphered the text and Wyll thought of an idea.
 - [ ] #### Scene 20.3
 - [ ] Much to everyone’s dismay, Tristan forces his way into their meeting, but they explain the solution they found. It turns out that the book itself isnt about alchemy at all, and Trina reveals that it’s a book on transmogrification. She seems excited but Tristan and Wyll are imedietly wary. She explains to Alex that it’s enchantment magic on living things, and she remembers to her convo with Terrell.
+- [ ] Trina explains that long ago they attempted to seal away their manifestation with the spell listed in this book, but instead they just made it worse, corrupting the spell and giving way to that “vampire” form of theirs.
 
 
 ## Act 4
