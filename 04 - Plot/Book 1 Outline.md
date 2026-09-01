@@ -409,7 +409,8 @@ kanban-plugin: board
 - [ ] Olivia is surprised, but not as much as Wyll and Trina, who seem almost disgusted to hear about transmogrification. Olivia’s mask cracks after knowing that someone can read it and explains the curse. She needs them to understand what they are dealing with. Her brother is dying and being completely consumed by their curse, and she needs to find a cure.
 - [ ] Wyll finally figures it out. It’s not a curse at all, but a manifestation. He calls back to Thorne’s thesis about manifesatations affeecting the user as much as they effect the manifestation. Trina is also the one who confirms that the transmogrification must be about the manifestation, and if she can decipher the she may be able to figure out what happened and reverse it. Wyll isn’t too pleased to be dabbling in transmog magic, but Trina seems genuenly excited and Olivia is relieved, stating that she can begin reading now.
 - [ ] #### Scene 19.2
-- [ ] 
+- [ ] About an hour has passed as Trina began reading the book with some help from Wyll. Alex didn’t have much to do, and all the jargin they used went right over her head, so she asked if there was a place outside she could go to. Olivia walks with her to the garden with two guards in tow
+- [ ] She apologizes for being so hostile earlier, but she didnt know if she could trust them. She still doesnt know, and is fairly upset that Alex refuses to answer how she came about such information.
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
