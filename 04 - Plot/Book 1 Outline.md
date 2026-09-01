@@ -606,6 +606,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,false],"lane-width":295}
+{"kanban-plugin":"board","list-collapse":[true,false,false,true,true,false],"lane-width":295}
 ```
 %%
