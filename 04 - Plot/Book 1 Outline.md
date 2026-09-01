@@ -447,7 +447,7 @@ kanban-plugin: board
 - [ ] Tristan stops her by explaining that he respects her a lot. Not just because she can go toe to toe with him, but because she has a lot of will. It’s her emotional strength that gets to him. He states that he wishes he’d had that sort of strength when his mother passed.
 - [ ] The moment is awkward, but Tristan breaks it by getting up and declaring loudly that he won’t lose their next duel though, leading to a playful argument before Wyll and Trina come out in excitement. Trina deciphered the text and Wyll thought of an idea.
 - [ ] #### Scene 20.3
-- [ ] Much to everyone’s dismay, Tristan forces his way into their meeting, but they explain the solution they found: resonance. Wyll explains what resonance is and that by using it in conjunction with enchantment magic, they can most likely filter the effects of the
+- [ ] Much to everyone’s dismay, Tristan forces his way into their meeting, but they explain the solution they found. It turns out that the book itself isnt about alchemy at all, and Trina reveals that it’s a book on transmogrification. She seems excited but Tristan and Wyll are imedietly wary. She explains to Alex that it’s enchantment magic on living things, and she remembers to her convo with Terrell.
 
 
 ## Act 4
