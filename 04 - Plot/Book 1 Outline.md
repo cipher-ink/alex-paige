@@ -387,27 +387,6 @@ kanban-plugin: board
 - [ ] This just ticks her off even more as she wonders how a weed would dare fight back. She goes to fire a binding spell before Gell suddenly steps in the way and counters it, reflecting the spell back at her.
 - [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
 - [ ] He says that he’s never actually used his power before, but explains that he can reflect magic back at the caster, increasing it’s power by a little bit. He always assumed he couldn’t do it against someone as powerful as a first ring. That he wasn’t strong enough to do it. But if felt good. He’d been wanting to do that for so long, but never thought he could until he watched Alex go toe to toe with Tristan by herself.
-- [ ] # Chapter 19
-- [ ] #### Scene 19.1
-- [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
-- [ ] It seems to beeline for the cheating student and brings it’s claws up directly into the kid’s stomach. There is a scream before he dissolves into dust.
-- [ ] The sun is completely set by this point, and only the moonlight illuminates the monster as it looks on in confusion while the rest of the people in the clearing are too dumbstruck to move.
-- [ ] Tristan is the first, rushing towards the thing with his shields at the ready. It turns and takes a swing at him, to which he ducks and slices up with his blade catching the beast in the chest and leaving a nasty gash. It reels back before using it’s long reaching claws to swipe again at Tristan. He manages to block it with the bladed shield but Alex hears a crack as the shield breaks under the pressure and sends him flying into the treeline
-- [ ] After that, all hell breaks loose. The vampire begins rushing around with studetns from both rings casting spells in it’s vicinity, which it always manages to dodge or brush off with little effect. It swipes at another student which turns to dust in its claws.
-- [ ] Alex manages to get to her feet as Wyll and Trina come to her side. Her head is aching and her shoulder is still hurting from the cut earlier. She reaches up and grabs it, pulling back and seeing blood left on her fingers.
-- [ ] As if smelling it, the creature turns towards Alex with hunger in it’s eyes. However just as it begins to rush towards her it’s stopped when a sonic screech fills the entire clearing causing everyone, vampire included, to grip their heads and fall to their knees.
-- [ ] She looks to where it’s coming from and sees the last thing she wanted to: The first ring students at the other edge of the clearing with Cayden at the front.
-- [ ] #### Scene 19.2
-- [ ] Cayden and the group of first ring walk forward with a girl to his side holding out her hands with the continued spellcasting. She eventually lets it fall as Cayden continues forward alone, looking more annoyed than anything else.
-- [ ] The beast turns towards the source of the sound and leaps directly over Cayden to the girl who doesn’t flinch in the least.
-- [ ] Cayden reaches a hand up and in a single smooth motion twists his momentum to swing the vampire back around, slamming into the ground with a screech.
-- [ ] Alex realizes that the man isn’t even using magic. Just simply overpowering the vampire. It gets up and growls, lunging at him. He ducks beneath the swipe, and with hands in the pockets of his coat, kicks the vampire square in the stomach. It lets out a wheeze as it scrabbles backwards and rushes away into the forest.
-- [ ] Cayden points towards the group of Third Ring students, simply stating “take care of them” before following the creature into the woods. Alex turns to see the rest of the first ring students walking towards them
-- [ ] #### Scene 19.3
-- [ ] The students stop a bit away from them as the girl who cast the sonic magic, Ariel, holds her hand up with a grin and continues on her own, stating that she doesn’t need any help. “Weeds wont fight back anyway.”
-- [ ] Alex looks in the way Tristan was thrown, but she sees the Second Ring students too preocupied with their own injured to care about them.
-- [ ] Her crest lights up as she begins to cast a spell towards the large group of students, but is suddenly slapped in the face with a gust of wind, sending her hair flying all lover her face and the fireball she was conjuring goes flying into the forest.
-- [ ] She fixes herself and looks to Trina, who was the one casting the spell, fuming with anger. She insults Trina as she throws a binding spell towards her, but at the last moment Gell suddenly steps in the way, throwing a hand up as the binding spell suddenly reverses and Ariel can no longer move, falling to the ground and yelling.
 - [ ] He says he’s definetly going to get beat up for it, but he has a bright smile that Alex hadn’t seen on his face the entire time they had class together.
 - [ ] As Alex gets to her feet, the four of them stand together as Ariel is finally freed from the spell. She gets up, somehow even more furious than before. She screams they they’ve never fought back before. Asking what the hell has gotten into them, and stating that what right does a wedd have to think it can stand on equal footing with them?
 - [ ] Alex steps forward, about to make a snide remark, but another student steps in front of her. .Someone who was also on the ground earlier, simply waiting to be eliminated. Then another, and another
@@ -419,6 +398,8 @@ kanban-plugin: board
 	“We won’t hold for long. But we can sure as hell give them a fight. I think we always knew we could. Somewhere. But no one ever had. No one could ever bring themselves to break the ice. So thanks. We’ll see out at the end of the Trial, no matter what happens.”
 - [ ] He turns and goes to the front of the class who are all steeling themselves. Some are even crying, some grinning in spite of the terror they feel. Wyll puts a hand on Alex’s shoulder and she understands.
 - [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
+- [ ] # Chapter 19
+- [ ] #### Scene 19.1
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
