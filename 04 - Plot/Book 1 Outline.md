@@ -460,7 +460,7 @@ kanban-plugin: board
 - [ ] Alex feels a wave of nausea go through her body before Tristan also places his hand on Trina’s arm, lighting his crest as well. He doesn’t make eye contact with either of them, simply staring at the floor. Damien suddenly yells out as a roar comes from Heinz’s mouth. His eyes are beginning to glow red and the same greying skin begins to creep in
 - [ ] Alex yells that it’s not working before Damien says that it is. He’s got control of this. He just needs a bit more–
 - [ ] The entire house seems to suddenly explode. Stone and thatch roofing go flying  as the entire front wall of the house crumbles away. The entire group is sent scattering around the room in disaray.
-- [ ] 
+- [ ] Alex gets smacked in the face by a rock and both her vision and hearing go blurry. she thinks that the spell must have gone wrong, but as she sits up and focuses her vision, the familliar visage of Cayden can be seen standing in what was once a doorway and now a completely open house.
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
