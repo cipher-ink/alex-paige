@@ -457,6 +457,9 @@ kanban-plugin: board
 - [ ] #### Scene 21.1
 - [ ] The group make their way back to the site of the battle, only to find that nothing is left. Tristan admits that he stormed off to follow them, so he didn’t really see anything after that. He assumes the first and second rings got into a fight based on the marks and leftover residual mana everywhere.
 - [ ] There are no bodies, meaning the people were at least ejected from the Trial, however there are stains of red along the ground which doesn’t comfort Alex as she thinks of the third rings who were proteccting them.
+- [ ] Tristan pulls out a small stone that Alex rememberes hearing Trina talk about, a scrying stone. Basically a magical walkie talkie. He speaks into it, calling out to Damien, but instead it’s a voice they dont recognize.
+- [ ] He states that everyone disappeared when he skewered them, all of that power disappearing somehow. They realize that it’s the vampire, the duchess’s brother Heinz.
+- [ ] Heinz explains that he kept one for himself, and threatens to drain Damien dry and then he was coming for them. It was no use in running, since he’d already taken care of the first boy who’d come after him.
 
 
 ## Act 4
