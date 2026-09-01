@@ -400,6 +400,8 @@ kanban-plugin: board
 - [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
+- [ ] It takes two hours, but Alex and the gang make a long trek around watching for Cayden or the Vampire while they make their way to the keep. Alex can hear the sounds of battle fade away as the moon begins to rise higher in the sky.
+- [ ] They arrive at the front gates of the keep, but Alex tells Wyll and Trina to hold back in case something goes wrong. She approaches and the guards point their spears at her. When she states she is here to talk to the duchess about a vampire, the quickly sieze and bind her. Alex begins to fight back, but realizes this may be the only way in, deciding to allow it to happen.
 - [ ] 
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
