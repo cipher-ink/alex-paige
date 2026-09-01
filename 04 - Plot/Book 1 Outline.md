@@ -385,7 +385,8 @@ kanban-plugin: board
 - [ ] Ariel smirks and begins walking towards the group, leaving the other first years behind and stating that she can handle them alone since weeds never fight back anyway.
 - [ ] Alex manages to get to her feet as Trina and Wyll help her up. Ariel turns the attention to them, stating that she will take care of the newbies first. It’s time to le-she is cut off as Trina sent a wind blast directly to her face. It didn’t really do a lot of damage, but it caused her to stumble back and her hair to go everywhere.
 - [ ] This just ticks her off even more as she wonders how a weed would dare fight back. She goes to fire a binding spell before Gell suddenly steps in the way and counters it, reflecting the spell back at her.
-- [ ] 
+- [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
+- [ ] He says that he’s never actually used his power before, but explains that he can reflect magic back at the caster, increasing it’s power by a little bit. He always assumed he couldn’t do it against someone as powerful as a first ring. That he wasn’t strong enough to do it. But if felt good. He’d been wanting to do that for so long, but never thought he could until he watched Alex go toe to toe with Tristan by herself.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
@@ -407,8 +408,6 @@ kanban-plugin: board
 - [ ] Alex looks in the way Tristan was thrown, but she sees the Second Ring students too preocupied with their own injured to care about them.
 - [ ] Her crest lights up as she begins to cast a spell towards the large group of students, but is suddenly slapped in the face with a gust of wind, sending her hair flying all lover her face and the fireball she was conjuring goes flying into the forest.
 - [ ] She fixes herself and looks to Trina, who was the one casting the spell, fuming with anger. She insults Trina as she throws a binding spell towards her, but at the last moment Gell suddenly steps in the way, throwing a hand up as the binding spell suddenly reverses and Ariel can no longer move, falling to the ground and yelling.
-- [ ] Gell looks winded and exhausted just from that exchange as the other first ring students rush over to help Ariel. Gell stands looking at his hands, frozen, before looking back to Alex and Trina. His face is surprised, excited, and absolutely terrified.
-- [ ] He says that he’s never actually used his power before, but explains that he can reflect magic back at the caster, increasing it’s power by a little bit. He always assumed he couldn’t do it against someone as powerful as a first ring. That he wasn’t strong enough to do it. But if felt good. He’d been wanting to do that for so long, but never thought he could until he watched Alex go toe to toe with Tristan by herself.
 - [ ] He says he’s definetly going to get beat up for it, but he has a bright smile that Alex hadn’t seen on his face the entire time they had class together.
 - [ ] As Alex gets to her feet, the four of them stand together as Ariel is finally freed from the spell. She gets up, somehow even more furious than before. She screams they they’ve never fought back before. Asking what the hell has gotten into them, and stating that what right does a wedd have to think it can stand on equal footing with them?
 - [ ] Alex steps forward, about to make a snide remark, but another student steps in front of her. .Someone who was also on the ground earlier, simply waiting to be eliminated. Then another, and another
@@ -604,6 +603,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,false,true,true,false],"lane-width":295}
+{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,false],"lane-width":295}
 ```
 %%
