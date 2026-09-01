@@ -426,14 +426,10 @@ kanban-plugin: board
 - [ ] They are still hesitent, but Olivia bows and beggs them to help her brother. They resolve to find Damien while Trina prepares the spell to work properly with her matrix.
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
+- [ ] It doesn’t take them long to realize what happened, standing at the same spot as the earlier battle with scorch marks and red streaks all over the place. No bodies, but a battle definetly took place here, and a fierce one at that. Alex feels bad for leaving behind her class, but she can’t worry about that now as they search for any sign of Damien with no luck. They traveled all the way here for nothing
+- [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
-- [ ] Damien is mostly talking to Tristan, thanking him for coming to his rescue, to which he makes an attempt at a snide remark towards the rest of the group, but only half-heartedly.
-- [ ] They free Damien and explain the plan, but he simply scoffs at them asking why they dont just try to kill it and end the trial. He also explains that even if this isn’t real, transmogrification is still a taboo. If anyone were to figure that out, they would be expelled, or worse.
-- [ ] But Trina seems to convince him by pointing out that as an enchantment mage he must wonder about it all the time. Trina may not have an affinity for it, but she has loved enchantments and magitech her whole life. This is her only chance to do this, and if they succeed then they also happen to beat the trial.
-- [ ] She brings out her Amp Matrix she used before and explains that she can do some simple modifications with what she has on hand to let the matrix act as a filter for Damien’s magic. They are also going to need someone with a lot of juice to keep things steady. With that they all turn to Alex, who simply agrees though she doesn’t think they should expect too much.
-- [ ] Just as Alex voices her concern that this was all a little too easy, a voice from the entrance chimes in and Heinz is there.
-- [ ] #### Scene 21.3
 
 
 ## Act 4
