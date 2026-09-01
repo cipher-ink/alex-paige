@@ -460,6 +460,11 @@ kanban-plugin: board
 - [ ] Tristan pulls out a small stone that Alex rememberes hearing Trina talk about, a scrying stone. Basically a magical walkie talkie. He speaks into it, calling out to Damien, but instead it’s a voice they dont recognize.
 - [ ] He states that everyone disappeared when he skewered them, all of that power disappearing somehow. They realize that it’s the vampire, the duchess’s brother Heinz.
 - [ ] Heinz explains that he kept one for himself, and threatens to drain Damien dry and then he was coming for them. It was no use in running, since he’d already taken care of the first boy who’d come after him.
+- [ ] Tristan freezes before screaming asking what he did to his brother. There is no answer and Tristan throws the stone away, more upset than Alex expected him to be.
+- [ ] He turns and asks for Alex’s help, with utter dread left in his eyes.
+- [ ] #### Scene 21.2
+- [ ] Alex had agreed to help, much to the shegrin of her friends, but there was something about his face that made her want to help.
+- [ ] He was currently walking them back towards the town, the
 
 
 ## Act 4
