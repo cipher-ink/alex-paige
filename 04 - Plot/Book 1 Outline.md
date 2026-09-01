@@ -457,6 +457,9 @@ kanban-plugin: board
 - [ ] Heinz begins to stir and seems back to his usual self. He thanks them for restraining him and apologizes for what he’s done. Even Damien is a bit taken aback, but they get to work as Alex explains what’s going to happen. Heinz is nearly brought to tears as they begin the preparations.
 - [ ] They all get in their places. Trina sits there with the matrix on her wrist, Damien behind Heinz ready to cast the spell, and Alex holding onto Trina’s crest to help with something that she doesn’t really understand. Trina focuses and begins speaking an incantation in a language that Alex had never heard before. Her crest begins to light up and suddenly a bubble appears around Heinz and Damien. Trina described it as a barrier to keep the magic from going crazy, and Alex was supposed to keep her charged. With her hand on it, Alex could feel Trina’s crest surging with magic and as she channeled her own Alex feels tired instantly. It’s taking a LOT of mana, but Damien begins casting the spell.
 - [ ] Heinz is there on his knees, crying as he looks towards Trina. He states that she looks just like her daughter Sarah, but older, and thanks her for helping. Trina tells him to shut up or she’s going to lose control.
+- [ ] Alex feels a wave of nausea go through her body before Tristan also places his hand on Trina’s arm, lighting his crest as well. He doesn’t make eye contact with either of them, simply staring at the floor. Damien suddenly yells out as a roar comes from Heinz’s mouth. His eyes are beginning to glow red and the same greying skin begins to creep in
+- [ ] Alex yells that it’s not working before Damien says that it is. He’s got control of this. He just needs a bit more–
+- [ ] The entire house seems to suddenly explode. Stone and thatch roofing go flying  as the entire front wall of the house crumbles away. The entire group is sent scattering around the room in disaray.
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
