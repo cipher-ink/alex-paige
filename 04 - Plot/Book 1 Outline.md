@@ -449,6 +449,9 @@ kanban-plugin: board
 - [ ] #### Scene 20.3
 - [ ] Much to everyone’s dismay, Tristan forces his way into their meeting, but they explain the solution they found. It turns out that the book itself isnt about alchemy at all, and Trina reveals that it’s a book on transmogrification. She seems excited but Tristan and Wyll are imedietly wary. She explains to Alex that it’s enchantment magic on living things, and she remembers to her convo with Terrell.
 - [ ] Trina explains that long ago they attempted to seal away their manifestation with the spell listed in this book, but instead they just made it worse, corrupting the spell and giving way to that “vampire” form of theirs.
+- [ ] Trina explains that she thinks she can fix it, and when asked about it excitedly tells them that it would require reversing the transmogrification magic or even finishing and finalizing the sealing spell. No one particularly thinks this is a good idea, but Trina has been going on and states that what other choice to they have? Does anyone else have a good answer? Alex can see the excitement in her eyes at performing a taboo. She gets that it’s a simulation, but still doesn’t feel too good about it.
+- [ ] It’s then that Olivia bows to them, begging to do anything they can to help both her and especially her brother. All he begs for it to be cured so that he can be with his wife and daughter again. With that pain hitting both Alex and Tristan, they reluctantly agree with the plan.
+- [ ] Wyll chimes up that even if he was okay with this, which he’s not, they would still need a magi with the enchantment affinity. Tristan then advises they go find Damien from his group who has the affinity and is fairly adept at enchantment.
 
 
 ## Act 4
