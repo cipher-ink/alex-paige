@@ -473,6 +473,8 @@ kanban-plugin: board
 - [ ] Alex cant seem to move, but she sees Tristan relatively unharmed and screams his name. she hopes that maybe he understands what to do, but when he makes eye contact a lump forms in her throat. all she can see is absolute terror.
 - [ ] There is a crack as Alex looks away for just a moment to find Heinz falling to the ground. She screams as a bright white light envelops them all.
 - [ ] #### Scene 21.2
+- [ ] Alex opens her eyes and is back in the chamber. She’s still injured and wheezing as the pain in her ribs becomes real.
+- [ ] She can see some students and faculty rushing towards them, but even the pain doesn’t stop her fury as she searches the chamber, finding the object of her rage. It isn’t even Cayden.
 
 
 ## Act 4
