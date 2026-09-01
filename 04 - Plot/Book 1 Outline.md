@@ -400,6 +400,7 @@ kanban-plugin: board
 - [ ] They all rush away. Alex turns back one to look as the first couple spells are being fired. The line was already scattered, but she could see them fighting back. Something pulls at her heart, and Alex feels tears drifting down her face as she turns and runs into the woods.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
+- [ ] 
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
