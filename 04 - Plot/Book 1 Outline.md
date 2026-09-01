@@ -436,7 +436,7 @@ kanban-plugin: board
 - [ ] Alex asks about an alchemical book, to which Olivia is stunned that she knows about. Alex still eludes answering why but explains that the book may help. Olivia goes to the back of the room and opens a hidden compartment in the bookshelf, revealing another behind it with a singular book. She sets it on the table and Trina immedietly recognizes that it’s written in runic. Olivia admits no one has been able to read it, but trina states that she would be able to: it would just take some time.
 - [ ] Olivia at this point has become less weary, asking if they are really here to help, which Alex nods. There is a sigh of relief as she asks what the plan is. Alex hadn’t gotten that far.
 - [ ] #### Scene 20.2
-- [ ] It’s about an hour later, close to midnight, and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
+- [ ] It’s about an hour later and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
 - [ ] She goes to inspect them, leaning down and touching it with her hands. She can feel the magic flowing from her and into them. It reminds her of her dad, and the glow grows brighter before she pulls away.
 - [ ] Olivia surprises her and they have a momet of shared grief. Olivia lost her grandfather and father to the curse, them deciding to end their own lives before the curse got to them. Her mother was grief ridden and became ill soon after, also passing. Since then it has been her and her brother watching over the town and waiting for the day that the curse reared it’s head. That happened when she turned 20. Both her and her brother were forced to deal with it on their own, only the notes of her family go to off of.
 - [ ] Alex shares the loss of her dad, and her missing mother. She shares that she hopes to find her one day, but she’s also scared about these people who are after her. She doesn’t even know why.
@@ -464,7 +464,7 @@ kanban-plugin: board
 - [ ] He turns and asks for Alex’s help, with utter dread left in his eyes.
 - [ ] #### Scene 21.2
 - [ ] Alex had agreed to help, much to the shegrin of her friends, but there was something about his face that made her want to help.
-- [ ] He was currently walking them back towards the town, the
+- [ ] He was currently walking them back towards the town. It was probably close to midnight at this point, and Alex was exhausted, but Tristan had cast a locating spell and begun leading them in this direction. Alex checks her own arm, but the entire time they had been here the pointers on her compass had disappeared. She didn’t know what it meant, but it probably had something to do with being in the Trial.
 
 
 ## Act 4
