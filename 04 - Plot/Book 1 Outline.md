@@ -427,7 +427,9 @@ kanban-plugin: board
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] It doesn’t take them long to actually find Damien. Tristan had a locator spell and a trinket that was tied to each member of his class, just in case anyone got lost. He activates it and Alex notes that the paper turns into a sort of compas, eerilie simmilar to the one on her arm that had gone blank since coming here.
+- [ ] She asks about the spell as they walk into the town, deserted this late at night since no one wants to be out with the monster. Tristan states that it’s a sort of conjuration spell that ties a bit of mana to their soul. It lets them be tracked from great distances. But its a material spell, meaning it requires those components. Alex doesn’t mention her Mark spell, but feels that it’s probably of a simmilar nature. Now she knows that it points to somewhere, someone specifically. She just hopes that it’s her mother.
 - [ ] 
+- [ ] #### Scene 21.2
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
