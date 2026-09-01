@@ -412,6 +412,8 @@ kanban-plugin: board
 - [ ] About an hour has passed as Trina began reading the book with some help from Wyll. Alex didn’t have much to do, and all the jargin they used went right over her head, so she asked if there was a place outside she could go to. Olivia walks with her to the garden with two guards in tow
 - [ ] She apologizes for being so hostile earlier, but she didnt know if she could trust them. She still doesnt know, and is fairly upset that Alex refuses to answer how she came about such information. She jokingly states that she could keep her confined here until she squeels, but Alex retorts that if that happened nothing would save her brother and she relents. She states that he has a wife and kids that he wants to return to, begging every night to be cured of their disease.
 - [ ] She explains that it was the same way she lost her father and grandfather. Alex states that she’s sorry, and Olivia recognizes the same loss on her face asking who she lost. Alex mentions her dad, but it’s obvous that she doesn’t want to talk. Olivia eventually releases her into the gardens with one guard to watch over her.
+- [ ] Alex wanders the gardens for quite a bit, wondering if everything she’s done so far has been worth it. She finds a patch of moonglow and uses her magic to light them up, remembering the forest and her initial chat with Jen. She hopes that she’s alright.
+- [ ] 
 - [ ] #### Scene 19.3
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
