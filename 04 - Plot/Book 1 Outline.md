@@ -471,6 +471,8 @@ kanban-plugin: board
 - [ ] He is sound asleep with Belladew, but Wyll produces a plum and gives it to Damien, waking him up near instantly as he eats one himself as a snack.
 - [ ] Damien reluctantly explains that the vampire came back and took care of the straggling first and third ring. It took them by surprise while they were all fighting, and they were no match. It ended up kidnapping him and taking him here, but then it returned as a man and began draining his blood like a real vampire.
 - [ ] Damien is mostly talking to Tristan, thanking him for coming to his rescue, to which he makes an attempt at a snide remark towards the rest of the group, but only half-heartedly.
+- [ ] They free Damien and explain the plan, but he simply scoffs at them asking why they dont just try to kill it and end the trial. He also explains that even if this isn’t real, transmogrification is still a taboo. If anyone were to figure that out, they would be expelled, or worse.
+- [ ] But Trina seems to convince him by pointing out that as an enchantment mage he must wonder about it all the time. Trina may not have an affinity for it, but she has loved enchantments and magitech her whole life. This is her only chance to do this, and if they succeed then they also happen to beat the trial.
 
 
 ## Act 4
