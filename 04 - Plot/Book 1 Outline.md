@@ -407,6 +407,8 @@ kanban-plugin: board
 - [ ] Olivia is deeply suspiccious and tests them. She produces the book and places it in front of them, demanding that if they cannot decipher it then she is going to have all three of them executed before nightfall.
 - [ ] Trina imedietly recognizes the runic on the front and reads enough to confirm the title: Transmogrification Trials
 - [ ] Olivia is surprised, but not as much as Wyll and Trina, who seem almost disgusted to hear about transmogrification. Olivia’s mask cracks after knowing that someone can read it and explains the curse. She needs them to understand what they are dealing with. Her brother is dying and being completely consumed by their curse, and she needs to find a cure.
+- [ ] Wyll finally figures it out. It’s not a curse at all, but a manifestation. He calls back to Thorne’s thesis about manifesatations affeecting the user as much as they effect the manifestation. Trina is also the one who confirms that the transmogrification must be about the manifestation, and if she can decipher the she may be able to figure out what happened and reverse it. Wyll isn’t too pleased to be dabbling in transmog magic, but Trina seems genuenly excited and Olivia is relieved, stating that she can begin reading now.
+- [ ] #### Scene 19.2
 - [ ] 
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
