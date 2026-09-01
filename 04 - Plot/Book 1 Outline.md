@@ -469,6 +469,8 @@ kanban-plugin: board
 - [ ] When asked how she knew to do that, she doesn’t have a good answer. It felt like muscle memory. She remembers picking a lock while dreaming about her mom, but she’d never actually done it bfore.
 - [ ] It turns out the entire house was empty other than a simple staircase leading down to the cellar, where they find Damien unconcious.
 - [ ] He is sound asleep with Belladew, but Wyll produces a plum and gives it to Damien, waking him up near instantly as he eats one himself as a snack.
+- [ ] Damien reluctantly explains that the vampire came back and took care of the straggling first and third ring. It took them by surprise while they were all fighting, and they were no match. It ended up kidnapping him and taking him here, but then it returned as a man and began draining his blood like a real vampire.
+- [ ] Damien is mostly talking to Tristan, thanking him for coming to his rescue, to which he makes an attempt at a snide remark towards the rest of the group, but only half-heartedly.
 
 
 ## Act 4
