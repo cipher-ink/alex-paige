@@ -463,6 +463,7 @@ kanban-plugin: board
 - [ ] Alex gets smacked in the face by a rock and both her vision and hearing go blurry. she thinks that the spell must have gone wrong, but as she sits up and focuses her vision, the familliar visage of Cayden can be seen standing in what was once a doorway and now a completely open house.
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
+- [ ] Alex surveys the broken building for her surroundings.
 
 
 ## Act 4
