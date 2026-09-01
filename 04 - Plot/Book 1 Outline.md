@@ -477,7 +477,7 @@ kanban-plugin: board
 - [ ] She can see some students and faculty rushing towards them, but even the pain doesn’t stop her fury as she searches the chamber, finding the object of her rage. It isn’t even Cayden.
 - [ ] She screams Tristan’s name as she spots him at the far end, looking realtively fine. Alex can feel her emotions overwhelming her, and she begins screaming things before thinking. She can feel her magic going out of control, and yet nothing it happening since she used so much on the spell.
 - [ ] She screams that he betrayed them. She thought he was okay. that he was better than the rest of them. That she started to trust him. Tristan refuses to look in her direction.
-- [ ] She screams that he’s no better than the rest and he stops, turning back towards her and it makes her stop. She can see it in his face that he’s trying to hold back tears. Cayden calls him to follow, and his entire boddy stiffens before he turns and does so.
+- [ ] She screams that he said he wouldn’t sit on the side and that if he couldn’t keep his word that he was no better than the rest. \he stops, turning back towards her and it makes her stop. She can see it in his face that he’s trying to hold back tears. Cayden calls him to follow, and his entire boddy stiffens before he turns and does so.
 - [ ] Alex is left speechless, thinking about the last face she saw before her pain and emotions finally get the best of her and she passes out.
 
 
@@ -609,6 +609,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,true,false,true,true,false],"lane-width":295}
+{"kanban-plugin":"board","list-collapse":[true,true,true,false,true,false],"lane-width":295}
 ```
 %%
