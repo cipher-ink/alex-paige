@@ -421,8 +421,9 @@ kanban-plugin: board
 - [ ] #### Scene 19.3
 - [ ] Back in the room, they all convene in front of the book. Tristan is there, having inserted himself. Trina goes over the findings and explains that the curse IS a manifestation, but it’s been corrupted. They attempted to use transmogrification magic to bind and seal away the manifestation, however it went wrong and simply made things worse. Leading to that horrible vampire form that they have now which became the manifestation’s corruption made physical.
 - [ ] Alex asks how to solve it, and Trina states that they would either have to remove the corruption, or finish the sealing spell and completely get rid of it.
-- [ ] 
 - [ ] Wyll and Tristan are definetly not on board at first, stating that Transmogrification is a huge taboo and they could get expelled or worse if they were caught, but Trina states that this is their ONLY option right now. Trina shows her amp matrix and states that she thinks she can tune the enchantmanet magic with it so that the sealing spell binds properly this time, but she needs someone with an affinity for enchantment and none of them have it.
+- [ ] Tristan mentions Damien, someone who has the affinity and even a good knowledge of enchantment spells since it’s his specialty at the school.
+- [ ] They are still hesitent, but Olivia bows and beggs them to help her brother. They resolve to find Damien while Trina prepares the spell to work properly with her matrix.
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] It’s about an hour later and Alex is walking along the manor gardens. She was given free reign to wander the place as Trina is deciphering the book. Alex takes this time to reflect on what’s happened so far and feels a familliar magic. She follows it and sees a cluster of moonglow growing in a corner of the gardens.
