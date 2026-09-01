@@ -447,7 +447,8 @@ kanban-plugin: board
 - [ ] Alex can’t see his face, but she can see Trina’s who is full of terror looking at Heinz, but he hears Heinz say “Sarah?” and stop in his tracks.
 - [ ] Without skipping a beat, a large spectral shield comes flying from the other side of the room and slams into Heinz’s face, sending him once more into the wall.
 - [ ] He chides at Alex, stating that he didn’t think she was so weak and asks where the girl that nearly beat him in a duel went. She remarks “Nearly?!” before getting up in a surge of anger and summoning her batons which now returned to her.
-- [ ] 
+- [ ] Tristan simply smiles, “there she is”, before Heinz comes rushing back towards Alex. He no longer attempts to user her powers, but she can see the hunger and anger as he lunges for her. But Tristan’s shield gets in the way. It cracks, but doesn’t break this time as Tristan winces in pain like he himself was hit. He yells her name and she understands.
+- [ ] Alex uses that momentary confusion
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
