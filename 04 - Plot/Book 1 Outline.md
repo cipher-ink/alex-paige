@@ -441,6 +441,7 @@ kanban-plugin: board
 - [ ] She yells in pain and pushes a hand out towards Heinz, sending a shockwave that pushes him into the far wall with a loud crack. Alex isn’t paying attention to that though as she feels the head on her shoulder as the flame makes its way along her shirt.
 - [ ] Wyll rushes over and for the first time Alex as ever seen, casts magic. He apologizes that it’s going to hurt and his crest lights up as he freezes the flames in place while still attached to her arm. She winces at the pain but Wyll quickly breaks it off of her as she can still see it burning through the ice. Wyll tosses it to the side as it manages to finish melting, continuing to burn even without being attached to anything.
 - [ ] Alex can feel the frostbite on her arm, the same arm that Tristan has previously cut. It was beginning to go numb, but she barely had time to think about that as something heavy suddenly weighed on her shoulders.
+- [ ] She was forced down to her knees add well as everyone else in the vicinity. It releases as she watches Heinz picking himself back up and licking his claw. Now Alex understood: he could take people’s powers by licking their blood.
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
