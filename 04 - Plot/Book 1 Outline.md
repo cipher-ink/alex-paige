@@ -464,7 +464,9 @@ kanban-plugin: board
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 - [ ] Alex surveys the broken building for her surroundings. She sees Wyll and Trina in one corner and Damien in the other, all unconcious. She struggles to get to her knees, realizing that her foot it stuck underneath a piece of wall.
-- [ ] Her attention is brought to the center of the room where Cayden now stands in front of a kneeling Heinz.
+- [ ] Her attention is brought to the center of the room where Cayden now stands in front of a kneeling Heinz. His attention then turns to the far corner from Alex, where she sees Tristan on the ground. She’s never seen him so afraid as he sits there frozen.
+- [ ] Cayden expresses how disappointed he is in Tristan and ponders how ashamed their father must be in him, “if he cared about you in the first place”
+- [ ] Alex expects a retort, but Tristan just stands there unable to move. She swears that she can see him shaking.
 
 
 ## Act 4
