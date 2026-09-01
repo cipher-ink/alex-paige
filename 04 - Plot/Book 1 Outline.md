@@ -444,6 +444,9 @@ kanban-plugin: board
 - [ ] She was forced down to her knees add well as everyone else in the vicinity. It releases as she watches Heinz picking himself back up and licking his claw. Now Alex understood: he could take people’s powers by licking their blood.
 - [ ] Alex goes to summon light batons but finds that her magic isn’t working. She had felt this before, but she couldn’t place it. Heinz laughs as he snaps his fingers, this time sending Alex flying backwards into the opposite wall with a thud, sending all the air from her lungs. He taunts her, amazed that she has such raw power. He states that she has no idea what she really is and demonstrates it by suffocating all light in the room. Alex watches as the light from the sconces on the wall floods into his palm to create a ball of light but it continues to get smaller and smaller. Then it disappears and folds in on itself, leaving a small black ball of pressure. It disappears after only a second, searing his hand in the process. He clicks his tongue and states that even he cannot control it.
 - [ ] Heinz is suddenly hit with wind magic and it’s trina, holding her hand up with the matrix wrapped around her wrist to amplify her magic. Heinz simply laughs and begins towarrds her as the light returns to the room and he freezes.
+- [ ] Alex can’t see his face, but she can see Trina’s who is full of terror looking at Heinz, but he hears Heinz say “Sarah?” and stop in his tracks.
+- [ ] Without skipping a beat, a large spectral shield comes flying from the other side of the room and slams into Heinz’s face, sending him once more into the wall.
+- [ ] He chides at Alex, stating that he didn’t think she was so weak and asks where the girl that nearly beat him in a duel went. She remarks “Nearly?!” before getting up in a surge of anger and summoning her batons which now returned to her.
 - [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
