@@ -467,6 +467,7 @@ kanban-plugin: board
 - [ ] Her attention is brought to the center of the room where Cayden now stands in front of a kneeling Heinz. His attention then turns to the far corner from Alex, where she sees Tristan on the ground. She’s never seen him so afraid as he sits there frozen.
 - [ ] Cayden expresses how disappointed he is in Tristan and ponders how ashamed their father must be in him, “if he cared about you in the first place”
 - [ ] Alex expects a retort, but Tristan just stands there unable to move. She swears that she can see him shaking.
+- [ ] As she manages to get her foot free, she calls out to Cayden, asking him what the hell he’s doing. When he ignores her entirely, she proceeds to hobble her way over. She can see Tristan watching her, and it looks like his mouth is moving, but nothing is coming out of it.
 
 
 ## Act 4
