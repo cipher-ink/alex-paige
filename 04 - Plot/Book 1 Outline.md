@@ -453,8 +453,9 @@ kanban-plugin: board
 - [ ] they free Damien in the aftermath and he slaps some magic restraints on him that he kept in his coat for emergencies. Trina remarks that it’s some pretty good crafting and Damien thanks her befor realizing she’s a third ring and pretending to chastize her instead.
 - [ ] Once Heinz was restrained, they brought him up to the top floor, Alex and Tristan lighting some candles to illuminate the room as they talked about what they needed to do. Ever since the fight, Wyll had placed himself in the corner and refused to speak. Alex wanted to go and give him a hug, but now wasn’t the time.
 - [ ] Trina gives Damien the rundown of why they need him and the plan for saving Heinz, but he simply scoffs and looks disgusted. 1: its taboo and they would be in serious trouble. 2: why not just kill him?
-- [ ] That prompts Alex to summon a light baton and shove it in his face, telling Damien about his wife and kids. Damien retorts that this is just a simulation, but Tristan places a hand on Alex’s baton and lowers it slowly, looking at Damien as he finally relents.
+- [ ] That prompts Alex to summon a light baton and shove it in his face, telling Damien about his wife and kids. Damien retorts that this is just a simulation, but Tristan places a hand on Alex’s baton and lowers it slowly, looking at Damien as he finally relents. Trina also states that since it’s a simulation, it’s the perfect time to try it.
 - [ ] Heinz begins to stir and seems back to his usual self. He thanks them for restraining him and apologizes for what he’s done. Even Damien is a bit taken aback, but they get to work as Alex explains what’s going to happen. Heinz is nearly brought to tears as they begin the preparations.
+- [ ] 
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
 
