@@ -384,6 +384,8 @@ kanban-plugin: board
 - [ ] The monster, suddenly realizing it’s outmatched, flees into the woods as Cayden follows. He stops at the edge before going in and turns. “Ariel, take care of them.” he states to the girl while pointing at the third ring students
 - [ ] Ariel smirks and begins walking towards the group, leaving the other first years behind and stating that she can handle them alone since weeds never fight back anyway.
 - [ ] Alex manages to get to her feet as Trina and Wyll help her up. Ariel turns the attention to them, stating that she will take care of the newbies first. It’s time to le-she is cut off as Trina sent a wind blast directly to her face. It didn’t really do a lot of damage, but it caused her to stumble back and her hair to go everywhere.
+- [ ] This just ticks her off even more as she wonders how a weed would dare fight back. She goes to fire a binding spell before Gell suddenly steps in the way and counters it, reflecting the spell back at her.
+- [ ] 
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
