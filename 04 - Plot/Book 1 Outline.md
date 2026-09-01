@@ -453,7 +453,10 @@ kanban-plugin: board
 - [ ] It’s then that Olivia bows to them, begging to do anything they can to help both her and especially her brother. All he begs for it to be cured so that he can be with his wife and daughter again. With that pain hitting both Alex and Tristan, they reluctantly agree with the plan.
 - [ ] Wyll chimes up that even if he was okay with this, which he’s not, they would still need a magi with the enchantment affinity. Tristan then advises they go find Damien from his group who has the affinity and is fairly adept at enchantment.
 - [ ] Wyll seems to look angry for the first time Alex remembers, but they all agree that they need to find Damien.
-- [ ] # Chapter 21.1
+- [ ] # Chapter 21
+- [ ] #### Scene 21.1
+- [ ] The group make their way back to the site of the battle, only to find that nothing is left. Tristan admits that he stormed off to follow them, so he didn’t really see anything after that. He assumes the first and second rings got into a fight based on the marks and leftover residual mana everywhere.
+- [ ] There are no bodies, meaning the people were at least ejected from the Trial, however there are stains of red along the ground which doesn’t comfort Alex as she thinks of the third rings who were proteccting them.
 
 
 ## Act 4
