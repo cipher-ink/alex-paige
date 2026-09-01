@@ -376,6 +376,7 @@ kanban-plugin: board
 - [ ] She looks back up and can see one of the second ring students with their hand out and the light of their crest just barely fading out. Tristan is looking at her with what looks like worry before fury replaces it and he spins on his heel and grabs the boy by the collar, yelling at him for cheating.
 - [ ] The boy simply states that they don’t have time to waste with a weed as Daryn’s sister Lyla comes up and separates the two before also smacking the kid in the face.
 - [ ] She seems about to say something but is suddenly cut off as the cheater is no longer in front of her. Alex watched a blur rush out from the treeline and grab the man. But as she realizes it was no man, she sees the tall and lanky figure resembling the vampire of the story, having skewered the boy on his claws. The boy eeks out a small noise before spurting something red and disappating into dust.
+- [ ] Chaos ensues as the second ring scatters around. The vampire seems to ignore it all, looking confused as to why it’s prey disappeared before being attacked by Tristan with his shields. It growls and simply swipes at him, sending him flying into the treeline. Alex finds herself yelling his name, but that only brings the Vampire’s attention to him.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
