@@ -406,6 +406,8 @@ kanban-plugin: board
 - [ ] But Alex yells they might have a cure and talks about the book, which gets Olivia’s attention. She asks how she knows about that, but she can’t really tell her anything since it was against the rules of the scenario to explain it was all a simulation. She only says that if Olivia trusts them, even a little bit, they can help her. Olivia asks who “we” is before guards come in carrying Wyll and Trina, who attempted to break in and find her. Alex sighs.
 - [ ] Olivia is deeply suspiccious and tests them. She produces the book and places it in front of them, demanding that if they cannot decipher it then she is going to have all three of them executed before nightfall.
 - [ ] Trina imedietly recognizes the runic on the front and reads enough to confirm the title: Transmogrification Trials
+- [ ] Olivia is surprised, but not as much as Wyll and Trina, who seem almost disgusted to hear about transmogrification. Olivia’s mask cracks after knowing that someone can read it and explains the curse. She needs them to understand what they are dealing with. Her brother is dying and being completely consumed by their curse, and she needs to find a cure.
+- [ ] 
 - [ ] # Chapter 20
 - [ ] #### Scene 20.1
 - [ ] They begin making their way aorund the forest, hoping to go the long way and avoid any additional confrontations with the other rings or the vampire.
