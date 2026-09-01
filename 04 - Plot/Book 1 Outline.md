@@ -378,7 +378,9 @@ kanban-plugin: board
 - [ ] She seems about to say something but is suddenly cut off as the cheater is no longer in front of her. Alex watched a blur rush out from the treeline and grab the man. But as she realizes it was no man, she sees the tall and lanky figure resembling the vampire of the story, having skewered the boy on his claws. The boy eeks out a small noise before spurting something red and disappating into dust.
 - [ ] Chaos ensues as the second ring scatters around. The vampire seems to ignore it all, looking confused as to why it’s prey disappeared before being attacked by Tristan with his shields. It growls and simply swipes at him, sending him flying into the treeline. Alex finds herself yelling his name, but that only brings the Vampire’s attention to her.
 - [ ] She can see a hunger in it’s eyes as she realizes it must be smelling her blood. She curses to herself as it begins it’s way towards her before everyone in the clearing is stopped by a powerful screech.
-- [ ] 
+- [ ] Everyone is forced to their knees as she looks to the origin of the sound only to find the first ring and Cayden standing there, a girl by his side currently casting the spell.
+- [ ] Cayden puts a hand up and the spell stops, but it got the Vampire’s attention. Alex can barely hear anything, so she can only sit and watch as the Vampire rushes towards Cayden and attempts to move around him to go after the girl.
+- [ ] Cayden, in one swift motion, moves in front of the monster and kicks it in the stomach, sending it flying backwards with a wheezing screech.
 - [ ] # Chapter 19
 - [ ] #### Scene 19.1
 - [ ] The vampire suddenly lunges forward with frightening speed. Tristan throws up a shield with his manifestation but it completely ignores him, instead slipping past and towards the rest of the terrified looking second ring students.
