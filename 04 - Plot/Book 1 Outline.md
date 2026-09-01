@@ -463,7 +463,8 @@ kanban-plugin: board
 - [ ] Alex gets smacked in the face by a rock and both her vision and hearing go blurry. she thinks that the spell must have gone wrong, but as she sits up and focuses her vision, the familliar visage of Cayden can be seen standing in what was once a doorway and now a completely open house.
 - [ ] # Chapter 21
 - [ ] #### Scene 21.1
-- [ ] Alex surveys the broken building for her surroundings.
+- [ ] Alex surveys the broken building for her surroundings. She sees Wyll and Trina in one corner and Damien in the other, all unconcious. She struggles to get to her knees, realizing that her foot it stuck underneath a piece of wall.
+- [ ] Her attention is brought to the center of the room where Cayden now stands in front of a kneeling Heinz.
 
 
 ## Act 4
