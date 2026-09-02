@@ -562,6 +562,7 @@ kanban-plugin: board
 - [ ] “Your mother was in her sixth year. She had that same look in he eyes you get – convinced you had found a problem and that you were the only one who could fix it.”
 - [ ] He explains how her mother found a pattern in her alchemy class. Students kept getting “mysteriously ill” in her class with no prior tells. Headaches, nosebleeds, fevers. Two students needed hospital care. Her mother didn’t have proof, but she knew something was amiss.
 - [ ] He explains that he caught her at two in the morning rummaging through the alchemical storeroom convinced that someone was tampering with the ingredients.
+- [ ] “She didn’t beg forgiveness. She didn’t even lie. She just looked at me and said ‘Someone is hurting the students, and if I wait for permission, it’ll be too late.‘”
 
 
 ## Act 5
