@@ -501,6 +501,8 @@ kanban-plugin: board
 - [ ] Instead, she decided to do a bit of snooping, walking around the back of Caldwell hall the long way to try and get a peek behind the gardens.
 - [ ] From her time in detention, she knew there was an echoweed perimeter around them, which may have been how the student realized someone else was there.
 - [ ] She makes her way around and hides behind a bush to look over the crime scene. No one is currently there, but it was taped off with a floating red illusion displaying that only faculty were allowed beyond. Alex wasn’t good at listening to warnings.
+- [ ] As she begins to step out, looking for anyone else, she hears a voice behind her: “I was sure that you would be better at sneaking around than that.”
+- [ ] She turns to find Lyla standing behind her with her arms crossed. Alex tries to make up an excuse for being there, but Lyla explains that she saw her evesdropping on Professor Faun and the Dean. So she expected that she would come here eventually.
 
 
 ## Act 5
