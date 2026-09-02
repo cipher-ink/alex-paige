@@ -523,6 +523,8 @@ kanban-plugin: board
 - [ ] #### Scene 23.1
 - [ ] Alex slips out of the house again, almost surprised that Mr. Terrell doesn’t check on her more. She makes her way to the second ring dorms and meets with Wyll and Trina who are there. Wyll is really tired and does NOT want to be doing this, but if they are going to be a coven, it’s something he’s going to need to get used to.
 - [ ] Alex jokes that maybe he can use those flames and gets a death glare from both Wyll AND Trina. She realizes that she touched on something important, but before anyone can explain they see Lyla sneaking out as well.
+- [ ] Lyla joins them and she can see that Wyll and Trina aren’t to comfortable, but neither is Lyla. Alex asks about Tristan and Lyla jokes that Alex didn’t want him to come anyway. She brushes it off as they make their way across campus.
+- [ ] They had a close call with the monitors, but Lyla used her manifestation to cover them in shadow, which allows them to go unseen for most of the trip.
 
 
 ## Act 5
