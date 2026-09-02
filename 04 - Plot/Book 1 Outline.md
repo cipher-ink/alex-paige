@@ -530,7 +530,9 @@ kanban-plugin: board
 - [ ] They need to make their way all the way around the hall to Thorne’s lab, but they have to stop multiple times as there are more monitors in here than Alex remembers. Trina uses some wind magic to create a sound and distracts the monitors long enough for them to slip past through the giant main entrance and to the other side of the campus where they take a stairwell up to the second floor. They round two corners and find themselves in front of Thorne’s lab.
 - [ ] The door is locked, as usual, but Alex takes out a bobby pin from her hair and picks it. Everyone is confused, including Alex, who doesn’t really know HOW she knows to do that. But she pushes it back for later and they make their way inside.
 - [ ] No one is there, so they all start looking around. As soon as they are in the room, they all notice the smell and Alex finally puts it to words: the iron smell of blood.
-- [ ] Wyll goes through the papers on his desk, explaining that he found stuff relating to his thesis, but nothing else.
+- [ ] Wyll goes through the papers on his desk, explaining that he found stuff relating to his thesis, but nothing else. Lyla and Trina are both searching through the cabinets on either side of his main desk, and Alex is taking a look around to find the source of the blood smell. She finally remembers where he put HER blood and opens a cabinet to find a small fridge, inside of which are vials and samples of blood.
+- [ ] Alex gets a little squemish, but she tells everyone she found the vials and closes the fridge door (making note that she doesn’t close the cabinet.)
+- [ ] Trina finally finds it as she opens the third drawer of the filing cabinet. A whole lot of files ordered by last name. She takes one out at random and begins reading it, stating that its just like looking at patient information. But it’s got blood type, magical affinity, and information on the manifestations.
 
 
 ## Act 5
