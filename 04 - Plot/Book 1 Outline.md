@@ -507,6 +507,8 @@ kanban-plugin: board
 - [ ] Alex asks if she believes it’s her, and Lyla shakes her head.
 - [ ] With some relief, Alex asks is Lyla knows anything. She states that she asked around, and apparently his spells had been malfunctioning for a week or so before the Trial. It’s not so unusual when you overwork yourself and exert your mana circuits to have “blips” as she calls them. However, they didn’t even work during the trial so he stood to the back until the first ring attacked. He was one of the first ones booted out of the trial.
 - [ ] Alex asks what mana circuits are but Lyla expains it’s just the term they use for mana circulating through the body. In reality, it goes through the circulatory system, but Mana circuits is a more modern term.
+- [ ] She doesn’t really know the significance, but after asking other students, it’s been a pretty common occurance as of late. She hands Alex a small list of names and states that all those students were having issues with their circuits lately. It’s a wild mix of rings, so she can’t really find a pattern.
+- [ ] Alex asks why she is helping, and Lyla simply huffs and states that she was there at the end of the trial, so she knows more about this vampire than any of them. If it’s even the same thing.
 
 
 ## Act 5
