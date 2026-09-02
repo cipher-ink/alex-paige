@@ -533,6 +533,7 @@ kanban-plugin: board
 - [ ] Wyll goes through the papers on his desk, explaining that he found stuff relating to his thesis, but nothing else. Lyla and Trina are both searching through the cabinets on either side of his main desk, and Alex is taking a look around to find the source of the blood smell. She finally remembers where he put HER blood and opens a cabinet to find a small fridge, inside of which are vials and samples of blood.
 - [ ] Alex gets a little squemish, but she tells everyone she found the vials and closes the fridge door (making note that she doesn’t close the cabinet.)
 - [ ] Trina finally finds it as she opens the third drawer of the filing cabinet. A whole lot of files ordered by last name. She takes one out at random and begins reading it, stating that its just like looking at patient information. But it’s got blood type, magical affinity, and information on the manifestations.
+- [ ] Trina notes that it’s super detailed, and Alex begins to look for hers. She feels bad for snooping, but she finds it and reads.
 
 
 ## Act 5
