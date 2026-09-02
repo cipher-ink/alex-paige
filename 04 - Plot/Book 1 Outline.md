@@ -501,6 +501,7 @@ kanban-plugin: board
 - [ ] Instead, she decided to do a bit of snooping, walking around the back of Caldwell hall the long way to try and get a peek behind the gardens.
 - [ ] From her time in detention, she knew there was an echoweed perimeter around them, which may have been how the student realized someone else was there.
 - [ ] She makes her way around and hides behind a bush to look over the crime scene. No one is currently there, but it was taped off with a floating red illusion displaying that only faculty were allowed beyond. Alex wasn’t good at listening to warnings.
+- [ ] She double checks for people and investigates on her own. There was no body, which she was relieved since it wasn’t something she really wanted to see. But the looked around for any clues.
 
 
 ## Act 5
