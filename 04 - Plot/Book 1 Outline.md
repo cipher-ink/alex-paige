@@ -484,6 +484,7 @@ kanban-plugin: board
 ## Act 4
 
 - [ ] # Chapter 22
+- [ ] #### Scene 22.1
 - [ ] Two weeks have passed and Alex has finally recovered from her injuries during the trial. She had two broken ribs, a fractured shoulder bone and a frostbite burn on her arm. But due to the healing spells and magical food that they gave her she was able to heal in record time. She happened to ask about the healing magic they cast, and it apparently wasn’t enchantment magic like she thought and when she tried to ask about enchantment healing they would scowl at her while telling her not to ask of such things.
 - [ ] Now that she was back in classes, the rumors had gotten even worse. As soon as she had come out of the trial, the rumors of the vampire on campus began spreading and people thought it was no coincidence that the vampire was back. Of course, because all of the initial rumors had been about Alex, that’s what they were talking about now.
 - [ ] Another student was attacked while she was in recovery, which she thinks would exonerate her, but apparently the timeframe wasn’t something the rumors cared about.
@@ -492,6 +493,10 @@ kanban-plugin: board
 - [ ] Alex goes to training with Mr. Terrell and talks about what happened at the Trial. She doesn’t mention the transmogrification of course, but Terrell seems genuenly upset when she mentioned what happened with Cayden. But she asks him about her manifestation and the powers she has and he gives her a theory that he’s had from talks with Thorne. Her powers may not just be light. They may be photons.
 - [ ] Of course, Alex has no idea what those are, but Terrell gives a very basic rundown that photons are the particles that make up light. If she can control them, then she can control much, much more than light. Things like temperature, pressure, gravity even. All those things sound like stuff that she’s accidentally done or what Heinz did in the trial.
 - [ ] She’s left with that as she asks about Thorne, to which Terrell states that he’s been a recluse since the trial. Hasn’t really come out of his room, but he still answers emails even if his office hours are closed.
+- [ ] Alex decides to go give him a visit, but as she’s walking through the hallways she overhears a conversation and a voice she recognizes. It’s the Dean and another faculty (a large minotaur). She remembers that they teach science, but can’t remember the name.
+- [ ] She overhears them conversing about the recent student: another second ring who apparently was in the trial with Alex. He was found around the back of the gardens. It was the same as the others, drained of blood and two puncture marks on the side of his neck. But this time it looked like a scuffle. They had seen the attacker and fought back.
+- [ ] Alex’s heart sinks a bit to learn that so many people are being attacked, but she pushes past and goes to see Thorne.
+- [ ] #### Scene 22.2
 
 
 ## Act 5
