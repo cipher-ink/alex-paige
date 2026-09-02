@@ -563,6 +563,7 @@ kanban-plugin: board
 - [ ] He explains how her mother found a pattern in her alchemy class. Students kept getting “mysteriously ill” in her class with no prior tells. Headaches, nosebleeds, fevers. Two students needed hospital care. Her mother didn’t have proof, but she knew something was amiss.
 - [ ] He explains that he caught her at two in the morning rummaging through the alchemical storeroom convinced that someone was tampering with the ingredients.
 - [ ] “She didn’t beg forgiveness. She didn’t even lie. She just looked at me and said ‘Someone is hurting the students, and if I wait for permission, it’ll be too late.‘”
+- [ ] He explains that she was right. Apparently a student had gotten jelous becuase of some romance or another and was trying to target a specific student, but kept getting the wrong ingredients until it was too far gone and students started getting hurt.
 
 
 ## Act 5
