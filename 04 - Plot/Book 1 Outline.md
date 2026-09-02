@@ -564,6 +564,9 @@ kanban-plugin: board
 - [ ] He explains that he caught her at two in the morning rummaging through the alchemical storeroom convinced that someone was tampering with the ingredients.
 - [ ] “She didn’t beg forgiveness. She didn’t even lie. She just looked at me and said ‘Someone is hurting the students, and if I wait for permission, it’ll be too late.‘”
 - [ ] He explains that she was right. Apparently a student had gotten jelous becuase of some romance or another and was trying to target a specific student, but kept getting the wrong ingredients until it was too far gone and students started getting hurt.
+- [ ] By that point in the story they had arrived at the front square where Alex could port out. He ends the story stating that her mother got into trouble. a lot. But it was never for selfish reasons. He can see that Alex is just the same.
+- [ ] He sends Alex off with a final warning. His face becomes hard and his demeanor much more serious than Alex has seen before. He tells her that she needs to stay out of things, and that it’s dangerous for her specifically to be wandering the campus at night.
+- [ ] He smiles as she ports away and heads back home.
 
 
 ## Act 5
