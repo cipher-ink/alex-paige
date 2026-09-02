@@ -498,6 +498,9 @@ kanban-plugin: board
 - [ ] Alex’s heart sinks a bit to learn that so many people are being attacked, but she pushes past and goes to see Thorne.
 - [ ] #### Scene 22.2
 - [ ] She went to see Thorne but his office was locked. Alex called out to him but instead all she was left with was the same metallic smell she had the last time she visited.
+- [ ] Instead, she decided to do a bit of snooping, walking around the back of Caldwell hall the long way to try and get a peek behind the gardens.
+- [ ] From her time in detention, she knew there was an echoweed perimeter around them, which may have been how the student realized someone else was there.
+- [ ] She makes her way around and hides behind a bush to look over the crime scene. No one is currently there, but it was taped off with a floating red illusion displaying that only faculty were allowed beyond. Alex wasn’t good at listening to warnings.
 
 
 ## Act 5
