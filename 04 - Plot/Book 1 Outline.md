@@ -549,6 +549,10 @@ kanban-plugin: board
 - [ ] Right into the lights of two monitors coming down the hall.
 - [ ] #### Scene 23.2
 - [ ] The monitors tell them to freeze and cast a binding spell on Trina and Lyla who were leading the pack. Alex yells that they need to run, but when nothing happens in the next two seconds, she pauses. She turns to look back into the room and nothing is there. The Vampire is gone, leaving the window slightly cracked open.
+- [ ] She turns again towards the monitors who have at this point pulled Trina and Lyla off the ground, demanding to know what we were doing here beyond cufew. Alex tries to come up with any possible excuse, mumbling her way through the attack, the locked room, vampires, but the monitors aren’t having any of it stating that they are in some serious trouble
+- [ ] It’s at that moment Vael walks from around a corner with impecible timing, stating that they are indeed in some trouble.
+- [ ] ##### NOTE #1
+	Vael is here to investigate Thorne’s connection with the missing
 
 
 ## Act 5
