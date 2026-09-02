@@ -489,6 +489,8 @@ kanban-plugin: board
 - [ ] Another student was attacked while she was in recovery, which she thinks would exonerate her, but apparently the timeframe wasn’t something the rumors cared about.
 - [ ] She did have some safe places though. Her class welcomed her with open arms, and suddenly she was the popular one in the class, which Trina was a little miffed at but both her and Wyll were just as popular now.
 - [ ] Though she didn’t show it much, Lyla (Daryn’s Sister) seemed to be on her side. She saw her a couple times during trips to the cafe and she smiled at her softly before moving on. Tristan, however, was nowhere to be seen. He hadn’t even shown up to classes sccording to Lyla. She mentioned that his brother took him back home for a bit and he hadn’t returned. Alex didn’t pretended not to care, but some part of her wanted to yell at him some more.
+- [ ] Alex goes to training with Mr. Terrell and talks about what happened at the Trial. She doesn’t mention the transmogrification of course, but Terrell seems genuenly upset when she mentioned what happened with Cayden. But she asks him about her manifestation and the powers she has and he gives her a theory that he’s had from talks with Thorne. Her powers may not just be light. They may be photons.
+- [ ] Of course, Alex has no idea what those are, but Terrell gives a very basic rundown that photons are the particles that make up light. If she can control them, then she can control much, much more than light. Things like temperature, pressure, gravity even. All those things sound like stuff that she’s accidentally done or what Heinz did in the trial.
 
 
 ## Act 5
