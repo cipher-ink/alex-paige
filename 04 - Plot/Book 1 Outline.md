@@ -548,6 +548,7 @@ kanban-plugin: board
 - [ ] She asks it what it did to Thorne, but it simply cocks it’s head and looks at her. That bit of distraction was enough as Lyla throws a beaker at it’s head, yelling for Alex to run. It turns to yell at her and Alex uses that moment to hop and slide over the table. It lunges at her but as the was going she cast slip on the table and it goes sliding into the desks at the center of the classroom. Alex manages to make it to the front of the room where the rest are and screams for them to go. She can hear the screech of the thing behind them as they throw the door open and rush into the hallway.
 - [ ] Right into the lights of two monitors coming down the hall.
 - [ ] #### Scene 23.2
+- [ ] The monitors tell them to freeze and cast a binding spell on Trina and Lyla who were leading the pack. Alex yells that they need to run, but when nothing happens in the next two seconds, she pauses. She turns to look back into the room and nothing is there. The Vampire is gone, leaving the window slightly cracked open.
 
 
 ## Act 5
