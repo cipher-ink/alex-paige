@@ -521,6 +521,8 @@ kanban-plugin: board
 - [ ] Alex doesn’t like the idea of intruding on Thorne’s space, but if he’s in trouble she wants to help. She agrees to meet with Lyla outside the second ring dorms after curfew. She’s going to bring along Trina and Wyll. Lyla says she will try to get Tristan, but Alex tells her not to bother.
 - [ ] # Chapter 23
 - [ ] #### Scene 23.1
+- [ ] Alex slips out of the house again, almost surprised that Mr. Terrell doesn’t check on her more. She makes her way to the second ring dorms and meets with Wyll and Trina who are there. Wyll is really tired and does NOT want to be doing this, but if they are going to be a coven, it’s something he’s going to need to get used to.
+- [ ] Alex jokes that maybe he can use those flames and gets a death glare from both Wyll AND Trina. She realizes that she touched on something important, but before anyone can explain they see Lyla sneaking out as well.
 
 
 ## Act 5
