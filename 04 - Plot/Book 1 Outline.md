@@ -534,7 +534,7 @@ kanban-plugin: board
 - [ ] Alex gets a little squemish, but she tells everyone she found the vials and closes the fridge door (making note that she doesn’t close the cabinet.)
 - [ ] Trina finally finds it as she opens the third drawer of the filing cabinet. A whole lot of files ordered by last name. She takes one out at random and begins reading it, stating that its just like looking at patient information. But it’s got blood type, magical affinity, and information on the manifestations.
 - [ ] Trina notes that it’s super detailed, and Alex begins to look for hers. She feels bad for snooping, but she finds it and reads.
-- [ ] It states that her power is controlling the density and frequency of light particles, otherwise called photons. Alex doesn’t really understand what those are, but it proves Terrell right. It also states that she is classified as a “reactive manifestation” which means her powers are tied intrinsically to her emotions. There is a remark there that it’s unlike Thorne’s own manifestation, which is classified as “invasive”
+- [ ] It states that her power is controlling the density and frequency of light particles, otherwise called photons. Alex doesn’t really understand what those are, but it proves Terrell right. It also states that she is classified as a “reactive manifestation” which means her powers are tied intrinsically to her emotions. There is a remark there that it’s unlike Thorne’s own manifestation, which is classified as “intrinsic”
 
 
 ## Act 5
