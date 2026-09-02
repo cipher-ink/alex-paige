@@ -497,6 +497,7 @@ kanban-plugin: board
 - [ ] She overhears them conversing about the recent student: another second ring who apparently was in the trial with Alex. He was found around the back of the gardens. It was the same as the others, drained of blood and two puncture marks on the side of his neck. But this time it looked like a scuffle. They had seen the attacker and fought back.
 - [ ] Alex’s heart sinks a bit to learn that so many people are being attacked, but she pushes past and goes to see Thorne.
 - [ ] #### Scene 22.2
+- [ ] She went to see Thorne but his office was locked. Alex called out to him but instead all she was left with was the same metallic smell she had the last time she visited.
 
 
 ## Act 5
