@@ -514,6 +514,9 @@ kanban-plugin: board
 - [ ] Lyla is confused and Alex recalls to her in the trial that the vampire injested some of her and Wyll’s blood and was able to use their powers. Their manifestations. And he had some sort of imediete understanding of how to use it. Granted it was temporary, but Alex doesn’t know exactly how such a thing would work. She mentions that the duchess explained the more they drink the more it would stave their hunger. So maybe that works with manifestations. The more blood, the longer they have it, maybe even permanently.
 - [ ] If this is the same curse, just thousands of years in the future, maybe they are doing the same thing. They want to amass power and they need blood to do it. So they drain the blood of the students so they have a fresh supply.
 - [ ] Lyla finds it all absurd, but she does mention that if someone wanted to find information on manifestations, there is a single place to go for it: Thorne. He is called the Master of Manifestations and regularly collects blood from the students.
+- [ ] Lyla asks if it could even be him and Alex rejects it. If he takes blood regularly, there would be no need to attack people. They would come to him.
+- [ ] But he HAS been holed in his room since the Trial. Alex knew he wasn’t doing well, but what if the vampie was using him. Blackmailin him or something. Nobody has seen him except through emails, so it’s possible that they broke into his room and have been imperosonating him.
+- [ ] With that thought, Alex wants to head there imedietly, but Lyla stops her.
 
 
 ## Act 5
