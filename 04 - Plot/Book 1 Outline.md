@@ -510,6 +510,8 @@ kanban-plugin: board
 - [ ] She doesn’t really know the significance, but after asking other students, it’s been a pretty common occurance as of late. She hands Alex a small list of names and states that all those students were having issues with their circuits lately. It’s a wild mix of rings, so she can’t really find a pattern.
 - [ ] Alex asks why she is helping, and Lyla simply huffs and states that she was there at the end of the trial, so she knows more about this vampire than any of them. If it’s even the same thing.
 - [ ] Alex thinks on that as they walk towards the crime scene to investigate. Alex was never one for investigating, but Lyla see’s it almost instantly. There are scorch marks and obvious signs of a scuffle, which matches what the professors were talking about. However there is a spatter of blood on the back wall of the garden here. It was laid out in nice, clean lines as if done by large claws. Alex remembers that Heinz was using his claws and ingesting their blood.
+- [ ] It suddenly dawns on Alex as she explains to Lyla: the person isn’t just attacking at random. They are stealing manifestations.
+- [ ] Lyla is confused and Alex recalls to her in the trial that the vampire injested some of her and Wyll’s blood and was able to use their powers. Their manifestations. And he had some sort of imediete understanding of how to use it.
 
 
 ## Act 5
