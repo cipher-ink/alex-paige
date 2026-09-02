@@ -519,6 +519,8 @@ kanban-plugin: board
 - [ ] With that thought, Alex wants to head there imedietly, but Lyla stops her.
 - [ ] Going during the day wouldn’t be much use. Instead, maybe they sneak in there at night to check it out.
 - [ ] Alex doesn’t like the idea of intruding on Thorne’s space, but if he’s in trouble she wants to help. She agrees to meet with Lyla outside the second ring dorms after curfew. She’s going to bring along Trina and Wyll. Lyla says she will try to get Tristan, but Alex tells her not to bother.
+- [ ] # Chapter 23
+- [ ] #### Scene 23.1
 
 
 ## Act 5
