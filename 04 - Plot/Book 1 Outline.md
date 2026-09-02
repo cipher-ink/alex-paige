@@ -553,11 +553,11 @@ kanban-plugin: board
 - [ ] It’s at that moment Vael walks from around a corner with impecible timing, stating that they are indeed in some trouble.
 - [ ] The monitors are astounded to see the headmaster here, but he cooly dismisses them, stating that he will handle the children. They begin to object but with a single look they leave it be and go about their duty.
 - [ ] Vael dispells the binding on Trina and Lyla, expressing surprise to see a second ring student with third rings. Lyla attempts to create an excuse but Vael simply states that he doesn’t mind at all, in fact he quite enjoys that things have started changing.
-- [ ] 
+- [ ] He asks why they are there and they explain the whole thing, albeit a bit exasperated, but he simply nods and states that they must have been through quite a night, but that it’s time for them to all go home. Trina asks if they are in trouble, and Vael simply smiles and gestures for them to walk.
 - [ ] Alex finds it suspicous that he showed up here at the exact right time, but doesn’t say anything as Vael begins to escort them all back home.
 - [ ] First he takes Lyla to the second ring dorms and she shyly leaves, shooting Alex a look of “we’ll talk later”.
 - [ ] He then drops off Trina and Wyll who walk back to their dorms together, leaving Alex alone with Vael. Something about it makes her nervous as they walk and she blurts out asking why he was there.
-- [ ] He states that he was going to check on thorne.
+- [ ] He states that he was going to check on Thorne, but instead found a bunch of students attempting to solve a mystery. He explains that he applauds Alex for her tenacity, and that she reminds him a lot of her mother.
 
 
 ## Act 5
