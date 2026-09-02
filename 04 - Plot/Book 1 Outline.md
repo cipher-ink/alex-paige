@@ -484,6 +484,7 @@ kanban-plugin: board
 ## Act 4
 
 - [ ] # Chapter 22
+- [ ] Two weeks have passed and Alex has finally recovered from her injuries during the trial. She had two broken ribs and a fractured shoulder bone, but due to the healing spells and magical food that they gave her she was able to heal in record time. She happened to ask about the healing magic they cast, and it apparently wasn’t enchantment magic like they thought.
 
 
 ## Act 5
