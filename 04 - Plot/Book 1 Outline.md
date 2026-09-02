@@ -506,7 +506,7 @@ kanban-plugin: board
 - [ ] She states that she isn’t here to get her in trouble. In fact, she was going to come here as well. She knew the kid. Didn’t particularly like him, but they were aquantances. And after her brother, she wants to find who is doing it,
 - [ ] Alex asks if she believes it’s her, and Lyla shakes her head.
 - [ ] With some relief, Alex asks is Lyla knows anything. She states that she asked around, and apparently his spells had been malfunctioning for a week or so before the Trial. It’s not so unusual when you overwork yourself and exert your mana circuits to have “blips” as she calls them. However, they didn’t even work during the trial so he stood to the back until the first ring attacked. He was one of the first ones booted out of the trial.
-- [ ] He was one of the first ones booted out of the trial.
+- [ ] Alex asks what mana circuits are but Lyla expains it’s just the term they use for mana circulating through the body. In reality, it goes through the circulatory system, but Mana circuits is a more modern term.
 
 
 ## Act 5
