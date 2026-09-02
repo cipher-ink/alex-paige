@@ -541,6 +541,8 @@ kanban-plugin: board
 - [ ] It begins sniffing, making small chattering noises, and Alex is making eye contact with the rest of the group who are terrified. When the sound stops she goes turn back and sees it opening the fridge, grabbing a vial of blood and downing it. She gags silently as she watches it continue until it’s downed three different vials.
 - [ ] She can see it’s form begin to change, back towards that of a man, and she thinks that maybe the more blood it drinks the more human-like it becomes. The webbed wings have gone away and it’s back has straightened. Alex realizes that some feaures had come back and tries to get a closer look, but she can’t quite see who–
 - [ ] CRASH. Alex turns to see Trina had bumped into a rolling cart and knocked over a beaker which shattered on the ground. Alex quickly looks back: the creature is gone.
+- [ ] She can feel her breathing start to quicken as she looks back to her friends, who are all looking up. Following the gaze, she sees it clinging to the cieling.
+- [ ] Everyone in the room, including the monster, lets out a screech.
 
 
 ## Act 5
