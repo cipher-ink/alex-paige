@@ -488,6 +488,7 @@ kanban-plugin: board
 - [ ] Now that she was back in classes, the rumors had gotten even worse. As soon as she had come out of the trial, the rumors of the vampire on campus began spreading and people thought it was no coincidence that the vampire was back. Of course, because all of the initial rumors had been about Alex, that’s what they were talking about now.
 - [ ] Another student was attacked while she was in recovery, which she thinks would exonerate her, but apparently the timeframe wasn’t something the rumors cared about.
 - [ ] She did have some safe places though. Her class welcomed her with open arms, and suddenly she was the popular one in the class, which Trina was a little miffed at but both her and Wyll were just as popular now.
+- [ ] Though she didn’t show it much, Lyla (Daryn’s Sister) seemed to be on her side. She saw her a couple times during trips to the cafe and she smiled at her softly before moving on. Tristan, however, was nowhere to be seen. He hadn’t even shown up to classes sccording to Lyla. She mentioned that his brother took him back home for a bit and he hadn’t returned. Alex didn’t pretended not to care, but some part of her wanted to yell at him some more.
 
 
 ## Act 5
