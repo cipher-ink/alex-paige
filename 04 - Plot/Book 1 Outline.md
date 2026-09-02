@@ -560,6 +560,7 @@ kanban-plugin: board
 - [ ] He states that he was going to check on Thorne, but instead found a bunch of students attempting to solve a mystery. He explains that he applauds Alex for her tenacity, and that she reminds him a lot of her mother and how they both seem drawn to trouble.
 - [ ] He tells her a story as they walk
 - [ ] “Your mother was in her sixth year. She had that same look in he eyes you get – convinced you had found a problem and that you were the only one who could fix it.”
+- [ ] He explains how her mother found a pattern in her alchemy class. Students kept getting “mysteriously ill” in her class with no prior tells. Headaches, nosebleeds, fevers. One was close to dying.
 
 
 ## Act 5
