@@ -538,6 +538,7 @@ kanban-plugin: board
 - [ ] Wyll recognizes the word. It’s for manifestations that physically alter you in some way. Most of those manifestations are identity defining, like growing wings or horns, something like that. Alex doesn’t remember anything like that, but she goes to look for his own card and doesn’t find one.
 - [ ] Suddenly they hear a noise and all go to hide behind one of the thick lab tables. Alex peeks out to find the window opening and something large slipping through with ease. she thinks that they are on the second floor, but her breath leaves her when she realizes that this thing is a vampire. It looks nearly identical to the one that she saw in the trial.
 - [ ] Trina gets their attention, motioning that they need to get out of here as they all make their way towards the front of the classroom and away from the creature. Alex continues to watch as it saunters in: it knows the place. It goes over to the cabinet, and Alex suddenly realizes that she left it open. The thing stares at it for a moment, before looking around the room. All of them freeze
+- [ ] It begins sniffing, making small chattering noises, and Alex is making eye contact with the rest of the group who are terrified. When the sound stops she goes turn back and sees it opening the fridge, grabbing a vial of blood and downing it. She gags silently as she watches it continue until it’s downed three different vials.
 
 
 ## Act 5
