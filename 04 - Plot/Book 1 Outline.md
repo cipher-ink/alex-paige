@@ -544,6 +544,7 @@ kanban-plugin: board
 - [ ] She can feel her breathing start to quicken as she looks back to her friends, who are all looking up. Following the gaze, she sees it clinging to the cieling.
 - [ ] Everyone in the room, including the monster, lets out a screech.
 - [ ] They all scramble around as the creature jumps for Alex, who just narrowly dodges out of the way. She gets up but realizes that she’s cut off from the rest of the group as it jumped between them and turned it’s attention on her.
+- [ ] The rest of the group managed to scramble towards the entrance to the room, but Alex is stuck. It seems to study her. She can see it’s face had reverted back a little, but not enough for any defining traits. It was still gray and elongated like a bat. It seems to sniff the air and look at her with a hunger in its eyes.
 
 
 ## Act 5
