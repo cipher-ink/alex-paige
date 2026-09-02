@@ -551,8 +551,9 @@ kanban-plugin: board
 - [ ] The monitors tell them to freeze and cast a binding spell on Trina and Lyla who were leading the pack. Alex yells that they need to run, but when nothing happens in the next two seconds, she pauses. She turns to look back into the room and nothing is there. The Vampire is gone, leaving the window slightly cracked open.
 - [ ] She turns again towards the monitors who have at this point pulled Trina and Lyla off the ground, demanding to know what we were doing here beyond cufew. Alex tries to come up with any possible excuse, mumbling her way through the attack, the locked room, vampires, but the monitors aren’t having any of it stating that they are in some serious trouble
 - [ ] It’s at that moment Vael walks from around a corner with impecible timing, stating that they are indeed in some trouble.
-- [ ] ##### NOTE #1
-	Vael is here to investigate Thorne’s connection with the missing
+- [ ] The monitors are astounded to see the headmaster here, but he cooly dismisses them, stating that he will handle the children. They begin to object but with a single look they leave it be and go about their duty.
+- [ ] Vael dispells the binding on Trina and Lyla, expressing surprise to see a second ring student with third rings. Lyla attempts to create an excuse but Vael simply states that he doesn’t mind at all, in fact he quite enjoys that things have started changing.
+- [ ] Alex finds it suspicous that he showed up here at the exact right time, but doesn’t say anything as Vael begins to escort them all back home.
 
 
 ## Act 5
