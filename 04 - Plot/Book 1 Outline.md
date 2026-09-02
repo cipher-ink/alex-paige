@@ -536,7 +536,8 @@ kanban-plugin: board
 - [ ] Trina notes that it’s super detailed, and Alex begins to look for hers. She feels bad for snooping, but she finds it and reads.
 - [ ] It states that her power is controlling the density and frequency of light particles, otherwise called photons. Alex doesn’t really understand what those are, but it proves Terrell right. It also states that she is classified as a “reactive manifestation” which means her powers are tied intrinsically to her emotions. There is a remark there that it’s unlike Thorne’s own manifestation, which is classified as “intrinsic”
 - [ ] Wyll recognizes the word. It’s for manifestations that physically alter you in some way. Most of those manifestations are identity defining, like growing wings or horns, something like that. Alex doesn’t remember anything like that, but she goes to look for his own card and doesn’t find one.
-- [ ] Suddenly they hear a noise and all go to hide behind one of the thick lab tables. Alex peeks out to find the window opening and something large slipping through with ease. she thinks that they are on the second floor, but her breath leaves her when she realizes that this thing is a vampire
+- [ ] Suddenly they hear a noise and all go to hide behind one of the thick lab tables. Alex peeks out to find the window opening and something large slipping through with ease. she thinks that they are on the second floor, but her breath leaves her when she realizes that this thing is a vampire. It looks nearly identical to the one that she saw in the trial.
+- [ ] Trina gets their attention, motioning that they need to get out of here as they all make their way towards the front of the classroom and away from the creature. Alex continues to watch as it saunters in: it knows the place.
 
 
 ## Act 5
