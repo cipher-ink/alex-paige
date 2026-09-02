@@ -545,6 +545,9 @@ kanban-plugin: board
 - [ ] Everyone in the room, including the monster, lets out a screech.
 - [ ] They all scramble around as the creature jumps for Alex, who just narrowly dodges out of the way. She gets up but realizes that she’s cut off from the rest of the group as it jumped between them and turned it’s attention on her.
 - [ ] The rest of the group managed to scramble towards the entrance to the room, but Alex is stuck. It seems to study her. She can see it’s face had reverted back a little, but not enough for any defining traits. It was still gray and elongated like a bat. It seems to sniff the air and look at her with a hunger in its eyes.
+- [ ] She asks it what it did to Thorne, but it simply cocks it’s head and looks at her. That bit of distraction was enough as Lyla throws a beaker at it’s head, yelling for Alex to run. It turns to yell at her and Alex uses that moment to hop and slide over the table. It lunges at her but as the was going she cast slip on the table and it goes sliding into the desks at the center of the classroom. Alex manages to make it to the front of the room where the rest are and screams for them to go. She can hear the screech of the thing behind them as they throw the door open and rush into the hallway.
+- [ ] Right into the lights of two monitors coming down the hall.
+- [ ] #### Scene 23.2
 
 
 ## Act 5
