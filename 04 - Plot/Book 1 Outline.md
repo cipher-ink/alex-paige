@@ -527,8 +527,10 @@ kanban-plugin: board
 - [ ] They had a close call with the monitors, but Lyla used her manifestation to cover them in shadow, which allows them to go unseen for most of the trip.
 - [ ] They approach the backdoor of Caldwell hall and Alex expects to use it just like she did with Tristan, but it’s locked. Instead, she sees a window slightly ajar above and uses grip to climb the wall, remembering back to her dream.
 - [ ] Alex is able to open the window and make her way inside, going back downstairs and unlocking the door for the rest of them as they lock it behind.
-- [ ] They need to make their way all the way around the hall to Thorne’s lab, but they have to stop multiple times as there are more monitors in here than Alex remembers. Trina uses some wind magic to create a sound and distracts the monitors long enough for them to slip past through the giant main entrance and to the other side of the campus where they take a stairwell down to the lower floors beneath the ground. They round two corners and find themselves in front of Thorne’s lab.
+- [ ] They need to make their way all the way around the hall to Thorne’s lab, but they have to stop multiple times as there are more monitors in here than Alex remembers. Trina uses some wind magic to create a sound and distracts the monitors long enough for them to slip past through the giant main entrance and to the other side of the campus where they take a stairwell up to the second floor. They round two corners and find themselves in front of Thorne’s lab.
 - [ ] The door is locked, as usual, but Alex takes out a bobby pin from her hair and picks it. Everyone is confused, including Alex, who doesn’t really know HOW she knows to do that. But she pushes it back for later and they make their way inside.
+- [ ] No one is there, so they all start looking around. As soon as they are in the room, they all notice the smell and Alex finally puts it to words: the iron smell of blood.
+- [ ] Wyll goes through the papers on his desk, explaining that he found stuff relating to his thesis, but nothing else.
 
 
 ## Act 5
