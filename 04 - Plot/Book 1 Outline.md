@@ -517,6 +517,8 @@ kanban-plugin: board
 - [ ] Lyla asks if it could even be him and Alex rejects it. If he takes blood regularly, there would be no need to attack people. They would come to him.
 - [ ] But he HAS been holed in his room since the Trial. Alex knew he wasn’t doing well, but what if the vampie was using him. Blackmailin him or something. Nobody has seen him except through emails, so it’s possible that they broke into his room and have been imperosonating him.
 - [ ] With that thought, Alex wants to head there imedietly, but Lyla stops her.
+- [ ] Going during the day wouldn’t be much use. Instead, maybe they sneak in there at night to check it out.
+- [ ] Alex doesn’t like the idea of intruding on Thorne’s space, but if he’s in trouble she wants to help. She agrees to meet with Lyla outside the second ring dorms after curfew. She’s going to bring along Trina and Wyll. Lyla says she will try to get Tristan, but Alex tells her not to bother.
 
 
 ## Act 5
