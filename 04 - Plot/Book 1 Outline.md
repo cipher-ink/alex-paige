@@ -511,7 +511,9 @@ kanban-plugin: board
 - [ ] Alex asks why she is helping, and Lyla simply huffs and states that she was there at the end of the trial, so she knows more about this vampire than any of them. If it’s even the same thing.
 - [ ] Alex thinks on that as they walk towards the crime scene to investigate. Alex was never one for investigating, but Lyla see’s it almost instantly. There are scorch marks and obvious signs of a scuffle, which matches what the professors were talking about. However there is a spatter of blood on the back wall of the garden here. It was laid out in nice, clean lines as if done by large claws. Alex remembers that Heinz was using his claws and ingesting their blood.
 - [ ] It suddenly dawns on Alex as she explains to Lyla: the person isn’t just attacking at random. They are stealing manifestations.
-- [ ] Lyla is confused and Alex recalls to her in the trial that the vampire injested some of her and Wyll’s blood and was able to use their powers. Their manifestations. And he had some sort of imediete understanding of how to use it.
+- [ ] Lyla is confused and Alex recalls to her in the trial that the vampire injested some of her and Wyll’s blood and was able to use their powers. Their manifestations. And he had some sort of imediete understanding of how to use it. Granted it was temporary, but Alex doesn’t know exactly how such a thing would work. She mentions that the duchess explained the more they drink the more it would stave their hunger. So maybe that works with manifestations. The more blood, the longer they have it, maybe even permanently.
+- [ ] If this is the same curse, just thousands of years in the future, maybe they are doing the same thing. They want to amass power and they need blood to do it. So they drain the blood of the students so they have a fresh supply.
+- [ ] Lyla finds it all absurd, but she does mention that if someone wanted to find information on manifestations, there is a single place to go for it: Thorne. He is called the Master of Manifestations and regularly collects blood from the students.
 
 
 ## Act 5
