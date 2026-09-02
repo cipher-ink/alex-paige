@@ -525,6 +525,8 @@ kanban-plugin: board
 - [ ] Alex jokes that maybe he can use those flames and gets a death glare from both Wyll AND Trina. She realizes that she touched on something important, but before anyone can explain they see Lyla sneaking out as well.
 - [ ] Lyla joins them and she can see that Wyll and Trina aren’t to comfortable, but neither is Lyla. Alex asks about Tristan and Lyla jokes that Alex didn’t want him to come anyway. She brushes it off as they make their way across campus.
 - [ ] They had a close call with the monitors, but Lyla used her manifestation to cover them in shadow, which allows them to go unseen for most of the trip.
+- [ ] They approach the backdoor of Caldwell hall and Alex expects to use it just like she did with Tristan, but it’s locked. Instead, she sees a window slightly ajar above and uses grip to climb the wall, remembering back to her dream.
+- [ ] Alex is able to open the window and make her way inside, going back downstairs and unlocking the door for the rest of them as they lock it behind.
 
 
 ## Act 5
