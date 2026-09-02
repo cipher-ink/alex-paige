@@ -503,6 +503,9 @@ kanban-plugin: board
 - [ ] She makes her way around and hides behind a bush to look over the crime scene. No one is currently there, but it was taped off with a floating red illusion displaying that only faculty were allowed beyond. Alex wasn’t good at listening to warnings.
 - [ ] As she begins to step out, looking for anyone else, she hears a voice behind her: “I was sure that you would be better at sneaking around than that.”
 - [ ] She turns to find Lyla standing behind her with her arms crossed. Alex tries to make up an excuse for being there, but Lyla explains that she saw her evesdropping on Professor Faun and the Dean. So she expected that she would come here eventually.
+- [ ] She states that she isn’t here to get her in trouble. In fact, she was going to come here as well. She knew the kid. Didn’t particularly like him, but they were aquantances. And after her brother, she wants to find who is doing it,
+- [ ] Alex asks if she believes it’s her, and Lyla shakes her head.
+- [ ] With some relief, Alex asks is Lyla knows anything. She states that she asked around, and apparently his spells had been malfunctioning for a week or so before the Trial. They didn’t even work during the trial so he stood to the back until the first ring attacked.
 
 
 ## Act 5
