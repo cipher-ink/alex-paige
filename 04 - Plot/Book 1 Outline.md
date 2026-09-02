@@ -557,7 +557,9 @@ kanban-plugin: board
 - [ ] Alex finds it suspicous that he showed up here at the exact right time, but doesn’t say anything as Vael begins to escort them all back home.
 - [ ] First he takes Lyla to the second ring dorms and she shyly leaves, shooting Alex a look of “we’ll talk later”.
 - [ ] He then drops off Trina and Wyll who walk back to their dorms together, leaving Alex alone with Vael. Something about it makes her nervous as they walk and she blurts out asking why he was there.
-- [ ] He states that he was going to check on Thorne, but instead found a bunch of students attempting to solve a mystery. He explains that he applauds Alex for her tenacity, and that she reminds him a lot of her mother.
+- [ ] He states that he was going to check on Thorne, but instead found a bunch of students attempting to solve a mystery. He explains that he applauds Alex for her tenacity, and that she reminds him a lot of her mother and how they both seem drawn to trouble.
+- [ ] He tells her a story as they walk
+- [ ] “Your mother was in her sixth year. She had that same look in he eyes you get – convinced you had found a problem and that you were the only one who could fix it.”
 
 
 ## Act 5
