@@ -543,6 +543,7 @@ kanban-plugin: board
 - [ ] CRASH. Alex turns to see Trina had bumped into a rolling cart and knocked over a beaker which shattered on the ground. Alex quickly looks back: the creature is gone.
 - [ ] She can feel her breathing start to quicken as she looks back to her friends, who are all looking up. Following the gaze, she sees it clinging to the cieling.
 - [ ] Everyone in the room, including the monster, lets out a screech.
+- [ ] They all scramble around as the creature jumps for Alex, who just narrowly dodges out of the way. She gets up but realizes that she’s cut off from the rest of the group as it jumped between them and turned it’s attention on her.
 
 
 ## Act 5
