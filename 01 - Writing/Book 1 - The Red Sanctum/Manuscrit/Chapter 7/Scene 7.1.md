@@ -1,14 +1,15 @@
 ---
 title: Chapter Seven
 subtitle: I Forgot my Sunglasses
+short_title: Scene 7.1
 order: 1
-synopsis: 
-status: 
-label: 
+synopsis:
+status:
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 

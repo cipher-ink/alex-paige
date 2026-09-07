@@ -1,14 +1,15 @@
 ---
 title: Chapter Six
 subtitle: I Become a Professional Hermit
+short_title: Scene 6.1
 order: 1
-synopsis: 
-status: 
-label: 
+synopsis:
+status:
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 

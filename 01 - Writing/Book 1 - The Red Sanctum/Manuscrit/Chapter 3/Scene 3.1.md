@@ -1,14 +1,15 @@
 ---
 title: Chapter Three
 subtitle: I Run Away From Home
+short_title: Scene 3.1
 order: 1
-synopsis: 
-status: 
-label: 
+synopsis:
+status:
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 
@@ -54,7 +55,7 @@ It stepped out and into the moonlight. You’d think I’d seen it all at this p
 
 “Ooookay,” I stammered, covering my eyes and looking away. “Hi, nice to meet you. I don’t know wh0—”
 
-Or what, I thought. 
+Or what, I thought.
 
 “—you are, but can you please put some clothes on?”
 
@@ -106,7 +107,7 @@ Ah, yes. Twig lady = lives in the forest = perfect sense, *duh* Alex.
 
 Jen moved into the clearing, walking past me and towards the center. I hadn’t paid much attention after face-planting in the dirt, but it should have been impossible to miss—a perfect circle of flowers, smack-dab in the middle of this twenty-foot clearing. This had *magic* written all over it.
 
-She knelt by the flowers and motioned for me to join her. This had been one of the longest days of my life—I certainly did not have the energy to run away—so I saddled up next to her. 
+She knelt by the flowers and motioned for me to join her. This had been one of the longest days of my life—I certainly did not have the energy to run away—so I saddled up next to her.
 
 I liked flowers; back in eighth grade, I’d gone through a gardening phase thanks to my homeroom teacher, Mr. Beck. He was the kind of guy who thought teaching kids about plants was the key to saving the world. Big tree hugger, that one.
 

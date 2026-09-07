@@ -1,6 +1,7 @@
 ---
 title: Chapter Five
 subtitle: I Face the Truth
+short_title: Scene 5.1
 order: 1
 synopsis:
 status:

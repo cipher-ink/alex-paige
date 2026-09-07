@@ -1,14 +1,15 @@
 ---
 title: Chapter Four
 subtitle: I Dont Want to Go
+short_title: Scene 4.1
 order: 1
-synopsis: 
-status: 
-label: 
+synopsis:
+status:
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 

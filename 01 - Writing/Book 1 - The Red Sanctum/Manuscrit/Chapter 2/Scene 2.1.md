@@ -1,14 +1,15 @@
 ---
 title: Chapter Two
 subtitle: I Learn that Wizards are Real
+short_title: Scene 2.1
 order: 1
-synopsis: 
+synopsis:
 status: g
-label: 
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 

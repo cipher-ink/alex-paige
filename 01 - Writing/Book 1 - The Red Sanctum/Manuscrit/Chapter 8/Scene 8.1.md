@@ -1,14 +1,15 @@
 ---
 title: Chapter Eight
-subtitle: I Go Back to Class 
+subtitle: I Go Back to Class
+short_title: Scene 8.1
 order: 1
-synopsis: 
-status: 
-label: 
+synopsis:
+status:
+label:
 goal: undefined
-tags: 
-date: 
-notes: 
+tags:
+date:
+notes:
 compile: true
 ---
 

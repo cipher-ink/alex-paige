@@ -7,8 +7,9 @@ tags:
 date:
 notes:
 compile: true
-title: "Chapter One"
-subtitle: "I Destroy the Museum of Natural History"
+title: Chapter One
+subtitle: I Destroy the Museum of Natural History
+short_title: Scene 1.1
 ---
 Look: I didn’t wake up this morning thinking *“You know what sounds fun? Blowing a chunk out of the Museum of Natural History!”*, but here we are. Chaos and I are kind of on a first-name basis.
 
