@@ -1,0 +1,147 @@
+---
+cssclasses:
+  - novel-formatting
+---
+So, I know it’s a cliche at this point, but...I woke up late.
+
+Now hear me out—I didn’t sleep at all last night. I was too busy playing magic-school bingo with all the ways my first day at “The Sanctum” could go wrong. Bullies who could use telekinesis to give you the wedgie of all wedgies. Someone casting a hex on your locker so it develops a *personality*. That sort of thing
+
+By the time my fifth alarm decided to scream at me, I was bolting around the room, trying to pull together all the stuff I was *supposed* to have prepped the night before. The worst part? Wrestling myself into the uniform.
+
+It wasn’t just a “tuck in your shirt and call it a day” sort of thing either. Nope. It started with a white collared shirt that, yes, had to be tucked in. Over that came a crimson vest with the Sanctum’s crest sewn on like it was daring anyone to forget how “regal” and “imposing” their griffon mascot was supposed to be. Then—because apparently a gold embroidery wasn’t dramatic enough—they added a cape. I *know* it’s called a mantle since it didn’t go past the small of my back, but it felt like a cape, okay? It was short, the same crimson red as the vest, and trimmed in gold. There was a hood at the back, and everything was clipped together by gold pins with three chains linking them together that jingled a little every time I moved.
+
+The rest was standard boarding school affair: black pleated skirt, the choice of knee high socks or stockings—I chose the socks—and shoes that pinched just enough to remind me I had toes. Then they tied it all together with a big red bowtie.
+
+I put it all on and took a look in the mirror, looking like I wanted to go to a ren-fair but didn’t have the money to shill for an entire costume. But honestly, I kind of liked it. Out of all the uniforms I’d been stuffed into, it was certainly the most comfortable. Especially the shoes.
+
+“At least they aren’t heels,” I muttered to myself when Mr. Terrell gave me the rundown. He said we’d be doing plenty of moving around in this getup, so flat soles were the “practical choice”.
+
+Breakfast was a blur as I dashed into the kitchen, devoured the breakfast that Mr. Terrell had so kindly prepared, and continued to gather all of my things for the first day. My bag was completely full, but there wasn’t anything unusual. I’d expected to be carrying around materials for potions, or at least have a wand to cast spells with, but it was only textbooks and writing materials. The only odd item was a blank, thick, piece of paper Mr. Terrell said I would be needing today.
+
+When I’d finally caught up to all my things and bounded out the front door, there was Mr. Terrell waiting for me, his arms crossed and an amused smile on his face.
+
+“She lives.” he smirked.
+
+“With the amount of times I showed up late for school, you should have expected this!”
+
+“I suppose so,” he reminisced, “It’s difficult to imagine you being late when you *lived* on campus. That must have taken some great effort.”
+
+I resisted the urge to take a sarcastic bow as I fitted my bag’s straps to my shoulder and readied myself for the day.
+
+“So, where to? You don’t seem to have a car, so are we taking a flying broom? Ooo, teleporting?”
+
+He lightly snorted before regaining his composure and beginning to walk up the hillside to the right of the cabin.
+
+“Why don’t we go and I’ll show you.”
+
+In all my time here so far, he’d never taken me up the hill and I’d always been too preoccupied to really venture out on my own. I followed along, attempting to listen as he talked about the school and where I would be going, but it turned to trumpets in my ears as my gaze honed in on the ground. My mind had started to wander, thinking about all the horrible things that could happen on my first day. I’d had loads of them at this point, going between schools nearly every year, but this one was different. It had magic, and it had my mother. She went to this school, and I was hoping that there would still be some people that remembered her. It was all I had going for me at the moment.
+
+By the time I zoned back in, we had reached the top of the hill and the air left my lungs as I suddenly came face to face with the Sanctum. I’d always imagined some monolithic building with giant Gothic spires coming from the top, but what I looked at across this small valley was more like a college campus. A large rectangular space had been carved out in the middle of the forest with many different buildings littering the field. There was a river that made it’s way across the campus from end to end, weaving around buildings and courtyards, and at one point it looked like the river climbed up and walked it’s way onto one of the buildings.
+
+At the center was the place I had been thinking. It was much bigger than the others, with an imposing Gothic face of dark stone and actual spires reaching towards the sky. To the left, I made out a small cluster of curved buildings wrapped around what looked like a courtyard, in the center of which was a giant metal sphere, nearly as tall as the buildings themselves.
+
+To the right sat three distinct buildings that all looked like they were coming from different centuries. The closest one was all brown brick and looked about as warming as a prison. The middle was sleek and modern, with some shimmering light along it’s surface that I couldn’t quite make out from this distance. And the furthest—god, it was almost obnoxious—was this white marble building that shimmered with moving patterns of teal and green. It was the same building that the river was clambering onto.
+
+Around the rest of the campus were a smattering of buildings that looked more akin to what I would expect from a campus, but stretched throughout were courtyards, gardens, an apiary, a planetarium, and a giant hedge maze stuck in the top left corner.
+
+“There’s no entrance.” I muttered to Mr. Terrell, noticing that the campus was closed off on all sides by large stone walls, none of which looked to have an opening on them.
+
+“Indeed,” he smirked. “Do you have that piece of paper I told you to bring?”
+
+I brought out the paper from my bag, no larger than the palm of my hand, and yet I could tell it was teeming with magic now that we were closer to the Sanctum. Mr. Terrell brought out a paper of his own and I saw the crest under his sleeve activate, sending magic into the piece. It began to glow the same greenish hue as his crest when all of a sudden, writing appeared on the paper.
+
+“They’re called port cards. Think of it like your ID for walking around the campus. Go ahead and try channeling into it.”
+
+With relative ease, I took a deep breath and felt that surge of warmth rush through my chest and around my body. I’d done this so many times these past few months that it felt natural. As the energy passed through my arm and into the paper, it began to glow an orange color before dissipating, leaving words written on the paper. I couldn’t actually *read* the writing since it was in some odd script that looked like ancient runes, but I could tell that I was connected to it.
+
+“What happens if I lose it?”
+
+“I have to fill out a whole lot of paperwork,” he sighed. “So please, keep track of it.”
+
+Next, Mr. Terrell walked over to a small bench that had been sitting here at the top of the hill, of which I completely missed. He took a seat and beckoned me to follow suit.
+
+“Aren’t we kind of in a rush?” I asked as I took my place next to him on the bench. “How are we supposed to get into the school if the—”
+
+I was cut off as my stomach suddenly began to churn and the worst case of vertigo I’d ever experienced kicked in. The world around me suddenly went topsy-turvy as I hunched over on the bench, closing my eyes and hoping that the feeling would subside. However, only a few seconds later, it was gone as quickly as it had come. I opened my eyes, looking around, and we were no longer on the hill.
+
+Instead, we were standing on the opposite side of the wall, now inside the Sanctum. Or at least Mr. Terrell was standing. I was keeled over on the ground attempting to hold in my breakfast. I was vaguely aware of the presence of more people than just us in the vicinity, but it was taking all of my willpower to hold myself back.
+
+“It can be rough on your first port,” Mr. Terrell consoled as he knelt down to help me back on my feet. “You’ll get used to the feeling.”
+
+I got to my feet, taking  a look around the large circular courtyard that we'd apparated on. A polished, red-brown stone separated it from the long path that lead outwards towards the rest of the campus. There were plenty of other people in the courtyard. Students wearing the same crimson-colored uniforms as me, adults with full black capes and golden embroideries on the front and trim, and some not in uniform at all—most likely parents—all appearing out of thin air and decidedly staring at me.
+
+I wasn't trying to, but I made eye contact with one of them: a Kinder probably no older than me. Their dark purple skin clashed hard with the crimson of the uniform, and small horns jutted out from long jet-black hair. She was in the process of giggling at my misfortune until said eye contact was made, after which she promptly spun on her heel and looked the other way.
+
+*First day at school, and already embarrassing yourself,* I thought.
+
+Still a little dazed from the trip, I walked arm in arm with Mr. Terrell as we followed the stone path deeper into the campus towards the central building. On either side of us were smaller courtyards mixed with greenery and thinner pathways separating the left and right sides of the campus with the gothic hall being the only centerpiece that everything seemed to revolve around. The giant double doors at the front were set open as people piled in. As if reading my mind, Mr. Terrell chimed in:
+
+“That’s Cornwall Hall. You'll be spending a lot of time there.”
+
+“What's inside?”
+
+“The library, faculty and leadership offices, the Trial chamber, and some more traditional classrooms for both first and seventh year students. Oh, and the Great Hall. It’s sort of a gathering place when the headmaster needs to speak to the students. You'll see. It's where we're heading now for orientation.”
+
+As we approached the double doors, it dawned on me exactly how large this building was. Looking up, the towers seemed impossibly tall, black and grey brick spiraling up until the clouds just swallowed them whole. The doors themselves were at least twenty feet tall, which only made me wonder if they were built for something that big, or if the people who created it just had something to prove.
+
+They were even more imposing up close.
+
+Standing at the base, I had to crane my neck just to find the top, and even then I wasn't sure I had. They were carved from something dark–not quite wood, not quite stone–with deep relief work across the surface that I couldn't make sense of at a glance. Figures, symbols, text in the same runic script as my port card. I didn't even want to imagine the time it took.
+
+Mr. Terrell walked through like it was a grocery store entrance, waving a hand at me to follow. I did, trying to match his energy, and failing miserably.
+
+The foyer hit me before my eyes could adjust. My first thought was that if *this* was the foyer, how large was the rest of the place? The floor was made of the same dark polished stone as the courtyard outside, and the walls were lined with the kind of detail that made you feel like the building was quietly judging you for having ever attended public school.  Tapestries and art ran along the upper half of every wall, though with students and families funneling toward the staircases at the far end, I couldn’t get a clear look at any of it.
+
+There was, however, one thing that stuck out like a sore thumb.
+
+Centered at the far wall, flanked on either side by staircases that wound down to an even larger room below, was a book.
+
+And I use the term “book” very loosely.
+
+It was mounted on a stand of dark iron that looked like it has been bolted to the floor since the building was first built – maybe it had. Each page rose to the height of a single-story building. The material was closer to papyrus than paper, cream-colored and old in a way that felt intentional, and running across the whole surface, visible even from where I was standing in the entrance, was a faint shimmer causing it to float up and down – like the dang thing was breathing.
+
+As we moved through the crowd towards the staircases, I caught a glimpse of what was written inside. It wasn’t handwritten – it was too exact for that. Each entry was arranged in a tight grid: names in clean block lettering, and beneath each one, an intricate pattern that looked *just* familiar enough to stop me cold.
+
+I broke away from the crowd and stood next to a cluster of other students and faculty staring up at it. There was a small plaque on a stand in front that read: *Book of Families*. Each page of the book had twelve sections. A name, and below it, a design.
+
+“These are crests.” I said, mostly to myself.
+
+They were harder to read flat on paper than wrapped around someone’s arm, but the structure was the same as the ones in my textbook. Each one started with a thick black line at the base and ended with a thinner one, and everything in between was completely its own. Geometric shapes, fractals, curse, and hard angles and circles that went nowhere. My eyes glazed over trying to follow it all. And the names weren’t much better – Osswyn, Ovael, Paedon, Pahryn, Paimos – each one sounding like it required a raised pinky and a “spot of tea” just to pronounce.
+
+I was about two seconds away from making a snarky comment about it when a kid – maybe six years old – waddled up to the stand and put both hands on the plaque, staring at it intensly.
+
+“T–the. The bu–book–”
+
+“Daemon, don’t touch that!” A large woman came barreling out of the crowd behind me and swooped the kid up with one arm, with more strength than I would’ve guessed. 
+
+“–fam-lies,” he finished anyway.
+
+“Yes, hon. That’s the Book of Families.” She tidied his collar without missing a beat.
+
+“Aw we inn the-h book?”
+
+“Of course, baby. We’re all in there.” She folded back into the crowd, and they were gone.
+
+Mr. Terrell reappeared at my shoulder, once again attempting to scare the life out of me. “There you are. I made it all the way to the bottom before I realized you weren’t behind me.”
+
+“What is this?” I asked, still looking at the book, now attempting to find the missing puzzle piece.
+
+“The Book of Families. It houses all the crest designs and names of families for anyone that’s ever attended the–”
+
+“No,” I interrupted, “I know that, I read the plaque. But why is MY name not there?”
+
+I hadn’t thought it until the mother said, *we’re all in there*. But if my mom went here, my name should be in there. I’d scanned the P section already. Nothing.
+
+Mr. Terrell’s expression did the thing I’d seen from too many people before – tightening, like he was sorting through something that he wasn’t allowed to say.
+
+“I don’t know, ” he finally said.
+
+The crowd was gone. The foyer was just us now, and the quiet sat between us like the room you were supposed to leave for Jesus during a dance.
+
+“Buuut,” he pivoted “I DO know that if we don’t get down there you’re going to miss the opening ceremony.”
+
+“Fine,” I said, not having the energy to fight him at the moment.
+
+I pinned a note on the mental corkboard I’d been building since I got here.
+
+*Mr. Terrel knows more than he’s telling me.*
