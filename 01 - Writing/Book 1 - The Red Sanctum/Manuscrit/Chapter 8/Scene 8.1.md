@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: Chapter Eight
+subtitle: I Go Back to Class 
+order: 1
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 There’s always that strange hush before a storm—the kind where the air goes still, the clouds gather, and the world seems to pause, waiting for something to break. That’s what today felt like. As if the world was holding it’s collective breath, bracing for tomorrow, when everything would change.
 
 Again.

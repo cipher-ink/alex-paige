@@ -1,17 +1,7 @@
 ---
-title: Chapter Two
-subtitle: I Learn that Wizards are Real
-order: 1
-synopsis: 
-status: g
-label: 
-goal: undefined
-tags: 
-date: 
-notes: 
-compile: true
+cssclasses:
+  - novel-formatting
 ---
-
 I don’t remember much after whiting out. I groggily woke a few times, but I always slipped back into unconsciousness moments later. It felt like my body was burning from the inside out, but I could faintly remember a conversation:
 
 “This is a mess. How are we going to explain this to the public?”

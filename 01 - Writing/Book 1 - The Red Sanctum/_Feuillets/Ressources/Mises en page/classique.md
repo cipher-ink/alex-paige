@@ -32,15 +32,21 @@ headings:
     align: center
   h3:
     pageBreakBefore: false
-    fontSizePt: 14
+    fontSizePt: 18
+    bold: true
+    italic: false
+    marginBottomPt: -5
+    align: center
+  h4:
     bold: true
     italic: true
-    marginBottomPt: 36
+    fontSizePt: 14
+    marginBottomPt: 64
     align: center
-  h4: {}
   h5: {}
   h6: {}
-blockquote: {}
+blockquote:
+  align: center
 sceneDivider: "***"
 header:
   enabled: true

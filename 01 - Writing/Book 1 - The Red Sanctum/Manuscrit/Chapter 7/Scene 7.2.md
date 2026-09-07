@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 2
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 The training *started* with a three mile run. Scratch that—six miles, because we had to run there *and* back. Mr. Terrell led me down winding paths alongside the forest. Normally, I would be all about soaking in the beauty of the trees and the soft breeze, but It was hard to appreciate nature when I was busy wheezing like a dying accordion.
 
 We passed Dad along the way, the black-and-white marble of the stone standing out like a brooding sentinel among the green hills. It tugged at something deep in my chest, but I pushed it down and focused on keeping my legs moving.

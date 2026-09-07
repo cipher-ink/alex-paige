@@ -1,17 +1,7 @@
 ---
-title: 
-short_title: 
-order: 5
-synopsis: 
-status: 
-label: 
-goal: undefined
-tags: 
-date: 
-notes: 
-compile: true
+cssclasses:
+  - novel-formatting
 ---
-
 I jolted awake to Dad shaking my shoulders.
 
 “Hey, Al, we’re here.”

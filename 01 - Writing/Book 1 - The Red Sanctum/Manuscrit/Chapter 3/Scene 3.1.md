@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: Chapter Three
+subtitle: I Run Away From Home
+order: 1
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 Running. That was all I could do. My legs burned, my chest heaved, but I couldn’t stop. I wouldn’t stop. The sound of my Dad’s voice calling my name from the cabin faded into the background as I plunged deeper into the forest. I apologized to him under my breath, but I needed space; clarity. Something I was *sorely* lacking today.
 
 The forest was a symphony of crickets chirping and the crunching of leaves under my sneakers. Moonlight spilled through the canopy, giving me just enough light to navigate without face-planting. Or so I thought. With the hurricane that was raging inside of my head, It was hard to pay attention to the minefield of rocks and twigs at the foot of the forest. I tripped, my toe snagging a particularly rude root, and gravity took care of the rest. I hit the dirt with all the grace of a troll.

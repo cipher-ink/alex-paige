@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 3
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 *BOOM!*
 
 One second, I was staring at my Dad—trying not to cry—and the next a deafening explosion ripped through the air, slamming into me like a freight train. The explosion struck the rock ten feet away, and the shards of stone erupted like shrapnel. The force of the explosion hit me in the chest, stealing the breath from my lungs and flinging me backward like a rag-doll. My ears were ringing so loudly that I couldn’t tell if I was screaming in pain or just imagining it.

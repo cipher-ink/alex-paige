@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 6
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 You know, finding out your Dad knew about magic this whole time and had been keeping this *massive* secret from you for your entire life—not so bad, right? Yeah, not exactly a Hallmark moment. But I handled it with grace—if by grace you mean a lot of yelling and enough confusion to power a reality TV show.
 
 “Why,” I asked, my voice already shaking. “Why didn’t you tell me?”

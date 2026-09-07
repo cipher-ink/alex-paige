@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 3
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 I was lucky; the rest of the *training* for the day was only a crash course in science—but ‘magically inclined’. Aka, science with some extra glitter. And by glitter, I mean fire.
 
 “Evocation,” Mr. Terrell began in the lecture voice I’d head him use a million times, “is the art of harnessing raw energy and shaping it. There are many different sub-schools for specific things like fire, water, or even sound. The user then shapes them and adapts them to their specific needs.”

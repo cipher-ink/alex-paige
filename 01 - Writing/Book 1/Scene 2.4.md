@@ -1,17 +1,7 @@
 ---
-title: 
-short_title: 
-order: 4
-synopsis: 
-status: 
-label: 
-goal: undefined
-tags: 
-date: 
-notes: 
-compile: true
+cssclasses:
+  - novel-formatting
 ---
-
 I dreamt that I was in a forest, no—*The* Forest. That one you always see in fantasy movies with elves in the trees, magic in the air, and odd discoveries around every corner. The trees themselves towered over me like skyscrapers, their canopies so thick that only the faintest bit of starlight managed to peek through. The ground was soft and damp, moss crawling over everything like a nice carpet. The air smelled like fresh rain, clean and earthy, with a hint of something…magical. Beautiful, right? Well—until the bushes rustled to my left and a woman leaped out at me.
 
 She bolted out from behind a tree, heading straight for me. My brain screamed *move*, but my feet decided they would rather stay planted like a deer in headlights. Before I could react or reach out my hands to stop them, they passed right through me. THROUGH me. Like I was a ghost. A cold shiver slipped down my spine and I spun around to get a better look at her.

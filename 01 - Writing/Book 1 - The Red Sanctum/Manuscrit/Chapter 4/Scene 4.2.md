@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 2
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 The rest of the car ride was unnervingly quiet. Dad had broken it down for me—The Sanctum wasn’t exactly “Dad-friendly”. Only people with magic were allowed, and as much as I thought my Dad was magical, the school would say otherwise. I tried to argue—something about how the rules were meant to be bent, right?—but my half-baked ideas couldn’t even convince *me*. I had no clue how this magic stuff worked, and my brain had already been doing an entire circus routine all day just to keep up with everything that happened.
 
 Ten more minutes of awkward silence went by before Dad slowed the car, flicking on the brights and squinting at the side of the road like he’d lost a contact or something. The left side of the road was nothing but trees, while the right side featured a thrilling five-foot buffer of grass before—surprise—more trees. Every few miles there would be a clearing or something, but Dad didn’t seem interested in those.

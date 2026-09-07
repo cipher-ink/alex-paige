@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: Chapter Seven
+subtitle: I Forgot my Sunglasses
+order: 1
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 “How did you sleep?”
 
 I shuffled out of the hallway and into the main living area, the smell of bacon and eggs having drifted into my room this morning. There was Mr. Terrell, wielding a frying pan like a pro chef on a cooking show. He had an apron that said “Watch out, good lookin’ is cookin’!” on it. Considering how he was normally about as noisy as a shadow, it was obvious he was going all out. Almost like he knew I’d crawl out of my cave today.

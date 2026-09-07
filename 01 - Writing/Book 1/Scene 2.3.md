@@ -1,17 +1,7 @@
 ---
-title: 
-short_title: 
-order: 3
-synopsis: 
-status: 
-label: 
-goal: undefined
-tags: 
-date: 
-notes: 
-compile: true
+cssclasses:
+  - novel-formatting
 ---
-
 The glowing city lights turned into small specs as Dad floored it down the highway. I was pretty sure this was *not* a legal speed to be driving. He didn’t say a word about where we were going—just plopped me in the car and hit the gas. Oh, and we left Mr. Terrell behind for some reason.
 
 Before we left, Dad had this quiet-but-furious argument with Mr. Terrell. It wasn’t his usual mild annoyance either. Furrowed brow, rubbing his temples—the works. I couldn’t hear anything, but knowing Mr. Terrell it was something like, “There was an accident, yadda yadda blah blah blah.” When they finally came back over to me, Mr. Terrell produced from his pocket a small stone carving, handing it over to me. It was…a lion? Eagle? Both? I knew I’d seen it before, but I was too distracted to think about it. I asked what it was for, and he gave me:

@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 2
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 I was running back through the forest towards the cabin, or at least I hoped I was. My sense of direction wasn’t exactly top-tier on a good day—this was *not* a good day. The farther I went, the darker it got, like the forest had decided that I was the enemy. Shadows seemed to creep up the tree trunks. The canopy thickened, swallowing the moonlight and my vision along with it.
 
 Hadn’t Jen said the forest would protect me? Right now it felt like I was about to get ambushed.

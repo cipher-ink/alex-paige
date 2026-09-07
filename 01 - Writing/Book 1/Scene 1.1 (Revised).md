@@ -1,14 +1,6 @@
 ---
-order: 1
-synopsis:
-label:
-goal: undefined
-tags:
-date:
-notes:
-compile: true
-title: "Chapter One"
-subtitle: "I Destroy the Museum of Natural History"
+cssclasses:
+  - novel-formatting
 ---
 Look: I didn’t wake up this morning thinking *“You know what sounds fun? Blowing a chunk out of the Museum of Natural History!”*, but here we are. Chaos and I are kind of on a first-name basis.
 
@@ -19,7 +11,9 @@ Have you ever seen something in the corner of your eye that just *wasn’t right
 You have magic. That’s the only way you’re reading this book. But even if you aren’t aware of it, that doesn’t mean it’s too late. So here’s your last chance.
 
 If you want to live your life in blissful ignorance, here’s your cue to exit. Seriously. This is the red light. Hit the brakes, close this book, toss it in the trash, or burn it.
+
 Whatever you do is up to you.
 
 But…if you want answers. If you’re willing to face the consequences and tear down the curtain to see the wizard behind it, then keep reading.
+
 But buckle up, because this ride doesn’t come with seat belts.

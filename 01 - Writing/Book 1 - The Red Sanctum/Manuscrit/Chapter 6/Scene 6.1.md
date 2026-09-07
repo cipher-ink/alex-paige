@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: Chapter Six
+subtitle: I Become a Professional Hermit
+order: 1
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 >*Dear Alex,*
 
 >*Take all the time you need. I’ll leave food by the door and knock when it’s ready. You don’t need to come out if you don’t want to.*
@@ -11,5 +21,3 @@ cssclasses:
 >*I’ll be here for whenever you need me.*
 
 >\- *Mr. Terrell*
-
-\newpage

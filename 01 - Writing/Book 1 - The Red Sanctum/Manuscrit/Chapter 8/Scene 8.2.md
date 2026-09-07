@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 2
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 So, I know it’s a cliche at this point, but...I woke up late.
 
 Now hear me out—I didn’t sleep at all last night. I was too busy playing magic-school bingo with all the ways my first day at “The Sanctum” could go wrong. Bullies who could use telekinesis to give you the wedgie of all wedgies. Someone casting a hex on your locker so it develops a *personality*. That sort of thing

@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 3
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 I broke through the tree line and saw the cabin perched on the edge of the cliff, it’s windows glowing warmly in the night. Relief flooded through me for a second—only a second though. There was a person on the front porch. Small frame. Definitely not Dad.
 
 Cursing under my breath, I ducked back into the trees and started making my way around to the side. I had to get in without being seen, and there was only one other entrance. My eyes landed on the small patio off the main bedroom. No stairs. No gate. Just a five-foot gap between the cliff edge and the railing of the patio. I could make it—maybe.

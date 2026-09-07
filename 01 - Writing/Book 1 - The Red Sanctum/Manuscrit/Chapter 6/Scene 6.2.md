@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: 
+short_title: 
+order: 2
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 I was in my room for the better part of two weeks. I’d become a professional hermit, give or take a few days. Not exactly a vacation though. My days mostly consisted of crying, sleeping, and playing the Olympic sport of curling…into a ball of self loathing. I took home gold, naturally.
 
 *Maybe if I’d been faster*, I thought, *or more powerful. Maybe if I hadn’t been born. Would he still be..*

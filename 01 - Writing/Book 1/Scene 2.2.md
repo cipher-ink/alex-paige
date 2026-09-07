@@ -1,17 +1,7 @@
 ---
-title: 
-short_title: 
-order: 2
-synopsis: 
-status: 
-label: 
-goal: undefined
-tags: 
-date: 
-notes: 
-compile: true
+cssclasses:
+  - novel-formatting
 ---
-
 Mr. Terrell was sitting across the room, fidgeting like a nervous kid after a parent-teacher conference, after having told me the most *insane* news of my life.
 
 “So,” he started, “How are you holding up?”

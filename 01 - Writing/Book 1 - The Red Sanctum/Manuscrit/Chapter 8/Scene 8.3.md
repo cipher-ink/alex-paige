@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title:
+short_title:
+order: 3
+synopsis:
+status:
+label:
+goal: undefined
+tags:
+date:
+notes:
+compile: true
 ---
+
 The opening ceremony was *long*.
 
 We walked down the staircase which curved to the left to join with the other on the opposite side, creating a wider central set of stairs leading into one of the largest rooms I’d ever seen. Mr. Terrell had called it the ‘Grand Central Station’ of Caldwell Hall, but that was putting it lightly.
@@ -38,7 +48,7 @@ I looked to my side, seeing a Najiir next to me, her ears just poking out the to
 
 “Maria,” she responded, her ears drooping a little and red blush filling her cheeks with the same embarrassment that I’d had seconds earlier. Just as I was about to try and break the ice with some dumb joke, the lights in the room flickered out and silence fell across the room.
 
-It must have only been seconds, but it felt like the silence loomed over the room forever, waiting for something to break it, until finally the lights behind the stained glass came back on, illuminating the entire room in a rainbow of color. 
+It must have only been seconds, but it felt like the silence loomed over the room forever, waiting for something to break it, until finally the lights behind the stained glass came back on, illuminating the entire room in a rainbow of color.
 
 A single spot of white cut through the color and locked onto the podium beneath the statue. A man stood there–no, he had simple appeared; apparated into the space. He was tall and lean, wearing a dark pinstripe suit that looked almost normal if not for the half-cape over his right shoulder. Even from my seat all the way in the back I could feel something not quite right with the fabric; little points of light drifted across it like slow-moving stars. He had a neat mustache and a long thin goatee, carrying himself with a stillness that made the entire room seem loud by comparison. He raised both hands in a single, showy, motion with his palms up. The crest on his left arm lit with a cool, watery green.
 

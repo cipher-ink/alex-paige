@@ -1,7 +1,17 @@
 ---
-cssclasses:
-  - novel-formatting
+title: Chapter Four
+subtitle: I Dont Want to Go
+order: 1
+synopsis: 
+status: 
+label: 
+goal: undefined
+tags: 
+date: 
+notes: 
+compile: true
 ---
+
 We both bolted down the trail like our lives depended on it—which they did. The path felt narrower going back than it had going up, branches snagging at my hair and my ankle deciding it was the perfect time to start screaming at me like a banshee. Every step felt like someone had swapped my foot out for a chew toy.
 
 “Dad, who were those people?” I huffed, clutching a cramp in my side.
