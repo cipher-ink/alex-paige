@@ -567,6 +567,19 @@ kanban-plugin: board
 - [ ] By that point in the story they had arrived at the front square where Alex could port out. He ends the story stating that her mother got into trouble. a lot. But it was never for selfish reasons. He can see that Alex is just the same.
 - [ ] He sends Alex off with a final warning. His face becomes hard and his demeanor much more serious than Alex has seen before. He tells her that she needs to stay out of things, and that it’s dangerous for her specifically to be wandering the campus at night.
 - [ ] He smiles as she ports away and heads back home.
+- [ ] # Chapter 24
+- [ ] ### Scene 24.1
+- [ ] Its the next morning and Alex, Wyll, and Trina are in the training room talking about what happened the previous night. Alex mentions the warning Vael gave her, and they talk about how he’s acting a bit suspiciously, but Trina specifically denies the possibility that Vael is really the murderer.
+- [ ] Suddenly, Lyla bursts into the training room stating that Tristan was attacked last night. Apparently he went out on his own when he came back and was caught unawares. He was placed in the infirmary, but he left Alex a note.
+- [ ] In the note Tristan starts with an apology, but states that when he got back he began investigating the old observatory since it’s one of the only places on campus that isn’t used anymore and would be a perfect hiding place.
+	
+	He went there during the day to investigate and made his way inside, but before he got very far he was attacked. The person attacking him was tall and must have been an adult since he quickly would have overpowered Tristan had he not used his powers to get away and outside where the person didn’t follow. Though he states that the man cut him with claws on his hands and licked it after, just like the vampire in the trial.
+	
+	He warns that something must be off with it, and that when he gets better they should all go investigate.
+- [ ] Alex ignores that last bit and states that they all need to go investigate it now. It seems like the best chance they have. Wyll seems against it, saying that it might be better to go get a professor.
+- [ ] Lyla shoots back bitterly that it’s been over a month and the teachers are no closer to this than they were when it started. They have classes to prepare for and students they need to look out for. And they don’t seem to be looking to bring people in from outside so who knows how long it will take and how many more victims there will be.
+- [ ] Trina also mentions that if Tristan said it was an adult, that points to a member of the faculty themselves. Wyll still doesn’t seem convinced, but resigns himself.
+- [ ] #### Scene 24.2
 
 
 ## Act 5
