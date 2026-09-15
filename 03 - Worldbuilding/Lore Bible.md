@@ -7,6 +7,7 @@ _Alex Paige Trilogy | World: Crest_
 ## Table of Contents
 
 - [[#The Weave]]
+- [[#The Veil]]
 - [[#The Practitioner]]
 - [[#Manifestations]]
 - [[#Crests]]
@@ -42,6 +43,40 @@ Magic is significantly stronger in proximity to leylines. They are not static; t
 
 The **Magic Solstice** — occurring in February — marks the annual period when leylines between the material and immaterial planes are at their most permeable. During this window, casting magic becomes easier and more potent across the board, which is why the Intra-School Tournament is timed to coincide with it.
 
+### Scarcity & Contest
+
+Whether the Weave's mana could be exhausted at a truly global scale remains theoretical. No lasting, world-wide decline in mana density has been recorded since [[#The Veil|the Veil's creation]] — a casting so costly it visibly crashed mana availability for nearly a thousand years before recovering in full. A person, or an object, can run dry. The Weave itself, so far as anyone has proven, cannot.
+
+That hasn't stopped leyline proximity and Beryllium-rich land from being valuable, fought-over territory — scarcity of the resource isn't required to make it worth controlling.
+
+---
+
+## The Veil
+
+The Veil is not a barrier so much as a filter over perception itself — closer to a mass illusion woven permanently into the fabric of the Weave than any kind of wall. Those without the capacity to perceive magic don't see nothing when they encounter it; they see what makes sense to them instead. A crest reads as an ordinary tattoo, sized and placed like one. A summoned creature reads as something mundane enough to explain away. Centuries of this have folded into culture itself — nobody blinks at a minor wearing what looks like a sleeve tattoo, because to everyone who can't see past the Veil, that's all it has ever been.
+
+The Veil hides magic from roughly 60% of the world's population — [[Laymans]], those without the recessive gene that allows mana to be absorbed at all (see [[#Affinities]]). The remaining 40% perceive magic clearly and always have.
+
+### Origins — The Crusades
+
+The Veil was cast roughly a thousand years ago, at the end of the Crusades: a war fought between Magi and Laymans that killed close to two-thirds of the world's magical population, human and creature alike. In response, [[The Circle]] — a governing council of the era's most powerful practitioners — struck a mass Contract, sacrificing their own lives to cast a concealment spanning the entire world. It was an act of survival, not domination.
+
+Only one member of the Circle is known by name today: [[William Holden]], a half-elf whose pre-Crusade discoveries still underpin most of modern magical theory — spoken of the way physicists speak of Newton or Einstein. He died casting the Veil.
+
+His daughter, [[Allya Holden]] — nearly three-quarters [[Elves|elf]] herself — founded the Sanctum in the 1300s, generations after his death, explicitly to preserve his work and guard against another Crusade-scale catastrophe. The Sanctum's age and prestige trace directly back to this.
+
+> **Elves** carry a dominant longevity trait: a pure-blooded elf effectively stops aging once they reach maturity around 80, barring violence or accident, and are exceedingly rare in the modern day — likely only a handful remain. A half-elf's lifespan scales with elf ancestry, blood-quantum style, and because the trait is dominant even a small fraction matters — someone at 1/32 elf blood might still live to 150. This is what let Allya bridge the gap between her father's death and founding the Sanctum generations later.
+
+### The Modern Veil
+
+By modern standards, the Veil is viewed as old and somewhat vestigial. The era of open hostility between Magi and Laymans is long over, and there's a standing theory — untested, since no one has actually tried it — that dropping the Veil entirely today wouldn't be especially disruptive; Laymans have centuries of their own fiction about magic and wizards to fall back on regardless.
+
+Deliberate removal is possible for individuals who need to know despite lacking the gene to perceive magic on their own — most commonly senior government officials. It's a formal Enchantment-school ritual that rewrites the recipient's own perceptual Concept, assisted in the modern day by dedicated magitech devices, taking about an hour — functionally the magical equivalent of a security clearance.
+
+There is no dedicated magical government. Magic is handled through ordinary national and local government and law enforcement, the same way any other domain gets its own department — not a parallel or shadow authority. The Sanctum, despite its age, its prestige, and the number of graduates who go on to hold high office, is a school first and remains formally separate from government.
+
+[[The Circle]]'s own governing authority from the Crusade era didn't survive into the modern day — it was never meant to outlast the emergency that created it. What remains is its operational arm: an old, well-regarded, quasi-private organization that commissions [[Nodes]] for work too sensitive or specialized for ordinary channels. It carries weight from reputation alone, not from any formal legal standing.
+
 ---
 
 ## The Practitioner
@@ -72,6 +107,8 @@ While mortals classify magic into four main schools and many subschools, an affi
 
 Regardless of conscious understanding, a person will naturally gravitate toward the kind of magic that aligns with their affinity — it simply comes easier. Affinities are discovered in Second Year at the Sanctum through the Attunements course.
 
+The capacity to absorb mana at all — the prerequisite for having an affinity in the first place — is governed by a recessive gene that must be triggered into dominance; why or how that trigger happens isn't understood, even academically. [[Laymans]] are, definitionally, people in whom that gene was never activated. There's no such thing as a "weak" or "null" affinity — someone who cannot absorb mana simply never has one to discover.
+
 ---
 
 ### The Focus
@@ -89,7 +126,7 @@ The body itself acts as a **conduit** — mana flows through the circulatory sys
 
 The physical cost is real. Controlling mana flow requires active effort — not unlike trying to direct your own blood by consciously contracting and relaxing muscles. Extended or powerful casting is exhausting. Losing control is dangerous: uncontrolled mana can spiral and build within the body, burning and damaging from the inside out.
 
-**With a crest**, the crest draws mana from the surrounding air rather than pulling it through the practitioner's body, and the encoded spell handles the shaping automatically. The caster feels primarily a warmth concentrated on their arm as mana gathers at the crest. It is significantly less taxing — which is precisely why the crest changed everything.
+**With a crest**, the crest draws mana from the surrounding air rather than pulling it through the practitioner's body, and the encoded spell handles the shaping automatically. The caster feels primarily a warmth concentrated on their arm as mana gathers at the crest. It is significantly less taxing — which is precisely why the crest changed everything. To anyone watching, the Path itself glows along its linework as the spell fires, colored by its School — orange for Evocation, purple for Conjuration, blue for Illusion, green for Enchantment — brightening in proportion to the effect's intensity.
 
 ---
 
@@ -191,6 +228,8 @@ Visually, a crest reads from one end to the other: a thick black band (the Root)
 Each spell encoded onto a crest requires a permanent, active connection to the user's blood — and through it, their Concept. This connection is always on; it cannot be switched off without removing the encoding entirely. This is what makes crest spells feel instinctive — the spell is already hotwired into the user's biology.
 
 That constant connection carries a physical and metaphysical toll on both the user and their Concept. Five simultaneous connections is the current limit — a reflection of where runic language currently stands, not an arbitrary convention. The limit began at one spell and has grown as runic evolved. Whether it can be pushed beyond five is an open question.
+
+That toll used to be felt passively, even at rest — older, smaller mana pools and a less refined Runic language meant maintaining five live connections came with a constant, low-grade drain. Advances in Runic encoding, better technique among Encoders, and a broader generational trend toward larger mana pools have made this a non-issue for most people today; only someone born with an unusually small mana pool would still notice a maxed crest's idle cost.
 
 A crest with no spells encoded still functions as a focus. Blank crests are rare in the modern era but not unheard of.
 
@@ -295,7 +334,7 @@ All magic can be categorized into one of four schools. These schools are intenti
 
 **Evocation** Magic that draws energy from the Weave or the environment and releases it as a direct effect. Most elemental magic falls here — fire, lightning, force. Evocation is about output.
 
-**Conjuration** Magic that calls something into being or establishes a connection with another plane of existence. Summoning entities, opening planar channels, and necromancy — raising or communicating with the dead — are all conjuration. So is contract magic, in which the caster forms a binding agreement with an otherworldly being.
+**Conjuration** Magic that calls something into being or establishes a connection with another plane of existence. Summoning entities, opening planar channels, and necromancy — raising or communicating with the dead — are all conjuration. So is contract magic, in which the caster forms a binding agreement with an otherworldly being. True resurrection sits outside what any of this can achieve, at any cost — whatever necromancy calls back, something of what made that person who they were does not come with it.
 
 **Illusion** Magic that alters perception — of the caster, of a target, or of reality itself. Illusion operates on the mind and the senses rather than the physical world directly.
 
@@ -363,6 +402,20 @@ Conjuration is the act of projecting one's Concept outward to reach another plan
 These other planes operate under entirely different rules than the material world. The beings that inhabit them are conscious, autonomous entities with their own agendas — not tools. Conjuration is therefore either an act of **force** — taking something from another plane against its will — or an act of **Contract** — forming an agreement with a being from that plane.
 
 **Golems** The one exception to naturally occurring Concepts is the **Golem** — an artificially created being given an empty Concept by its maker. Because empty Concepts do not occur naturally, creating one requires deliberately hollowing out or fabricating the metaphysical foundation of a living thing. This practice is considered one of the great taboos of the magical world, sitting at the intersection of Living Transmutation and Conjuration.
+
+---
+
+### Sub-Planes
+
+Sub-Planes are liminal, temporary pocket-realities — semi-autonomous spaces created for a specific purpose and dissolved once that purpose is served. Their creation draws on Conjuration and Enchantment together, and genuinely requires mastery of both, not merely an affinity for either. A Sub-Plane is typically anchored to the material world through a physical artifact and sustained by mana drawn from the Weave, sometimes requiring additional infusions to keep a longer-lived one stable. Because building an entire bounded reality means accounting for everything inside it at once, Sub-Planes are inherently unstable — prone to collapse if the anchor fails or the maintaining practitioner's attention lapses.
+
+### Time Travel
+
+Despite its reputation, time travel is not itself a Contract discipline — mechanically, it's closer to teleportation, displacing the traveler along time rather than space. What *is* bound by Contract is the set of rules that govern it: an agreement struck long before any living practitioner, which every time traveler obeys whether they know it or not. Travel forward is trivial by comparison and more reliably achieved through non-magical means. Travel backward instead forks a new timeline at the moment of arrival — the traveler is completely severed from the timeline they left, unable to affect it and unable to return to it. No one can travel earlier than their own moment of birth.
+
+The price for breaking natural law this way isn't calculated the way a Ritual's cost is — it isn't proportional, and it isn't predictable. Something is always taken: a limb, an organ, magic itself, a Blood Mark, a soul. There's no way to know in advance what will be claimed, or whether the traveler comes back whole at all.
+
+This isn't public knowledge, or even widely known academically — it survives in a handful of hidden lineages and private research, if it survives anywhere. As far as is documented, only one living practitioner, [[Caldwell Black]], currently understands and can perform it.
 
 ---
 
