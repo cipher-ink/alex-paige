@@ -3,6 +3,9 @@ Also just called the “Children”, they are an organization based around the m
 ### Founding
 It’s said that the first member of the children was Cain himself, bearing the [[Mark of Cain]] after the first murder was committed. It’s said that the mark gave him the knowledge of the cosmos, allowing him to see the “truth of the universe”. Through this, Cain realized that the [[Concepts|conecpt]] of [[Truth]] was the antithesis to free will and worked for his lifetime researching how to bring about the end of it.
 ### Symbol
+
+> ![[children_of_cain_logo.jpeg|148]]
+
 The Children mark themselves with a crude sigil: the outline of an eye, an iris, struck through by a single slash. It isn’t invented branding — it’s a direct copy of the [[Mark of Cain]] itself, which is a literal object: a small bead of cracked, ancient red stone, set into the bearer’s eye socket in place of the eye it replaces. The slash across the symbol copies the scar left by that replacement, not a flaw in the stone. [[Richter Stalworth]] adopted the design because it’s simply what the thing he now carries looks like — whatever deeper meaning it may once have held is lost on him, same as the rest of the Mark’s original purpose.
 
 Simple enough to etch into skin, wood, metal, or stone in a few strokes, which is precisely why it spread as the organization’s emblem rather than anything more elaborate.

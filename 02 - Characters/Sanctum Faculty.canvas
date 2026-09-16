@@ -7,7 +7,7 @@
 		{"id":"29ca21561c0ab517","type":"text","text":"### Faculty Uniform\n\n- **Navy shirt** (almost black, as you said) instead of white\n- **Crimson vest** with gold Sanctum crest\n- **Gold tie/cravat** (not crimson—this flips the student bow-tie and makes gold the accent)\n- **Navy mantle** (longer than students', trimmed in gold)\n- Black trousers/skirt (same as students)","x":-237,"y":-1200,"width":474,"height":316},
 		{"id":"1fb7dd578031a9cc","type":"text","text":"**Student Uniform (Girls)**\n\n- White collared shirt, tucked in\n- Crimson vest with gold-embroidered Sanctum (griffon) crest\n- Short mantle (to the small of the back) in matching crimson, trimmed in gold, with a hood at the back — closed by gold pins connected with three small chains\n- Black pleated skirt\n- Knee-high socks or stockings (student's choice)\n- Black shoes\n- Large red bow-tie\n\n**Student Uniform (Boys)**\n\n- White collared shirt, tucked in\n- Crimson vest with gold-embroidered Sanctum crest\n- Short mantle, same as above — crimson, gold trim, hood, gold pin-and-chain closure\n- Black trousers\n- Black shoes\n- Red tie (in place of the bow-tie)","x":-1040,"y":-1405,"width":679,"height":521},
 		{"id":"2503415c22898a70","type":"file","file":"99 - Meta/attatchments/Mr. Terrell.jpeg","x":-2320,"y":-800,"width":704,"height":943},
-		{"id":"16295828bc633775","x":-2320,"y":160,"width":704,"height":943,"type":"file","file":"99 - Meta/attatchments/thorne.jpeg"}
+		{"id":"16295828bc633775","type":"file","file":"99 - Meta/attatchments/thorne.jpeg","x":-2320,"y":160,"width":704,"height":943}
 	],
 	"edges":[]
 }
