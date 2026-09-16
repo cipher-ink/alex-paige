@@ -314,7 +314,7 @@ _Lighter blocks — filled in as far as current notes support; several are expli
 - **Established facts:**
     - **[[Alex Paige]]** — Hair silver/gray, cropped at the shoulders, messy, cannot be dyed. Eyes green.
     - **[[The Sanctum]]** — Symbol: a griffin. Colors: maroon and gold.[^16]
-    - **Children of Cain** — Dress: black robes with red highlights.
+    - **Children of Cain** — Symbol: a crude eye struck through by a slash, copied from the [[Mark of Cain]] itself. Dress: deep violet cloaks with silver trim (not black/red).
     - **[[Lore Bible#The Veil|The Veil]]** — Placed over non-magical people to prevent perceiving magic. Most children have one from birth, removed around ages 6–8. Can be artificially applied to someone not born with one. Weakens over time until it breaks entirely. **Once broken, it cannot be reapplied to that person — hard rule, no exceptions.**
 - **Open questions / unresolved threads** _(in the order they surface)_:
     1. What happened to Alex's mother and where is she?
