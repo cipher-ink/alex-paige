@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"id":"c270830a6f5cccb5","x":-360,"y":760,"width":400,"height":66,"type":"text","text":"# Evocation Crest"},
-		{"id":"dcfda7362f5abdcd","x":-360,"y":859,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_active_evocation.jpeg"},
-		{"id":"1a1c9c3d48de419f","x":80,"y":860,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_active_illusion.jpeg"},
+		{"id":"c270830a6f5cccb5","type":"text","text":"# Evocation Crest","x":-360,"y":760,"width":400,"height":66},
+		{"id":"dcfda7362f5abdcd","type":"file","file":"99 - Meta/attatchments/crest_active_evocation.jpeg","x":-360,"y":859,"width":400,"height":299},
+		{"id":"1a1c9c3d48de419f","type":"file","file":"99 - Meta/attatchments/crest_active_illusion.jpeg","x":80,"y":860,"width":400,"height":299},
 		{"id":"855e353844801865","type":"text","text":"# Illusion Crest","x":80,"y":760,"width":400,"height":66},
 		{"id":"1efdbc889098096a","type":"text","text":"# Enchantment Crest","x":80,"y":1213,"width":400,"height":66},
-		{"id":"6ab46109c90237b5","x":80,"y":1313,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_active_enchantment.jpeg"},
+		{"id":"6ab46109c90237b5","type":"file","file":"99 - Meta/attatchments/crest_active_enchantment.jpeg","x":80,"y":1313,"width":400,"height":299},
 		{"id":"a7b1633196c3c4d0","type":"text","text":"# Conjuration Crest","x":-360,"y":1213,"width":400,"height":66},
-		{"id":"d43724bfeb3e75f6","x":-360,"y":1313,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_active_conjuration.jpeg"},
-		{"id":"95bc7e66695df83a","x":80,"y":411,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_inactive.jpeg"},
-		{"id":"a9c8f7f019077586","x":-360,"y":411,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_design.jpeg"},
-		{"id":"85540067caaee431","x":860,"y":411,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_with_mark.jpeg"},
-		{"id":"c18f930d03d7886d","x":860,"y":764,"width":400,"height":299,"type":"file","file":"99 - Meta/attatchments/crest_active_with_makr.jpeg"},
-		{"id":"8e313d7a842bcfd0","x":520,"y":411,"width":300,"height":652,"type":"text","text":"# Mark of Cain\nThose crests that have been marked by the [[Mark of Cain]] belong to the [[Children of Cain]]. Their symbol – a crude eye with a slash – is etched and hidden in the design of the crest somewhere. The mark also gives the crests their characteristic red glow."}
+		{"id":"d43724bfeb3e75f6","type":"file","file":"99 - Meta/attatchments/crest_active_conjuration.jpeg","x":-360,"y":1313,"width":400,"height":299},
+		{"id":"95bc7e66695df83a","type":"file","file":"99 - Meta/attatchments/crest_inactive.jpeg","x":80,"y":411,"width":400,"height":299},
+		{"id":"a9c8f7f019077586","type":"file","file":"99 - Meta/attatchments/crest_design.jpeg","x":-360,"y":411,"width":400,"height":299},
+		{"id":"85540067caaee431","type":"file","file":"99 - Meta/attatchments/crest_with_mark.jpeg","x":860,"y":411,"width":400,"height":299},
+		{"id":"c18f930d03d7886d","type":"file","file":"99 - Meta/attatchments/crest_active_with_makr.jpeg","x":860,"y":764,"width":400,"height":299},
+		{"id":"8e313d7a842bcfd0","type":"text","text":"# Mark of Cain\nThose crests that have been marked by the [[Mark of Cain]] belong to the [[Children of Cain]]. Their symbol – a crude eye with a slash – is etched and hidden in the design of the crest somewhere. The mark also gives the crests their characteristic red glow.","x":520,"y":411,"width":300,"height":652}
 	],
 	"edges":[]
 }
