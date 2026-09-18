@@ -713,9 +713,11 @@ kanban-plugin: board
 - [ ] With that, Tristan uses a flame spell to melt the chains holding them to the ground, but they have no key to the cuffs. Trina states that she can undo the enchantment on the cuffs but it would take a minute or so.
 - [ ] Alex says to take off Lyla’s first since she can help them get out of here. Lyla states that she’s never shadow stepped like Thorne did with her powers, but Alex explains that he gains an understanding of their powers, so if he could that means she could to. And she might have to since they have someone that even Thorne seemed afraid of coming next.
 - [ ] Wyll begins going through the documents and states that he’s going to gather some of Thorne’s materials that might help them with curing him. Trina and Lyla are working to get her cuffs off. Leaving Alex and Tristan watching over Thorne. She stays there while he goes to look for something to tie him up, but they still converse.
-- [ ] Alex asks why he came back to help, and Tristan states that he’s not doing it for her all tsundere like. He simply can’t stand to see his fellow students in the SECOND ring suffer. He knew Daryn. He was a good kid. Wanted to be an officer when he graduated like his uncle. Alex asks if police officers have a magic division, to which Tristan scoffs and replies: “Well duh.”
-- [ ] Alex begins to talk back that she didn’t know magic even existed before 10 months ago, but is inturrupted when Tristan turns around and a terrified look comes on his face and her words are cut off by an arm swinging around her throat.
-- [ ] Thorne had been pretending and got around Alex before she could notice, now holding her hostage.
+- [ ] Alex asks why he came back to help, and Tristan states that he’s not doing it for her all tsundere like. He simply can’t stand to see his fellow students in the SECOND ring suffer. He knew Daryn. He was a good kid. Wanted to be an officer when he graduated like his uncle. Alex asks if police officers have a magic division, to which Tristan scoffs and replies “Well duh”
+- [ ] Alex knows he’s simply scared, but she chides him for joking at this moment. Thorne is right there–
+	
+	She looks down and he’s gone. Tristan yells her name when an arm suddenly wraps around her neck.
+- [ ] Thorne had been pretending and got around Alex before she could notice, now holding her hostage. Alex feels a small piercing pain on her cheek and feels the trickle of blood as Thorne cuts it. She can hear him lick his own claw and it sends a chill down her whole body as he states that he’s not done with them yet. He still needs their power before she gets here.
 - [ ] # Chapter 28
 
 
