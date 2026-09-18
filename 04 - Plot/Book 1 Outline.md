@@ -717,8 +717,9 @@ kanban-plugin: board
 - [ ] Alex knows he’s simply scared, but she chides him for joking at this moment. Thorne is right there–
 	
 	She looks down and he’s gone. Tristan yells her name when an arm suddenly wraps around her neck.
-- [ ] Thorne had been pretending and got around Alex before she could notice, now holding her hostage. Alex feels a small piercing pain on her cheek and feels the trickle of blood as Thorne cuts it. She can hear him lick his own claw and it sends a chill down her whole body as he states that he’s not done with them yet. He still needs their power before she gets here.
+- [ ] Thorne had been pretending and got around Alex before she could notice, now holding her hostage.
 - [ ] # Chapter 28
+- [ ] Thorne now has Alex held hostage. Wyll has run to the side and is trying to hide himself away to protect from his powers being taken. Tristan has summoned his shields, demanding for him to let Alex go.
 
 
 ## Extras
